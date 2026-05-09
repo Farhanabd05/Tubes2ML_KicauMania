@@ -1,5 +1,5 @@
 import numpy as np
-from denselayer import DenseLayer
+from dense import DenseLayer
 
 class DenseOutputLayer(DenseLayer):
     def __init__(self, units, vocab_size):
