@@ -2,7 +2,6 @@ import numpy as np
 
 
 class Flatten:
-
     def __init__(self):
         self.input_shape = None
 
