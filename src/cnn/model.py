@@ -15,7 +15,7 @@ class CNNModel:
 
         if len(keras_weighted) != len(scratch_weighted):
             raise ValueError(
-                f"Jumlah layer berbobot tidak cocok: "
+                f"Jumlah weighted layer tidak cocok: "
                 f"Keras={len(keras_weighted)}, Scratch={len(scratch_weighted)}"
             )
 
