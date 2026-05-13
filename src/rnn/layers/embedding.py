@@ -5,7 +5,7 @@ class EmbeddingLayer:
     def set_w(self, weights:list[list]):
         self.W_e = weights
 
-    def forward(self, words: list):
+    def forward(self, words):
         if self.W_e is None:
             raise ValueError("Bobot belum di-load!")
         

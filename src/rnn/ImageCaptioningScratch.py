@@ -3,6 +3,7 @@ from layers.dense_output import DenseOutputLayer
 from layers.dense_projection import DenseProjectionLayer
 from layers.embedding import EmbeddingLayer
 from layers.lstm import LSTMLayer
+from layers.rnn import RNNLayer
 
 class ImageCaptioningModel:
     def __init__(self, keras_model, text_util, is_lstm=True):
@@ -31,30 +32,39 @@ class ImageCaptioningModel:
         
         layer_idx = 1
         while True:
-            layer_name = f"LSTM_Layer_{layer_idx}" if self.is_lstm else f"RNN_Layer_{layer_idx}"
+            if self.is_lstm:
+                layer_name = f"LSTM_Layer_{layer_idx}"
+                LayerClass = LSTMLayer
+            else:
+                layer_name = f"RNN_Layer_{layer_idx}"
+                LayerClass = RNNLayer
+            
             try:
                 layer = keras_model.get_layer(layer_name)
                 weights = layer.get_weights()
                 
-                lstm = LSTMLayer()
-                lstm.set_w(
+                recurrent_unit = LayerClass()
+                
+                recurrent_unit.set_w(
                     units=layer.units,
                     kernel=weights[0],
                     recurrent_kernel=weights[1],
                     bias=weights[2]
                 )
-                self.lstm_layers.append(lstm)
+                
+                self.lstm_layers.append(recurrent_unit)
                 layer_idx += 1
-            except:
+            except ValueError:
                 break
         
         out_weights = keras_model.get_layer('Output_Layer').get_weights()
-        self.dense_output.set_weights(out_weights[0], out_weights[1])
+        self.dense_output.set_weights(out_weights[0], out_weights[1])        
     
     def reset_states(self):
-        for lstm in self.lstm_layers:
-            lstm.ht = np.zeros(lstm.units)
-            lstm.ct = np.zeros(lstm.units)
+        for layer in self.lstm_layers:
+            layer.ht = np.zeros(layer.units)
+            if self.is_lstm:
+                layer.ct = np.zeros(layer.units)
     
     def softmax(self, x):
         e_x = np.exp(x - np.max(x))
