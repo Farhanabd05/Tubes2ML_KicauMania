@@ -1,5 +1,8 @@
 import numpy as np
-from layers import EmbeddingLayer, DenseOutputLayer, DenseProjectionLayer, LSTMLayer
+from layers.dense_output import DenseOutputLayer
+from layers.dense_projection import DenseProjectionLayer
+from layers.embedding import EmbeddingLayer
+from layers.lstm import LSTMLayer
 
 class ImageCaptioningModel:
     def __init__(self, keras_model, text_util, is_lstm=True):
@@ -73,8 +76,7 @@ class ImageCaptioningModel:
         )[0]
         
         self.forward_step(x_minus1)
-        
-        start_token = self.text_util.word_to_index['<start>']
+        start_token = self.text_util.word_to_idx['start']
         current_token = start_token
         
         caption = []
@@ -86,10 +88,12 @@ class ImageCaptioningModel:
             
             next_token = np.argmax(probs)
             
-            if next_token == self.text_util.word_to_index['<end>']:
+            next_word = self.text_util.idx_to_word.get(next_token, "")
+
+            if not next_word or next_word == self.text_util.word_to_idx['end']:
                 break
-            
-            caption.append(self.text_util.index_to_word[next_token])
+
+            caption.append(next_word)
             current_token = next_token
         
         return ' '.join(caption)
