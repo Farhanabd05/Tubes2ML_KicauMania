@@ -27,7 +27,7 @@ class LSTMLayer:
         self.ct = np.zeros(units)
 
     def sigmoid(self, x):
-        return 1 / (1 + np.exp(-x))
+        return 1 / (1 + np.exp(-np.clip(x, -250, 250)))
 
     def forward(self, input_t):
         i = self.sigmoid(np.dot(input_t, self.Wxi) + np.dot(self.ht, self.Whhi) + self.bi)

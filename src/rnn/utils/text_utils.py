@@ -2,7 +2,6 @@ import re
 import os
 import json
 import numpy as np
-from tensorflow.keras.preprocessing.text import Tokenizer
 
 class CaptionPreprocessor:
     def __init__(self, sequence_length=35):
@@ -14,10 +13,8 @@ class CaptionPreprocessor:
     def load_captions(self, file_path):
         if not os.path.exists(file_path):
             raise FileNotFoundError(f"File {file_path} tidak ditemukan.")
-        with open(file_path, 'r') as f:
-            captions = f.readlines()
-            captions = [caption.lower() for caption in captions[1:]]
-        return captions
+        with open(file_path, "r", encoding="utf-8") as f:
+            return [caption.lower().strip() for caption in f.readlines()[1:]]
     
     def clean_text(self, text):
         text = re.sub(r'[^\w\s]', '', text)
@@ -30,22 +27,29 @@ class CaptionPreprocessor:
         idx_to_word_path = os.path.join(directory, "vocab_idx_to_word.json")
 
         if not force_build and os.path.exists(word_to_idx_path) and os.path.exists(idx_to_word_path):
-            with open(word_to_idx_path, 'r') as f:
+            with open(word_to_idx_path, "r", encoding="utf-8") as f:
                 self.word_to_idx = json.load(f)
-            with open(idx_to_word_path, 'r') as f:
-                self.idx_to_word = {int(k): v for k, v in json.load(f).items()} # JSON key selalu string
-            self.vocab_size = len(self.word_to_idx) + 1
+            with open(idx_to_word_path, "r", encoding="utf-8") as f:
+                self.idx_to_word = {int(k): v for k, v in json.load(f).items()}
+            self._ensure_special_tokens()
             return None
         
         captions_raw = self.load_captions(file_path)
-        cleaned = [f"<start> {self.clean_text(c.split(',')[1])} <end>" for c in captions_raw]
+        cleaned = [
+            f"<start> {self.clean_text(caption.split(',', 1)[1])} <end>"
+            for caption in captions_raw
+            if "," in caption
+        ]
 
-        tokenizer = Tokenizer(oov_token="<unk>")
-        tokenizer.fit_on_texts(cleaned)
-        
-        self.word_to_idx = tokenizer.word_index
-        self.idx_to_word = tokenizer.index_word
-        self.vocab_size = len(tokenizer.word_index) + 1
+        words = []
+        for caption in cleaned:
+            words.extend(caption.replace("<", "").replace(">", "").split())
+
+        unique_words = ["unk"] + sorted(set(words) - {"pad", "unk"})
+        self.word_to_idx = {"pad": 0}
+        self.word_to_idx.update({word: idx + 1 for idx, word in enumerate(unique_words)})
+        self.idx_to_word = {idx: word for word, idx in self.word_to_idx.items()}
+        self._ensure_special_tokens()
         
         self.save(directory) 
         return cleaned
@@ -55,8 +59,9 @@ class CaptionPreprocessor:
         mapping = {}
 
         for line in captions_raw:
-            parts = line.split(',')
-            if len(parts) < 2: continue
+            parts = line.split(",", 1)
+            if len(parts) < 2:
+                continue
             
             image_name = parts[0].strip()
             caption_text = f"<start> {self.clean_text(parts[1])} <end>"
@@ -70,8 +75,8 @@ class CaptionPreprocessor:
     def texts_to_sequences(self, captions):
         sequences = []
         for caption in captions:
-            words = caption.split()
-            seq = [self.word_to_idx.get(word, self.word_to_idx.get("<unk>")) for word in words]
+            words = caption.replace("<", "").replace(">", "").split()
+            seq = [self.word_to_idx.get(word, self.word_to_idx.get("unk")) for word in words]
             sequences.append(seq)
         return sequences
 
@@ -79,7 +84,7 @@ class CaptionPreprocessor:
         padded_sequences = []
         for seq in sequences:
             if len(seq) < self.sequence_length:
-                new_seq = seq + [0] * (self.sequence_length - len(seq))
+                new_seq = seq + [self.word_to_idx.get("pad", 0)] * (self.sequence_length - len(seq))
             else:
                 new_seq = seq[:self.sequence_length]
             padded_sequences.append(new_seq)
@@ -92,11 +97,25 @@ class CaptionPreprocessor:
         word_to_idx_path = os.path.join(directory, "vocab_word_to_idx.json")
         idx_to_word_path = os.path.join(directory, "vocab_idx_to_word.json")
 
-        with open(word_to_idx_path, 'w') as f:
+        with open(word_to_idx_path, "w", encoding="utf-8") as f:
             json.dump(self.word_to_idx, f, indent=4)
         
-        # Simpan idx_to_word
-        with open(idx_to_word_path, 'w') as f:
+        with open(idx_to_word_path, "w", encoding="utf-8") as f:
             json.dump(self.idx_to_word, f, indent=4)
             
         print(f"Vocabulary berhasil disimpan di folder: {directory}")
+
+    def _ensure_special_tokens(self):
+        if "pad" not in self.word_to_idx:
+            self.word_to_idx["pad"] = 0
+        if 0 not in self.idx_to_word:
+            self.idx_to_word[0] = "pad"
+
+        next_idx = max([int(v) for v in self.word_to_idx.values()], default=0) + 1
+        for token in ("unk", "start", "end"):
+            if token not in self.word_to_idx:
+                self.word_to_idx[token] = next_idx
+                self.idx_to_word[next_idx] = token
+                next_idx += 1
+
+        self.vocab_size = max(int(v) for v in self.word_to_idx.values()) + 1

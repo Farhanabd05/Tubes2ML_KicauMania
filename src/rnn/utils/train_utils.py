@@ -1,7 +1,7 @@
 import numpy as np
 
 class DataGenerator:
-    def __init__(self, mapping_data, image_features, vocab_size, sequence_length, batch_size=32):
+    def __init__(self, mapping_data, image_features, vocab_size=None, sequence_length=35, batch_size=32):
         self.mapping_data = mapping_data 
         self.image_features = image_features 
         self.img_keys = list(mapping_data.keys())
@@ -20,8 +20,8 @@ class DataGenerator:
                 X_img, X_txt, y_label = [], [], []
                 
                 for img_name in batch_keys:
-                    feature = self.image_features[img_name] # Ambil fitur CNN (2048,)
-                    sequences = self.mapping_data[img_name] # Ambil 5 caption (5, 35)
+                    feature = self.image_features[img_name]
+                    sequences = self.mapping_data[img_name]
                     
                     for seq in sequences:
                         input_seq = seq[:-1]
@@ -31,4 +31,4 @@ class DataGenerator:
                         X_txt.append(input_seq)
                         y_label.append(target_seq)
                 
-                yield [np.array(X_img), np.array(X_txt)], np.array(y_label)
+                yield (np.array(X_img), np.array(X_txt)), np.array(y_label)

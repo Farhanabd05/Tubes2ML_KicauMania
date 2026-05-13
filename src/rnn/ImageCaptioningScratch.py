@@ -1,9 +1,9 @@
 import numpy as np
-from layers.dense_output import DenseOutputLayer
-from layers.dense_projection import DenseProjectionLayer
-from layers.embedding import EmbeddingLayer
-from layers.lstm import LSTMLayer
-from layers.rnn import RNNLayer
+from pathlib import Path
+try:
+    from .layers import DenseOutputLayer, DenseProjectionLayer, EmbeddingLayer, LSTMLayer, RNNLayer
+except ImportError:
+    from layers import DenseOutputLayer, DenseProjectionLayer, EmbeddingLayer, LSTMLayer, RNNLayer
 
 class ImageCaptioningModel:
     def __init__(self, keras_model, text_util, is_lstm=True):
@@ -12,7 +12,7 @@ class ImageCaptioningModel:
         
         self.embedding = EmbeddingLayer()
         self.dense_projection = DenseProjectionLayer(2048, 256)
-        self.lstm_layers = [] 
+        self.recurrent_layers = []
         self.dense_output = DenseOutputLayer(256, text_util.vocab_size)
         
         self._load_weights(keras_model)
@@ -25,9 +25,9 @@ class ImageCaptioningModel:
                 break
 
         for layer in keras_model.layers:
-            if 'dense' in layer.name and 'Output_Layer' not in layer.name:
-                proj_weights = layer.get_weights()
-                self.dense_projection.set_weights(proj_weights[0], proj_weights[1])
+            weights = layer.get_weights()
+            if len(weights) == 2 and weights[0].shape == (2048, 256):
+                self.dense_projection.set_weights(weights[0], weights[1])
                 break
         
         layer_idx = 1
@@ -52,28 +52,28 @@ class ImageCaptioningModel:
                     bias=weights[2]
                 )
                 
-                self.lstm_layers.append(recurrent_unit)
+                self.recurrent_layers.append(recurrent_unit)
                 layer_idx += 1
             except ValueError:
                 break
         
-        out_weights = keras_model.get_layer('Output_Layer').get_weights()
+        out_weights = keras_model.get_layer("Output_Layer").get_weights()
         self.dense_output.set_weights(out_weights[0], out_weights[1])        
     
     def reset_states(self):
-        for layer in self.lstm_layers:
+        for layer in self.recurrent_layers:
             layer.ht = np.zeros(layer.units)
             if self.is_lstm:
                 layer.ct = np.zeros(layer.units)
     
     def softmax(self, x):
         e_x = np.exp(x - np.max(x))
-        return e_x / e_x.sum()
+        return e_x / np.sum(e_x)
     
     def forward_step(self, input_t):
         x = input_t
-        for lstm in self.lstm_layers:
-            x = lstm.forward(x)
+        for recurrent_layer in self.recurrent_layers:
+            x = recurrent_layer.forward(x)
         logits = self.dense_output.forward(x.reshape(1, -1))
         probs = self.softmax(logits[0])
         return probs
@@ -86,7 +86,8 @@ class ImageCaptioningModel:
         )[0]
         
         self.forward_step(x_minus1)
-        start_token = self.text_util.word_to_idx['start']
+        start_token = self._token_id("start")
+        end_token = self._token_id("end")
         current_token = start_token
         
         caption = []
@@ -98,12 +99,51 @@ class ImageCaptioningModel:
             
             next_token = np.argmax(probs)
             
-            next_word = self.text_util.idx_to_word.get(next_token, "")
+            next_word = self.text_util.idx_to_word.get(int(next_token), "")
 
-            if not next_word or next_word == self.text_util.word_to_idx['end']:
+            if next_token == end_token or next_word in ("", "end", "<end>"):
                 break
 
             caption.append(next_word)
             current_token = next_token
         
         return ' '.join(caption)
+
+    def generate_caption_from_image(
+        self,
+        image_path,
+        keras_encoder,
+        target_size=(299, 299),
+        preprocess_fn=None,
+        max_len=35,
+    ):
+        feature = self.extract_feature_from_image(
+            image_path=image_path,
+            keras_encoder=keras_encoder,
+            target_size=target_size,
+            preprocess_fn=preprocess_fn,
+        )
+        return self.generate_caption(feature, max_len=max_len)
+
+    @staticmethod
+    def extract_feature_from_image(image_path, keras_encoder, target_size=(299, 299), preprocess_fn=None):
+        from PIL import Image
+
+        image_path = Path(image_path)
+        img = Image.open(image_path).convert("RGB").resize(target_size)
+        arr = np.asarray(img, dtype=np.float32)
+        batch = np.expand_dims(arr, axis=0)
+        if preprocess_fn is not None:
+            batch = preprocess_fn(batch)
+        else:
+            batch = batch / 255.0
+        feature = keras_encoder.predict(batch, verbose=0)
+        return feature.reshape(feature.shape[0], -1)[0]
+
+    def _token_id(self, token):
+        token_id = self.text_util.word_to_idx.get(token)
+        if token_id is None:
+            token_id = self.text_util.word_to_idx.get(f"<{token}>")
+        if token_id is None:
+            raise KeyError(f"Token '{token}' tidak ada di vocabulary.")
+        return token_id
