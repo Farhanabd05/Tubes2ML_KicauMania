@@ -106,10 +106,13 @@ class CaptionPreprocessor:
         print(f"Vocabulary berhasil disimpan di folder: {directory}")
 
     def _ensure_special_tokens(self):
-        if "pad" not in self.word_to_idx:
-            self.word_to_idx["pad"] = 0
-        if 0 not in self.idx_to_word:
-            self.idx_to_word[0] = "pad"
+        for token in ("unk", "start", "end"):
+            legacy_token = f"<{token}>"
+            if token not in self.word_to_idx and legacy_token in self.word_to_idx:
+                self.word_to_idx[token] = int(self.word_to_idx[legacy_token])
+
+        self.word_to_idx["pad"] = 0
+        self.idx_to_word[0] = "pad"
 
         next_idx = max([int(v) for v in self.word_to_idx.values()], default=0) + 1
         for token in ("unk", "start", "end"):

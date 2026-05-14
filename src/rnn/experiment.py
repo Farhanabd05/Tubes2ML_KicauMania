@@ -1,12 +1,11 @@
 import ast
-import json
 import time
-from pathlib import Path
 
 import numpy as np
 
 from .ImageCaptioningScratch import ImageCaptioningModel
 from .modeling import build_caption_model, greedy_decode_keras
+from .paths import RnnPaths, find_repo_root
 from .utils.text_utils import CaptionPreprocessor
 
 
@@ -20,34 +19,27 @@ VARIATIONS = [
 ]
 
 
-def find_repo_root(start=None):
-    cwd = Path(start or Path.cwd()).resolve()
-    for path in [cwd, *cwd.parents]:
-        if (path / "src" / "rnn").exists() and (path / "RNN_dataset").exists():
-            return path
-    return cwd
-
-
 def load_feature_map(repo_root):
-    feature_dir = Path(repo_root) / "images_feature"
-    features = np.load(feature_dir / "features.npy")
-    names = np.load(feature_dir / "image_names.npy", allow_pickle=True)
+    paths = RnnPaths.from_root(repo_root)
+    features = np.load(paths.features_file)
+    names = np.load(paths.feature_names_file, allow_pickle=True)
     return {str(name): features[idx] for idx, name in enumerate(names)}
 
 
 def load_text_util(repo_root, sequence_length=35, force_build=False):
+    paths = RnnPaths.from_root(repo_root)
     text_util = CaptionPreprocessor(sequence_length=sequence_length)
-    vocab_dir = Path(repo_root) / "src" / "rnn" / "output"
     text_util.build_vocabulary(
-        str(Path(repo_root) / "RNN_dataset" / "captions.txt"),
+        str(paths.captions_file),
         force_build=force_build,
-        directory=str(vocab_dir),
+        directory=str(paths.vocab_dir),
     )
     return text_util
 
 
 def load_caption_sequences(repo_root, text_util):
-    mapping = text_util.get_image_to_captions_mapping(str(Path(repo_root) / "RNN_dataset" / "captions.txt"))
+    paths = RnnPaths.from_root(repo_root)
+    mapping = text_util.get_image_to_captions_mapping(str(paths.captions_file))
     sequence_mapping = {}
     for image_name, captions in mapping.items():
         sequence_mapping[image_name] = text_util.pad_sequences(text_util.texts_to_sequences(captions))
@@ -60,11 +52,7 @@ def split_image_keys(keys, train_size=6000, val_size=1000):
 
 
 def weight_path(repo_root, model_type, variation_name, layers, hidden_state):
-    prefix = "LSTM" if model_type == "LSTM" else "SimpleRNN"
-    layer_tag = {1: "Shallow", 2: "Deep", 3: "VeryDeep"}.get(int(layers), f"L{layers}")
-    size_tag = "Small" if int(hidden_state) == 128 else "Mid" if int(hidden_state) == 256 else "Large"
-    filename = f"{prefix}_{layer_tag}_{size_tag}_L{int(layers)}_H{int(hidden_state)}.h5"
-    return Path(repo_root) / "artifacts" / "rnn" / "weights" / filename
+    return RnnPaths.from_root(repo_root).weight_file(model_type, layers, hidden_state)
 
 
 def make_keras_model(repo_root, text_util, model_type, variation_name, layers, hidden_state):
@@ -82,18 +70,13 @@ def make_keras_model(repo_root, text_util, model_type, variation_name, layers, h
 
 def score_caption(references, hypothesis):
     from nltk.translate.bleu_score import SmoothingFunction, sentence_bleu
+    from nltk.translate.meteor_score import meteor_score
 
     ref_tokens = [clean_generated_caption(ref).split() for ref in references]
     hyp_tokens = clean_generated_caption(hypothesis).split()
     smoothing = SmoothingFunction().method1
     bleu_4 = sentence_bleu(ref_tokens, hyp_tokens, weights=(0.25, 0.25, 0.25, 0.25), smoothing_function=smoothing)
-
-    try:
-        from nltk.translate.meteor_score import meteor_score
-
-        meteor = meteor_score(ref_tokens, hyp_tokens)
-    except Exception:
-        meteor = np.nan
+    meteor = meteor_score(ref_tokens, hyp_tokens)
 
     return bleu_4, meteor
 
@@ -131,21 +114,20 @@ def evaluate_decoder(model, image_keys, image_features, reference_mapping, decod
 
 def evaluate_all_variations(repo_root=None, split="test", limit=None, max_len=35):
     pd = _pd()
-    repo_root = find_repo_root(repo_root)
-    text_util = load_text_util(repo_root)
-    reference_mapping, _ = load_caption_sequences(repo_root, text_util)
-    image_features = load_feature_map(repo_root)
+    paths = RnnPaths.from_root(repo_root)
+    text_util = load_text_util(paths.root)
+    reference_mapping, _ = load_caption_sequences(paths.root, text_util)
+    image_features = load_feature_map(paths.root)
     _, val_keys, test_keys = split_image_keys([k for k in reference_mapping if k in image_features])
     keys = test_keys if split == "test" else val_keys
 
-    history_path = Path(repo_root) / "src" / "rnn" / "hasil_variasi_model.csv"
-    history = pd.read_csv(history_path)
+    history = pd.read_csv(paths.training_history_file)
     result_rows = []
     detail_frames = []
 
     for row in history.to_dict("records"):
         model = make_keras_model(
-            repo_root,
+            paths.root,
             text_util,
             row["model_type"],
             row["variation_name"],
@@ -184,34 +166,89 @@ def evaluate_all_variations(repo_root=None, split="test", limit=None, max_len=35
 
     results = pd.DataFrame(result_rows)
     details = pd.concat(detail_frames, ignore_index=True) if detail_frames else pd.DataFrame()
-    output_dir = Path(repo_root) / "artifacts" / "rnn" / "results"
-    output_dir.mkdir(parents=True, exist_ok=True)
-    results.to_csv(output_dir / "scratch_variation_eval.csv", index=False)
-    details.to_csv(output_dir / "scratch_caption_details.csv", index=False)
+    paths.results_dir.mkdir(parents=True, exist_ok=True)
+    results.to_csv(paths.result_file("scratch_variation_eval.csv"), index=False)
+    details.to_csv(paths.result_file("scratch_caption_details.csv"), index=False)
     return results, details
+
+
+def refresh_scratch_caption_artifacts(repo_root=None):
+    pd = _pd()
+    paths = RnnPaths.from_root(repo_root)
+    detail_path = paths.result_file("scratch_caption_details.csv")
+    if not detail_path.exists():
+        raise FileNotFoundError(f"Caption detail artifact tidak ditemukan: {detail_path}")
+
+    text_util = load_text_util(paths.root)
+    reference_mapping, _ = load_caption_sequences(paths.root, text_util)
+    details = pd.read_csv(detail_path)
+    required_columns = {"model_type", "variation_name", "image_name", "generated_caption"}
+    missing_columns = required_columns.difference(details.columns)
+    if missing_columns:
+        raise ValueError(f"Kolom wajib tidak ada di {detail_path}: {sorted(missing_columns)}")
+
+    details["generated_caption"] = details["generated_caption"].map(clean_generated_caption)
+    scores = details.apply(
+        lambda row: score_caption(reference_mapping[row["image_name"]], row["generated_caption"]),
+        axis=1,
+    )
+    details["bleu_4"] = [score[0] for score in scores]
+    details["meteor"] = [score[1] for score in scores]
+    details.to_csv(detail_path, index=False)
+
+    metrics = (
+        details.groupby(["model_type", "variation_name"], as_index=False)
+        .agg(scratch_bleu_4=("bleu_4", "mean"), scratch_meteor=("meteor", "mean"))
+    )
+
+    summary_path = paths.result_file("scratch_variation_eval.csv")
+    if summary_path.exists():
+        summary = pd.read_csv(summary_path)
+        summary = summary.drop(columns=["scratch_bleu_4", "scratch_meteor"], errors="ignore")
+        summary = summary.merge(metrics, on=["model_type", "variation_name"], how="left")
+        ordered_columns = [
+            "model_type",
+            "variation_name",
+            "layers",
+            "hidden_state",
+            "scratch_bleu_4",
+            "scratch_meteor",
+            "scratch_total_time_sec",
+            "scratch_avg_time_sec",
+            "training_time_sec",
+            "final_loss",
+            "final_val_loss",
+        ]
+        summary = summary[[column for column in ordered_columns if column in summary.columns]]
+    else:
+        history = pd.read_csv(paths.training_history_file)
+        summary = history.merge(metrics, on=["model_type", "variation_name"], how="left")
+
+    summary.to_csv(summary_path, index=False)
+    return summary, details
 
 
 def compare_best_keras_vs_scratch(repo_root=None, split="test", limit=None, max_len=35):
     pd = _pd()
-    repo_root = find_repo_root(repo_root)
-    text_util = load_text_util(repo_root)
-    reference_mapping, _ = load_caption_sequences(repo_root, text_util)
-    image_features = load_feature_map(repo_root)
+    paths = RnnPaths.from_root(repo_root)
+    text_util = load_text_util(paths.root)
+    reference_mapping, _ = load_caption_sequences(paths.root, text_util)
+    image_features = load_feature_map(paths.root)
     _, val_keys, test_keys = split_image_keys([k for k in reference_mapping if k in image_features])
     keys = test_keys if split == "test" else val_keys
 
-    eval_path = Path(repo_root) / "artifacts" / "rnn" / "results" / "scratch_variation_eval.csv"
+    eval_path = paths.result_file("scratch_variation_eval.csv")
     if eval_path.exists():
         variation_eval = pd.read_csv(eval_path)
     else:
-        variation_eval, _ = evaluate_all_variations(repo_root, split=split, limit=limit, max_len=max_len)
+        variation_eval, _ = evaluate_all_variations(paths.root, split=split, limit=limit, max_len=max_len)
 
     best_rows = variation_eval.sort_values(["model_type", "scratch_bleu_4"], ascending=[True, False]).groupby("model_type").head(1)
     rows = []
 
     for best in best_rows.to_dict("records"):
         keras_model = make_keras_model(
-            repo_root,
+            paths.root,
             text_util,
             best["model_type"],
             best["variation_name"],
@@ -247,26 +284,25 @@ def compare_best_keras_vs_scratch(repo_root=None, split="test", limit=None, max_
         )
 
     comparison = pd.DataFrame(rows)
-    output_dir = Path(repo_root) / "artifacts" / "rnn" / "results"
-    output_dir.mkdir(parents=True, exist_ok=True)
-    comparison.to_csv(output_dir / "keras_vs_scratch.csv", index=False)
+    paths.results_dir.mkdir(parents=True, exist_ok=True)
+    comparison.to_csv(paths.result_file("keras_vs_scratch.csv"), index=False)
     return comparison
 
 
 def max_length_sweep(repo_root=None, lengths=(10, 20, 35), split="test", limit=None):
     pd = _pd()
-    repo_root = find_repo_root(repo_root)
-    base = compare_best_keras_vs_scratch(repo_root, split=split, limit=limit, max_len=max(lengths))
+    paths = RnnPaths.from_root(repo_root)
+    base = compare_best_keras_vs_scratch(paths.root, split=split, limit=limit, max_len=max(lengths))
     best = base.sort_values(["bleu_4", "avg_time_sec"], ascending=[False, True]).iloc[0]
 
-    text_util = load_text_util(repo_root)
-    reference_mapping, _ = load_caption_sequences(repo_root, text_util)
-    image_features = load_feature_map(repo_root)
+    text_util = load_text_util(paths.root)
+    reference_mapping, _ = load_caption_sequences(paths.root, text_util)
+    image_features = load_feature_map(paths.root)
     _, val_keys, test_keys = split_image_keys([k for k in reference_mapping if k in image_features])
     keys = test_keys if split == "test" else val_keys
 
     keras_model = make_keras_model(
-        repo_root,
+        paths.root,
         text_util,
         best["model_type"],
         best["variation_name"],
@@ -297,23 +333,22 @@ def max_length_sweep(repo_root=None, lengths=(10, 20, 35), split="test", limit=N
         )
 
     sweep = pd.DataFrame(rows)
-    output_dir = Path(repo_root) / "artifacts" / "rnn" / "results"
-    output_dir.mkdir(parents=True, exist_ok=True)
-    sweep.to_csv(output_dir / "max_length_sweep.csv", index=False)
+    paths.results_dir.mkdir(parents=True, exist_ok=True)
+    sweep.to_csv(paths.result_file("max_length_sweep.csv"), index=False)
     return sweep
 
 
 def qualitative_samples(repo_root=None, limit=None, n_per_bucket=4):
     pd = _pd()
-    repo_root = find_repo_root(repo_root)
-    detail_path = Path(repo_root) / "artifacts" / "rnn" / "results" / "scratch_caption_details.csv"
+    paths = RnnPaths.from_root(repo_root)
+    detail_path = paths.result_file("scratch_caption_details.csv")
     if not detail_path.exists():
-        _, details = evaluate_all_variations(repo_root, limit=limit)
+        _, details = evaluate_all_variations(paths.root, limit=limit)
     else:
         details = pd.read_csv(detail_path)
 
-    text_util = load_text_util(repo_root)
-    reference_mapping, _ = load_caption_sequences(repo_root, text_util)
+    text_util = load_text_util(paths.root)
+    reference_mapping, _ = load_caption_sequences(paths.root, text_util)
     best_by_type = (
         details.groupby(["model_type", "variation_name"])["bleu_4"]
         .mean()
@@ -343,16 +378,15 @@ def qualitative_samples(repo_root=None, limit=None, n_per_bucket=4):
     samples = pd.concat(buckets, ignore_index=True).drop_duplicates("image_name").head(10)
     samples["ground_truth"] = samples["image_name"].map(lambda name: " | ".join(reference_mapping.get(name, [])[:5]))
 
-    output_dir = Path(repo_root) / "artifacts" / "rnn" / "results"
-    output_dir.mkdir(parents=True, exist_ok=True)
-    samples.to_csv(output_dir / "qualitative_samples.csv", index=False)
+    paths.results_dir.mkdir(parents=True, exist_ok=True)
+    samples.to_csv(paths.result_file("qualitative_samples.csv"), index=False)
     return samples
 
 
 def load_training_history(repo_root=None):
     pd = _pd()
-    repo_root = find_repo_root(repo_root)
-    history = pd.read_csv(Path(repo_root) / "src" / "rnn" / "hasil_variasi_model.csv")
+    paths = RnnPaths.from_root(repo_root)
+    history = pd.read_csv(paths.training_history_file)
     for column in ("history_loss", "history_val_loss"):
         history[column] = history[column].apply(ast.literal_eval)
     return history
@@ -360,11 +394,13 @@ def load_training_history(repo_root=None):
 
 def write_analysis_summary(repo_root=None):
     pd = _pd()
-    repo_root = find_repo_root(repo_root)
-    result_dir = Path(repo_root) / "artifacts" / "rnn" / "results"
-    variation = pd.read_csv(result_dir / "scratch_variation_eval.csv") if (result_dir / "scratch_variation_eval.csv").exists() else pd.DataFrame()
-    comparison = pd.read_csv(result_dir / "keras_vs_scratch.csv") if (result_dir / "keras_vs_scratch.csv").exists() else pd.DataFrame()
-    max_len = pd.read_csv(result_dir / "max_length_sweep.csv") if (result_dir / "max_length_sweep.csv").exists() else pd.DataFrame()
+    paths = RnnPaths.from_root(repo_root)
+    variation_path = paths.result_file("scratch_variation_eval.csv")
+    comparison_path = paths.result_file("keras_vs_scratch.csv")
+    max_len_path = paths.result_file("max_length_sweep.csv")
+    variation = pd.read_csv(variation_path) if variation_path.exists() else pd.DataFrame()
+    comparison = pd.read_csv(comparison_path) if comparison_path.exists() else pd.DataFrame()
+    max_len = pd.read_csv(max_len_path) if max_len_path.exists() else pd.DataFrame()
 
     lines = ["# RNN/LSTM Experiment Summary", ""]
     if not variation.empty:
@@ -383,8 +419,8 @@ def write_analysis_summary(repo_root=None):
         ]
     )
 
-    result_dir.mkdir(parents=True, exist_ok=True)
-    path = result_dir / "analysis_summary.md"
+    paths.results_dir.mkdir(parents=True, exist_ok=True)
+    path = paths.result_file("analysis_summary.md")
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return path
 

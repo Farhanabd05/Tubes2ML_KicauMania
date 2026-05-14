@@ -1,6 +1,6 @@
 
 import numpy as np
-from initializer import init_normal, init_uniform, init_zero, init_xavier, init_he
+from src.initializer import init_normal, init_uniform, init_zero, init_xavier, init_he
 
 
 class DenseLayer:

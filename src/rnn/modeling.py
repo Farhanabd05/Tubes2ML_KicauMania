@@ -1,5 +1,23 @@
+def drop_image_timestep_layer(name="Drop_Image_Timestep"):
+    from tensorflow.keras.layers import Layer
+
+    class DropImageTimestep(Layer):
+        def __init__(self, **kwargs):
+            super().__init__(**kwargs)
+            self.supports_masking = True
+
+        def call(self, inputs):
+            return inputs[:, 1:, :]
+
+        def compute_mask(self, inputs, mask=None):
+            if mask is None:
+                return None
+            return mask[:, 1:]
+
+    return DropImageTimestep(name=name)
+
+
 def build_caption_model(is_lstm: bool, layers: int, hidden_state: int, vocab_size: int, sequence_length: int = 35):
-    import tensorflow as tf
     from tensorflow.keras.layers import Concatenate, Dense, Embedding, Input, LSTM, Masking, Reshape, SimpleRNN
     from tensorflow.keras.models import Model
 
@@ -28,7 +46,7 @@ def build_caption_model(is_lstm: bool, layers: int, hidden_state: int, vocab_siz
             name=f"{prefix}_Layer_{idx + 1}",
         )(x)
 
-    x = tf.keras.layers.Lambda(lambda t: t[:, 1:, :], name="Drop_Image_Timestep")(x)
+    x = drop_image_timestep_layer(name="Drop_Image_Timestep")(x)
     output = Dense(vocab_size, activation="softmax", name="Output_Layer")(x)
 
     model = Model(inputs=[image_input, caption_input], outputs=output)
@@ -42,6 +60,8 @@ def build_caption_model(is_lstm: bool, layers: int, hidden_state: int, vocab_siz
 def greedy_decode_keras(keras_model, image_feature, text_util, max_len=35):
     import numpy as np
 
+    stop_tokens = {"", "pad", "<pad>", "end", "<end>"}
+    skip_tokens = {"unk", "<unk>", "start", "<start>"}
     start_token = text_util.word_to_idx.get("start", text_util.word_to_idx.get("<start>"))
     end_token = text_util.word_to_idx.get("end", text_util.word_to_idx.get("<end>"))
     if start_token is None or end_token is None:
@@ -56,10 +76,11 @@ def greedy_decode_keras(keras_model, image_feature, text_util, max_len=35):
         next_token = int(np.argmax(probs[0, step]))
         next_word = text_util.idx_to_word.get(next_token, "")
 
-        if next_token == end_token or next_word in ("", "end", "<end>", "pad"):
+        if next_token == end_token or next_word in stop_tokens:
             break
 
-        words.append(next_word)
+        if next_word not in skip_tokens:
+            words.append(next_word)
         if step + 1 < text_util.sequence_length:
             input_seq[0, step + 1] = next_token
 

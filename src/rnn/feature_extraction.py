@@ -2,6 +2,7 @@ from pathlib import Path
 
 import numpy as np
 from PIL import Image
+from .paths import RnnPaths
 
 
 def build_inception_encoder():
@@ -63,3 +64,8 @@ def extract_and_save_features(image_dir, output_dir, batch_size=32, force=False)
     np.save(features_path, features)
     np.save(names_path, names)
     return features, names
+
+
+def extract_and_save_repo_features(repo_root=None, batch_size=32, force=False):
+    paths = RnnPaths.from_root(repo_root)
+    return extract_and_save_features(paths.image_dir, paths.feature_dir, batch_size=batch_size, force=force)
