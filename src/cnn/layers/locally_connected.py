@@ -14,12 +14,18 @@ class LocallyConnected2D:
 
     def load_weights(self, keras_layer) -> None:
         weights = keras_layer.get_weights()
-        self.kernel = np.array(weights[0])  
-        self.bias   = np.array(weights[1])  
+        kernel_raw = np.array(weights[0]) 
+        bias_raw   = np.array(weights[1])
 
         cfg = keras_layer.get_config()
         ks = cfg['kernel_size']
         self.kernel_size = (ks[0], ks[1]) if hasattr(ks, '__len__') else (ks, ks)
+
+        self.kernel = kernel_raw 
+        
+        # (H_out, W_out, C_out) -> (H_out*W_out, C_out)
+        H_out, W_out, C_out = bias_raw.shape
+        self.bias = bias_raw.reshape(H_out * W_out, C_out)
 
     def forward(self, inputs: np.ndarray) -> np.ndarray:
         is_batched = len(inputs.shape) == 4
