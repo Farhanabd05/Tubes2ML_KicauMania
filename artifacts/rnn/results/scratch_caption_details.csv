@@ -1,0 +1,1201 @@
+architecture,model_type,variation_name,image_name,generated_caption,bleu_4,meteor
+context_v2,SimpleRNN,Shallow_Small,2736508369_fd9ff0b42f.jpg,a man in a red shirt is playing in the ball,0.269855346668251,0.19801980198019806
+context_v2,SimpleRNN,Shallow_Small,1093737381_b313cd49ff.jpg,a man in a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a,0.016373682488441264,0.15086206896551724
+context_v2,SimpleRNN,Shallow_Small,3412249548_00820fc4ca.jpg,a man in a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a,0.014558491217854977,0.16129032258064516
+context_v2,SimpleRNN,Shallow_Small,3380072636_4cd59385fd.jpg,a man in a red ball,0.05271202712688637,0.20833333333333331
+context_v2,SimpleRNN,Shallow_Small,3501083764_cf592292a6.jpg,a man in a large large large large large man in a large large large large large man in a large large large large large man in a large large large large large man,0.08422109323240742,0.22410833492275414
+context_v2,SimpleRNN,Shallow_Small,2911919938_6bb6587a36.jpg,a young boy is jumping into a blue shirt is jumping into a blue shirt is jumping into a blue shirt is jumping into a blue shirt is jumping into a blue shirt is,0.0077426364109627836,0.189873417721519
+context_v2,SimpleRNN,Shallow_Small,3621717946_d96f8a6012.jpg,a dog is running in the water,0.04049515890265692,0.2531645569620253
+context_v2,SimpleRNN,Shallow_Small,3228069008_edb2961fc4.jpg,a dog is running on a black dog in a black dog in a black dog in a black dog in a black dog in a black dog in a black dog in a,0.03832010391923205,0.23584905660377364
+context_v2,SimpleRNN,Shallow_Small,3494394662_3edfd4a34c.jpg,a man in a red shirt and a black and a woman in a red shirt and a black and a woman in a red shirt and a black and a woman in a,0.022395634728706686,0.16556291390728478
+context_v2,SimpleRNN,Shallow_Small,3729405438_6e79077ab2.jpg,a man is riding a skateboard,0.08690744034581972,0.22417153996101363
+context_v2,SimpleRNN,Shallow_Small,2868324804_5cc8030484.jpg,a man in a red shirt is playing in a red shirt is playing in a red shirt is playing in a red shirt is playing in a red shirt is playing in a,0.012813098990837714,0.30355097365406647
+context_v2,SimpleRNN,Shallow_Small,2448393373_80c011d301.jpg,a man in a red shirt is jumping on a red shirt is jumping on a red shirt is jumping on a red shirt is jumping on a red shirt is jumping on a,0.008186841244220632,0.125
+context_v2,SimpleRNN,Shallow_Small,3052196390_c59dd24ca8.jpg,a boy is jumping in the water,0.043472087194499145,0.24590163934426232
+context_v2,SimpleRNN,Shallow_Small,2247192427_5e106f24a9.jpg,a man in a red player in a red player in a red player in a red player in a red player in a red player in a red player in a red player,0.006510755202591488,0.07518796992481203
+context_v2,SimpleRNN,Shallow_Small,2244551043_21b8cca866.jpg,a man in a red shirt and a woman in a red shirt is sitting on a picture,0.02872495348091206,0.10101010101010102
+context_v2,SimpleRNN,Shallow_Small,3014080715_f4f0dbb56e.jpg,a black dog is running in the snow,0.06500593260343691,0.32206632653061223
+context_v2,SimpleRNN,Shallow_Small,3244734844_c318c29c23.jpg,a man is jumping on a skateboard,0.08783602619713961,0.5174180327868853
+context_v2,SimpleRNN,Shallow_Small,3421928157_69a325366f.jpg,a man in a red shirt is riding a wave,0.04809182765844818,0.18382352941176472
+context_v2,SimpleRNN,Shallow_Small,3572346664_e1e6c77f11.jpg,a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.013768570909032773,0.2060931899641577
+context_v2,SimpleRNN,Shallow_Small,3132760860_3e743a935d.jpg,a man is jumping over a red shirt is jumping over a red shirt is jumping over a red shirt is jumping over a red shirt is jumping over a red shirt is jumping,0.0077426364109627836,0.20902317880794707
+context_v2,SimpleRNN,Shallow_Small,2148916767_644ea6a7fa.jpg,a black dog is running in the snow,0.20205155046766235,0.7806451612903227
+context_v2,SimpleRNN,Shallow_Small,2998024845_1529c11694.jpg,a man is riding a bike,0.13512001548070346,0.17543859649122806
+context_v2,SimpleRNN,Shallow_Small,2613209320_edf6a2b7e9.jpg,a dog is running in the water,0.1155987114790698,0.5357142857142857
+context_v2,SimpleRNN,Shallow_Small,745966757_6d16dfad8f.jpg,a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt,0.014558491217854977,0.12096774193548387
+context_v2,SimpleRNN,Shallow_Small,1998457059_c9ac9a1e1a.jpg,a man in a wave,0.09057365499736145,0.16269329896907217
+context_v2,SimpleRNN,Shallow_Small,503090187_8758ab5680.jpg,a woman in a woman in a red shirt is standing in a red shirt is standing in a red shirt is standing in a red shirt is standing in a red shirt is,0.0077426364109627836,0.13043478260869565
+context_v2,SimpleRNN,Shallow_Small,3627679667_0e3de9fc90.jpg,a man in a wave,0.16068568378893033,0.37500000000000006
+context_v2,SimpleRNN,Shallow_Small,516214924_c2a4364cb3.jpg,a dog is running in a black dog in a black dog in a black dog in a black dog in a black dog in a black dog in a black dog in a,0.013768570909032773,0.22727272727272727
+context_v2,SimpleRNN,Shallow_Small,3119696225_b289efaec8.jpg,a man in a large large large large large large large large large large large large large large large large large large large large large man in a large lake,0.008830895300928163,0.1470588235294118
+context_v2,SimpleRNN,Shallow_Small,3405113041_4b72c24801.jpg,a black dog is jumping through the water,0.07386099955930606,0.4179775280898876
+context_v2,SimpleRNN,Shallow_Small,3315033940_e91f87b7f2.jpg,a man in a red is jumping through the water,0.13747081017605653,0.5859375
+context_v2,SimpleRNN,Shallow_Small,791338571_7f38510bf7.jpg,a black and white dog is running in a black and white dog is running in a black and white dog is running in a black and white dog is running in a black,0.018120458368871713,0.2664930555555555
+context_v2,SimpleRNN,Shallow_Small,1332208215_fa824f6659.jpg,a man in a red shirt is sitting on a street,0.13193849171325928,0.45299145299145305
+context_v2,SimpleRNN,Shallow_Small,3399944164_ec24123945.jpg,a girl in a red shirt is sitting on a red and white and white and white and white and white and white and white and white and white and white and white and,0.03946524550197028,0.23250000000000004
+context_v2,SimpleRNN,Shallow_Small,2696394827_7342ced36f.jpg,a dog is running through the water,0.10445522730720382,0.39952531645569617
+context_v2,SimpleRNN,Shallow_Small,2427558437_3e839056d7.jpg,a dog is running in the snow,0.037684991644924185,0.14150943396226415
+context_v2,SimpleRNN,Shallow_Small,2086678529_b3301c2d71.jpg,a young girl in a red shirt is holding a blue shirt is holding a blue shirt is holding a blue shirt is holding a blue shirt is holding a blue shirt is holding,0.047361001177291945,0.32538659793814434
+context_v2,SimpleRNN,Shallow_Small,2472574160_8ce233f396.jpg,a young girl in a red shirt is sitting on a small girl in a red shirt is sitting on a small girl in a red shirt is sitting on a small girl in,0.020053583653512706,0.3377407300948549
+context_v2,SimpleRNN,Shallow_Small,413737417_b0a8b445e9.jpg,a man is standing on a mountain,0.043472087194499145,0.14285714285714285
+context_v2,SimpleRNN,Shallow_Small,3690425778_3b390b3ea5.jpg,a man in a blue shirt is jumping on a lake,0.12278260149096115,0.3054794520547945
+context_v2,SimpleRNN,Shallow_Small,950273886_88c324e663.jpg,a man is climbing a rock,0.12909944487358058,0.5717948717948719
+context_v2,SimpleRNN,Shallow_Small,2886411666_72d8b12ce4.jpg,a dog is running through the grass,0.34996355115805833,0.8412698412698414
+context_v2,SimpleRNN,Shallow_Small,909808296_23c427022d.jpg,a dog is running through a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog,0.018120458368871713,0.24635761589403976
+context_v2,SimpleRNN,Shallow_Small,2180356743_b3a3c9a7f6.jpg,a man in a red shirt and a black and white and white and white and white and white and white and white and white and white and white and white and white and,0.014558491217854977,0.13245033112582785
+context_v2,SimpleRNN,Shallow_Small,3640109324_3ce89e4d1a.jpg,a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.0077426364109627836,0.09433962264150943
+context_v2,SimpleRNN,Shallow_Small,481827288_a688be7913.jpg,a dog is running in the water,0.17567205239427922,0.7934426229508196
+context_v2,SimpleRNN,Shallow_Small,421808539_57abee6d55.jpg,a dog is running through the snow,0.20556680845025987,0.6147540983606558
+context_v2,SimpleRNN,Shallow_Small,3550276904_19de3561c5.jpg,a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.019471699714049804,0.1912057797708022
+context_v2,SimpleRNN,Shallow_Small,3686924335_3c51e8834a.jpg,a man is jumping on a large black and white and white dog is jumping on a large black and white and white dog is jumping on a large black and white and white,0.014558491217854977,0.32538659793814434
+context_v2,SimpleRNN,Shallow_Small,2843695880_eeea6c67db.jpg,a man in a lake,0.05372849659117709,0.12195121951219512
+context_v2,SimpleRNN,Shallow_Small,2594459477_8ca0121a9a.jpg,a man is standing in the water,0.08783602619713961,0.3234880450070324
+context_v2,SimpleRNN,Shallow_Small,3257277774_aba333a94c.jpg,a dog is running through the snow,0.09878765474230743,0.6147540983606558
+context_v2,SimpleRNN,Shallow_Small,3613030730_0b28b079ba.jpg,a boy is jumping in the water,0.09193227152249185,0.27445652173913043
+context_v2,SimpleRNN,Shallow_Small,3164415865_612f9fd8bc.jpg,a man in a red shirt is riding a mountain,0.021105340631872645,0.0684931506849315
+context_v2,SimpleRNN,Shallow_Small,1439282131_3814d6ae04.jpg,a dog is running through the water,0.07730551756939454,0.35866477272727276
+context_v2,SimpleRNN,Shallow_Small,2046222127_a6f300e202.jpg,a man is jumping on a red shirt is jumping on a red shirt is jumping on a red shirt is jumping on a red shirt is jumping on a red shirt is jumping,0.014558491217854977,0.16129032258064516
+context_v2,SimpleRNN,Shallow_Small,3271468462_701eb88d3b.jpg,a dog is running through a field,0.0670144447096575,0.29040404040404044
+context_v2,SimpleRNN,Shallow_Small,2533076864_d799996433.jpg,a man is jumping a red shirt is jumping a red shirt is jumping a red shirt is jumping a red shirt is jumping a red shirt is jumping a red shirt is jumping,0.0077426364109627836,0.15037593984962405
+context_v2,SimpleRNN,Shallow_Small,3499720588_c32590108e.jpg,a man in a red shirt is standing on a street,0.05012578715739066,0.2272727272727273
+context_v2,SimpleRNN,Shallow_Small,673806038_0a3682a83f.jpg,a young boy in a red shirt is playing in the water,0.11530568323789493,0.3505291005291005
+context_v2,SimpleRNN,Shallow_Small,571507143_be346225b7.jpg,a man in a woman in a red shirt is sitting on a man in a red shirt is sitting on a man in a red shirt is sitting on a man in a,0.012813098990837714,0.19329896907216496
+context_v2,SimpleRNN,Shallow_Small,2924884899_f512c84332.jpg,a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt,0.07205335066302805,0.30000000000000004
+context_v2,SimpleRNN,Shallow_Small,1130401779_8c30182e3e.jpg,a dog is running through the water,0.20556680845025987,0.6914285714285714
+context_v2,SimpleRNN,Shallow_Small,3431101934_99a6c55914.jpg,a man in a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a,0.018120458368871713,0.14084507042253522
+context_v2,SimpleRNN,Shallow_Small,226607225_44d696db6b.jpg,a man in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a,0.006510755202591488,0.09433962264150943
+context_v2,SimpleRNN,Shallow_Small,3463268965_f22884fc69.jpg,a man in a red shirt is riding a red shirt is riding a red shirt is riding a red shirt is riding a red shirt is riding a red shirt is riding a,0.03222323801783205,0.2410901467505241
+context_v2,SimpleRNN,Shallow_Small,3437315443_ba2263f92e.jpg,a man in a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a,0.08968235248346601,0.3148113905325444
+context_v2,SimpleRNN,Shallow_Small,3589367895_5d3729e3ea.jpg,a man in a red shirt is standing in a red shirt is standing in a red shirt is standing in a red shirt is standing in a red shirt is standing in a,0.03566087490853475,0.22189349112426038
+context_v2,SimpleRNN,Shallow_Small,2372572028_53b76104a9.jpg,a man in a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a,0.018120458368871713,0.18749999999999997
+context_v2,SimpleRNN,Shallow_Small,3030962048_f71948226c.jpg,a man in a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a,0.0077426364109627836,0.14084507042253522
+context_v2,SimpleRNN,Shallow_Small,3392019836_c7aeebca1c.jpg,a man in a red shirt is sitting on a large man in a red shirt is sitting on a large man in a red shirt is sitting on a large man in a,0.03832010391923205,0.2694336161430865
+context_v2,SimpleRNN,Shallow_Small,2289096282_4ef120f189.jpg,a man is jumping on a rock of a rock of a rock of a large rock,0.03201406061582137,0.18691588785046728
+context_v2,SimpleRNN,Shallow_Small,537359971_6e28f5e66e.jpg,a woman in a red shirt and a black and white and white and white and white and white and white and white and white and white and white and white and white and,0.0077426364109627836,0.09433962264150943
+context_v2,SimpleRNN,Shallow_Small,319870744_0e0138d205.jpg,a man in a mountain,0.1315583108973614,0.436046511627907
+context_v2,SimpleRNN,Shallow_Small,535529555_583d89b7f2.jpg,a dog is running in the grass,0.039281465090051315,0.2272727272727273
+context_v2,SimpleRNN,Shallow_Small,3415809168_af9dabdba5.jpg,a dog is running through the grass,0.32668286409255015,0.2545362903225807
+context_v2,SimpleRNN,Shallow_Small,467858872_f3431df682.jpg,a dog is jumping in the grass,0.03280636247745341,0.20609318996415774
+context_v2,SimpleRNN,Shallow_Small,1299459550_1fd5594fa2.jpg,a boy is jumping in the water,0.07969405445668118,0.49145299145299143
+context_v2,SimpleRNN,Shallow_Small,3318995586_c2bc50b92e.jpg,a boy in a red shirt is playing in a red shirt is jumping on a red shirt is jumping on a red shirt is jumping on a red shirt is jumping on a,0.020053583653512706,0.27445652173913043
+context_v2,SimpleRNN,Shallow_Small,3079787482_0757e9d167.jpg,a little girl is playing in a red shirt is playing in a red shirt is playing in a red shirt is playing in a red shirt is playing in a red shirt is,0.029116982435709957,0.2634593356242841
+context_v2,SimpleRNN,Shallow_Small,3037558954_20115165e3.jpg,a man is jumping in the water,0.274941620352113,0.6371428571428571
+context_v2,SimpleRNN,Shallow_Small,2176874361_2b4149010b.jpg,a dog is running through the grass,0.20556680845025987,0.5357142857142857
+context_v2,SimpleRNN,Shallow_Small,2328104318_5a43ca170c.jpg,a man is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting,0.037061986319706204,0.30027386541471046
+context_v2,SimpleRNN,Shallow_Small,3203707977_cc9448fecb.jpg,a man in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.03566087490853475,0.2608695652173913
+context_v2,SimpleRNN,Shallow_Small,3694093650_547259731e.jpg,a man in a red shirt is sitting on a picture,0.040282619279694225,0.10948905109489049
+context_v2,SimpleRNN,Shallow_Small,241046599_28b0ca7b9f.jpg,a dog is running in the grass,0.21515344521672802,0.4508928571428571
+context_v2,SimpleRNN,Shallow_Small,2257294002_0073263c54.jpg,a man in a red shirt is playing in the air,0.05442988140675566,0.16304347826086954
+context_v2,SimpleRNN,Shallow_Small,210625425_fb1ef5d23b.jpg,a man is riding a large large large large large large large large large large large large large large large large large large large large large large large large large large large large large,0.006510755202591488,0.2060931899641577
+context_v2,SimpleRNN,Shallow_Small,3612249030_e2829ffa31.jpg,a woman in a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a red shirt is sitting on a,0.015237428485138389,0.2904040404040405
+context_v2,SimpleRNN,Shallow_Small,3271084924_4778d556cc.jpg,a dog is running through the grass,0.08783602619713961,0.5174180327868853
+context_v2,SimpleRNN,Shallow_Small,1248734482_3038218f3b.jpg,a girl in a girl in a blue shirt is sitting on a blue shirt is sitting on a blue shirt is sitting on a blue shirt is sitting on a blue shirt is,0.08345883299682069,0.2317880794701987
+context_v2,SimpleRNN,Shallow_Small,765929807_de381cc764.jpg,a man in a red shirt is sitting on a rock,0.12760671487807074,0.3993055555555555
+context_v2,SimpleRNN,Shallow_Small,3559781965_d4ec00e506.jpg,a dog is running in the grass,0.13569111493289868,0.45362903225806456
+context_v2,SimpleRNN,Shallow_Small,2525270674_4ab536e7ec.jpg,a dog is running in the grass,0.10445522730720382,0.3234782608695652
+context_v2,SimpleRNN,Shallow_Small,2335619125_2e2034f2c3.jpg,a black dog is running through a black dog is running through the grass,0.4324227075463215,0.812766967252017
+context_v2,SimpleRNN,Shallow_Small,3195188609_01afbe46e6.jpg,a group of people are playing in the ball,0.1744391898986843,0.5506172839506173
+context_v2,SimpleRNN,Shallow_Small,1975531316_8b00eeaaf7.jpg,a dog is running on a black dog in a field,0.13193849171325928,0.3746811224489796
+context_v2,SimpleRNN,Shallow_Small,2302747917_aa0300eb68.jpg,a man in a red shirt and a black and white and white and white and white and white and white and white and white and white and white and white and white and,0.015237428485138389,0.10309278350515465
+context_v2,SimpleRNN,Shallow_Small,3229282764_a4a515f4e2.jpg,a man is playing in the water,0.10445522730720382,0.35866477272727276
+context_v2,SimpleRNN,Shallow_Small,3565655045_8eb00b7423.jpg,a man is climbing a rock,0.4288819424803534,0.46458333333333335
+context_v2,SimpleRNN,Deep_Small,2736508369_fd9ff0b42f.jpg,a man in a white and white and white and white and white and white and white and white and white and white and white and white and white and white and white and,0.06814385179012217,0.2545362903225806
+context_v2,SimpleRNN,Deep_Small,1093737381_b313cd49ff.jpg,a man in a red shirt is standing on a red shirt,0.041704986619350834,0.21505376344086022
+context_v2,SimpleRNN,Deep_Small,3412249548_00820fc4ca.jpg,a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.017313061339977776,0.23731203007518795
+context_v2,SimpleRNN,Deep_Small,3380072636_4cd59385fd.jpg,a man in a white and white and white and white and white and white and white and white and white and white and white and white and white and white and white and,0.016373682488441264,0.13245033112582785
+context_v2,SimpleRNN,Deep_Small,3501083764_cf592292a6.jpg,a man in a red shirt is standing on a red shirt,0.24384183193426084,0.22727272727272727
+context_v2,SimpleRNN,Deep_Small,2911919938_6bb6587a36.jpg,a man in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a,0.014558491217854977,0.22727272727272727
+context_v2,SimpleRNN,Deep_Small,3621717946_d96f8a6012.jpg,a dog is running through the water,0.037684991644924185,0.19230769230769232
+context_v2,SimpleRNN,Deep_Small,3228069008_edb2961fc4.jpg,a dog is running through the water,0.15228621982435664,0.3234880450070324
+context_v2,SimpleRNN,Deep_Small,3494394662_3edfd4a34c.jpg,a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.020053583653512706,0.29536423841059606
+context_v2,SimpleRNN,Deep_Small,3729405438_6e79077ab2.jpg,a man in a white shirt is jumping on a red shirt is standing on a red shirt is jumping on a red shirt,0.027219913803267486,0.2662037037037037
+context_v2,SimpleRNN,Deep_Small,2868324804_5cc8030484.jpg,a man in a white shirt is running through the water,0.04576989215762564,0.34534534534534533
+context_v2,SimpleRNN,Deep_Small,2448393373_80c011d301.jpg,a man in a white shirt is standing on a red shirt,0.04361566471268858,0.16393442622950818
+context_v2,SimpleRNN,Deep_Small,3052196390_c59dd24ca8.jpg,a man in a white shirt is jumping through the water,0.05012578715739066,0.3931623931623932
+context_v2,SimpleRNN,Deep_Small,2247192427_5e106f24a9.jpg,a man in a white and white and white and white and white and white and white and white and white and white and white and white and white and white and white and,0.006510755202591488,0.07518796992481203
+context_v2,SimpleRNN,Deep_Small,2244551043_21b8cca866.jpg,a man in a red shirt is standing on a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and,0.01583610518564545,0.16304347826086957
+context_v2,SimpleRNN,Deep_Small,3014080715_f4f0dbb56e.jpg,a dog is running through the water,0.07730551756939454,0.32538659793814434
+context_v2,SimpleRNN,Deep_Small,3244734844_c318c29c23.jpg,a man in a red shirt is standing on a red shirt,0.05186805880190237,0.2446705426356589
+context_v2,SimpleRNN,Deep_Small,3421928157_69a325366f.jpg,a man is in a white and white and white and white and white man is in a white and white and white and white and white man is in a white and white,0.01883240896070105,0.26408450704225356
+context_v2,SimpleRNN,Deep_Small,3572346664_e1e6c77f11.jpg,a man in a white shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.012813098990837714,0.2060931899641577
+context_v2,SimpleRNN,Deep_Small,3132760860_3e743a935d.jpg,a man in a red shirt is jumping on a red,0.02434178296655151,0.24658203125000006
+context_v2,SimpleRNN,Deep_Small,2148916767_644ea6a7fa.jpg,a dog is running through the water,0.18575057999133598,0.4206349206349207
+context_v2,SimpleRNN,Deep_Small,2998024845_1529c11694.jpg,a man in a red shirt is jumping on a red bike,0.12278260149096121,0.31000000000000005
+context_v2,SimpleRNN,Deep_Small,2613209320_edf6a2b7e9.jpg,a dog is running through the water,0.12098967350244397,0.5357142857142857
+context_v2,SimpleRNN,Deep_Small,745966757_6d16dfad8f.jpg,a man in a red shirt is in a red shirt is standing on a man in a red shirt is standing on a man in a red shirt is standing on a man,0.0085686357268259,0.12658227848101267
+context_v2,SimpleRNN,Deep_Small,1998457059_c9ac9a1e1a.jpg,a man in a white and white and white and white and white and white and white man is in a white and white dog is jumping through the water,0.01806193387447607,0.2189917062715497
+context_v2,SimpleRNN,Deep_Small,503090187_8758ab5680.jpg,a man in a red shirt is standing on a red shirt,0.045293761707938834,0.21505376344086022
+context_v2,SimpleRNN,Deep_Small,3627679667_0e3de9fc90.jpg,a man in a white and white and white and white and a man is in a water,0.03124577801157052,0.19607843137254904
+context_v2,SimpleRNN,Deep_Small,516214924_c2a4364cb3.jpg,a dog is running through the water,0.07730551756939454,0.24590163934426232
+context_v2,SimpleRNN,Deep_Small,3119696225_b289efaec8.jpg,a man in a white shirt is jumping through the water,0.06484115071397648,0.2652310924369748
+context_v2,SimpleRNN,Deep_Small,3405113041_4b72c24801.jpg,a black dog is running through the water,0.07386099955930606,0.4179775280898876
+context_v2,SimpleRNN,Deep_Small,3315033940_e91f87b7f2.jpg,a man is playing on a water,0.046713797772820004,0.2272727272727273
+context_v2,SimpleRNN,Deep_Small,791338571_7f38510bf7.jpg,a black dog is playing on a white and white dog,0.04740604259878138,0.2303832116788321
+context_v2,SimpleRNN,Deep_Small,1332208215_fa824f6659.jpg,a man in a red shirt and a man in a red shirt,0.10120193244194395,0.2920634920634921
+context_v2,SimpleRNN,Deep_Small,3399944164_ec24123945.jpg,a man in a white shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.1103430168770977,0.37603550295857985
+context_v2,SimpleRNN,Deep_Small,2696394827_7342ced36f.jpg,a dog is running through the water,0.10445522730720382,0.39952531645569617
+context_v2,SimpleRNN,Deep_Small,2427558437_3e839056d7.jpg,a dog is running through the grass,0.037684991644924185,0.14150943396226415
+context_v2,SimpleRNN,Deep_Small,2086678529_b3301c2d71.jpg,a man in a red shirt is standing on a red shirt,0.045293761707938834,0.30303030303030304
+context_v2,SimpleRNN,Deep_Small,2472574160_8ce233f396.jpg,a man in a white shirt is standing on a red shirt,0.2596535889340338,0.35532407407407407
+context_v2,SimpleRNN,Deep_Small,413737417_b0a8b445e9.jpg,a man in a red shirt is standing on a red,0.04740604259878138,0.2027027027027027
+context_v2,SimpleRNN,Deep_Small,3690425778_3b390b3ea5.jpg,a man in a red shirt is jumping on a water,0.12760671487807074,0.350076103500761
+context_v2,SimpleRNN,Deep_Small,950273886_88c324e663.jpg,a man in a red shirt is standing on a red shirt,0.43361890903486755,0.6058098915241772
+context_v2,SimpleRNN,Deep_Small,2886411666_72d8b12ce4.jpg,a dog is running through the grass,0.34996355115805833,0.8412698412698414
+context_v2,SimpleRNN,Deep_Small,909808296_23c427022d.jpg,a dog is running through the water,0.04836067244628849,0.2545362903225807
+context_v2,SimpleRNN,Deep_Small,2180356743_b3a3c9a7f6.jpg,a man in a red shirt is standing on a red shirt,0.06484115071397648,0.2883720930232559
+context_v2,SimpleRNN,Deep_Small,3640109324_3ce89e4d1a.jpg,a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.0077426364109627836,0.09433962264150943
+context_v2,SimpleRNN,Deep_Small,481827288_a688be7913.jpg,a dog is running through the grass,0.039281465090051315,0.24590163934426232
+context_v2,SimpleRNN,Deep_Small,421808539_57abee6d55.jpg,a dog is running through the grass,0.09878765474230743,0.4189435336976321
+context_v2,SimpleRNN,Deep_Small,3550276904_19de3561c5.jpg,a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.01883240896070105,0.16681614349775786
+context_v2,SimpleRNN,Deep_Small,3686924335_3c51e8834a.jpg,a man in a red shirt is standing on a red shirt,0.022416933501922302,0.13333333333333333
+context_v2,SimpleRNN,Deep_Small,2843695880_eeea6c67db.jpg,a man in a white shirt is jumping on a water,0.022416933501922302,0.21276595744680854
+context_v2,SimpleRNN,Deep_Small,2594459477_8ca0121a9a.jpg,a man in a white shirt is jumping through the water,0.04374152137028269,0.34534534534534533
+context_v2,SimpleRNN,Deep_Small,3257277774_aba333a94c.jpg,a dog is running through the water,0.07730551756939454,0.4189435336976321
+context_v2,SimpleRNN,Deep_Small,3613030730_0b28b079ba.jpg,a man in a white shirt is jumping on a water,0.026658376817028855,0.15384615384615385
+context_v2,SimpleRNN,Deep_Small,3164415865_612f9fd8bc.jpg,a man in a white shirt is standing on a red and white and white and white and white and white and white and white and white and white and white and white and,0.006510755202591488,0.051546391752577324
+context_v2,SimpleRNN,Deep_Small,1439282131_3814d6ae04.jpg,a dog is running through the water,0.07730551756939454,0.35866477272727276
+context_v2,SimpleRNN,Deep_Small,2046222127_a6f300e202.jpg,a man in a red shirt is in a red shirt is standing on a red,0.16943571815930883,0.3234782608695652
+context_v2,SimpleRNN,Deep_Small,3271468462_701eb88d3b.jpg,a dog is running through the grass,0.08563683466425753,0.2222711267605634
+context_v2,SimpleRNN,Deep_Small,2533076864_d799996433.jpg,a man is standing on a red shirt is standing on a red shirt and a red shirt is standing on a red shirt is standing on a red shirt and a red shirt,0.0077426364109627836,0.15037593984962405
+context_v2,SimpleRNN,Deep_Small,3499720588_c32590108e.jpg,a man in a red shirt is standing on a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.014558491217854977,0.15037593984962405
+context_v2,SimpleRNN,Deep_Small,673806038_0a3682a83f.jpg,a man in a white shirt is in a water,0.13747081017605653,0.2808302808302808
+context_v2,SimpleRNN,Deep_Small,571507143_be346225b7.jpg,a man in a red shirt is standing on a man in a red shirt and a man in a red shirt is standing on a man in a red shirt and a man,0.012813098990837714,0.10309278350515465
+context_v2,SimpleRNN,Deep_Small,2924884899_f512c84332.jpg,a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.07205335066302805,0.3903225806451613
+context_v2,SimpleRNN,Deep_Small,1130401779_8c30182e3e.jpg,a dog is running through the grass,0.09878765474230743,0.5357142857142857
+context_v2,SimpleRNN,Deep_Small,3431101934_99a6c55914.jpg,a man in a red shirt is standing on a red shirt,0.053863663688318665,0.16666666666666666
+context_v2,SimpleRNN,Deep_Small,226607225_44d696db6b.jpg,a black dog is running through the water,0.06985342056580097,0.3194444444444444
+context_v2,SimpleRNN,Deep_Small,3463268965_f22884fc69.jpg,a man in a white shirt is jumping on a red shirt,0.1281101041965245,0.34074074074074073
+context_v2,SimpleRNN,Deep_Small,3437315443_ba2263f92e.jpg,a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.07837655860096929,0.3024193548387097
+context_v2,SimpleRNN,Deep_Small,3589367895_5d3729e3ea.jpg,a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.013768570909032773,0.2060931899641577
+context_v2,SimpleRNN,Deep_Small,2372572028_53b76104a9.jpg,a man in a red shirt is standing on a red shirt,0.05186805880190237,0.3703703703703703
+context_v2,SimpleRNN,Deep_Small,3030962048_f71948226c.jpg,a man in a red shirt is standing on a red shirt,0.024088562704853513,0.16666666666666666
+context_v2,SimpleRNN,Deep_Small,3392019836_c7aeebca1c.jpg,a man in a red shirt is standing on a red shirt,0.10772732737663729,0.27332621082621084
+context_v2,SimpleRNN,Deep_Small,2289096282_4ef120f189.jpg,a man in a red shirt is standing on a red shirt,0.04926862021119254,0.23023023023023023
+context_v2,SimpleRNN,Deep_Small,537359971_6e28f5e66e.jpg,a man in a red shirt is standing on a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and,0.007205335066302803,0.09433962264150943
+context_v2,SimpleRNN,Deep_Small,319870744_0e0138d205.jpg,a man in a red shirt is standing on a red shirt,0.049556962927909884,0.2688172043010753
+context_v2,SimpleRNN,Deep_Small,535529555_583d89b7f2.jpg,a dog is running through the grass,0.039281465090051315,0.2272727272727273
+context_v2,SimpleRNN,Deep_Small,3415809168_af9dabdba5.jpg,a dog is running through the grass,0.32668286409255015,0.2545362903225807
+context_v2,SimpleRNN,Deep_Small,467858872_f3431df682.jpg,a dog is running through the water,0.01666998712262484,0.11278195488721805
+context_v2,SimpleRNN,Deep_Small,1299459550_1fd5594fa2.jpg,a man in a white shirt is in a red shirt is in a blue shirt is standing on a red shirt is standing on a red shirt is standing on a red shirt,0.015237428485138389,0.24635761589403976
+context_v2,SimpleRNN,Deep_Small,3318995586_c2bc50b92e.jpg,a man in a red shirt is standing on a man in a red shirt is standing on a man in a red shirt is standing on a man in a red shirt is,0.020053583653512706,0.2545362903225806
+context_v2,SimpleRNN,Deep_Small,3079787482_0757e9d167.jpg,a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.006510755202591488,0.051546391752577324
+context_v2,SimpleRNN,Deep_Small,3037558954_20115165e3.jpg,a man is in a white and white dog is jumping through the water,0.09669265690880861,0.5380116959064328
+context_v2,SimpleRNN,Deep_Small,2176874361_2b4149010b.jpg,a dog is running through the water,0.20556680845025987,0.5357142857142857
+context_v2,SimpleRNN,Deep_Small,2328104318_5a43ca170c.jpg,a man in a red shirt is standing on a red shirt,0.28646290158800986,0.5289115646258503
+context_v2,SimpleRNN,Deep_Small,3203707977_cc9448fecb.jpg,a man in a red shirt and a man in a red shirt,0.04913270548144422,0.39574468085106385
+context_v2,SimpleRNN,Deep_Small,3694093650_547259731e.jpg,a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.014558491217854977,0.2222711267605634
+context_v2,SimpleRNN,Deep_Small,241046599_28b0ca7b9f.jpg,a dog is running through the grass,0.21515344521672802,0.4508928571428571
+context_v2,SimpleRNN,Deep_Small,2257294002_0073263c54.jpg,a man in a white shirt is in a ball,0.06311969078225892,0.12987012987012989
+context_v2,SimpleRNN,Deep_Small,210625425_fb1ef5d23b.jpg,a man is playing on a red shirt is jumping,0.025098621243978974,0.10000000000000002
+context_v2,SimpleRNN,Deep_Small,3612249030_e2829ffa31.jpg,a man in a white shirt is in a red shirt,0.02818780157629645,0.2027027027027027
+context_v2,SimpleRNN,Deep_Small,3271084924_4778d556cc.jpg,a dog is running through the grass,0.08783602619713961,0.5174180327868853
+context_v2,SimpleRNN,Deep_Small,1248734482_3038218f3b.jpg,a man in a white shirt is standing on a red shirt,0.05094110796339642,0.19379844961240314
+context_v2,SimpleRNN,Deep_Small,765929807_de381cc764.jpg,a man in a white shirt is standing on a red shirt and a man in a red shirt is standing on a red,0.0612957497932821,0.3875
+context_v2,SimpleRNN,Deep_Small,3559781965_d4ec00e506.jpg,a dog is running through the grass,0.06173866219946367,0.3234782608695652
+context_v2,SimpleRNN,Deep_Small,2525270674_4ab536e7ec.jpg,a dog is running through the water,0.09878765474230743,0.27445652173913043
+context_v2,SimpleRNN,Deep_Small,2335619125_2e2034f2c3.jpg,a dog is running through the grass,0.5578002860768766,0.7454289732770746
+context_v2,SimpleRNN,Deep_Small,3195188609_01afbe46e6.jpg,a man in a white and white and white and a white and white and a white and white and a white and white and a white and white and a white and white,0.013768570909032773,0.14150943396226415
+context_v2,SimpleRNN,Deep_Small,1975531316_8b00eeaaf7.jpg,a man is running in the water,0.037684991644924185,0.12658227848101264
+context_v2,SimpleRNN,Deep_Small,2302747917_aa0300eb68.jpg,a man in a red shirt is standing on a red shirt,0.04740604259878138,0.13333333333333333
+context_v2,SimpleRNN,Deep_Small,3229282764_a4a515f4e2.jpg,a man in a white shirt is in a water,0.06311969078225892,0.1648351648351648
+context_v2,SimpleRNN,Deep_Small,3565655045_8eb00b7423.jpg,a man in a white and white and white and white and white and white and white and white and white and white and white and white and white and white and white and,0.014558491217854977,0.2060931899641577
+context_v2,SimpleRNN,VeryDeep_Small,2736508369_fd9ff0b42f.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.07541356871486662,0.30000000000000004
+context_v2,SimpleRNN,VeryDeep_Small,1093737381_b313cd49ff.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.01583610518564545,0.13043478260869565
+context_v2,SimpleRNN,VeryDeep_Small,3412249548_00820fc4ca.jpg,a man is in a man in a man,0.05706135914957148,0.20202020202020204
+context_v2,SimpleRNN,VeryDeep_Small,3380072636_4cd59385fd.jpg,a man is in a man in a dog in a man is in a dog in a dog in a dog in a man is in a dog in a dog in a,0.013768570909032773,0.12096774193548387
+context_v2,SimpleRNN,VeryDeep_Small,3501083764_cf592292a6.jpg,a man is in a man in a man in a man in a man in a man is in a man in a man in a man in a man in a man,0.08422109323240742,0.22410833492275414
+context_v2,SimpleRNN,VeryDeep_Small,2911919938_6bb6587a36.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.030787460505623355,0.22727272727272727
+context_v2,SimpleRNN,VeryDeep_Small,3621717946_d96f8a6012.jpg,a dog is in a dog in a dog in a dog,0.036260056295236785,0.22321428571428573
+context_v2,SimpleRNN,VeryDeep_Small,3228069008_edb2961fc4.jpg,a dog is in a dog in a dog,0.14923729480049117,0.2469135802469136
+context_v2,SimpleRNN,VeryDeep_Small,3494394662_3edfd4a34c.jpg,a man is in a man,0.10855926040543844,0.44642857142857145
+context_v2,SimpleRNN,VeryDeep_Small,3729405438_6e79077ab2.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.014558491217854977,0.15037593984962405
+context_v2,SimpleRNN,VeryDeep_Small,2868324804_5cc8030484.jpg,a man is in a man in a dog in a dog is in a dog in a dog in a dog in a dog is in a dog in a dog in a,0.012813098990837714,0.19329896907216496
+context_v2,SimpleRNN,VeryDeep_Small,2448393373_80c011d301.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.008186841244220632,0.125
+context_v2,SimpleRNN,VeryDeep_Small,3052196390_c59dd24ca8.jpg,a man is in a,0.10294994188297393,0.33189033189033185
+context_v2,SimpleRNN,VeryDeep_Small,2247192427_5e106f24a9.jpg,a man is in a,0.06389431042462725,0.09615384615384616
+context_v2,SimpleRNN,VeryDeep_Small,2244551043_21b8cca866.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.013768570909032773,0.08695652173913043
+context_v2,SimpleRNN,VeryDeep_Small,3014080715_f4f0dbb56e.jpg,a dog is in a dog in a dog in a dog,0.022416933501922302,0.19999999999999998
+context_v2,SimpleRNN,VeryDeep_Small,3244734844_c318c29c23.jpg,a man is in a man in a man in a man in a man is in a man in a man in a man in a man in a man is in a,0.018120458368871713,0.2904040404040405
+context_v2,SimpleRNN,VeryDeep_Small,3421928157_69a325366f.jpg,a man is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.018120458368871713,0.14084507042253522
+context_v2,SimpleRNN,VeryDeep_Small,3572346664_e1e6c77f11.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.013768570909032773,0.16129032258064516
+context_v2,SimpleRNN,VeryDeep_Small,3132760860_3e743a935d.jpg,a man is in a man in a man in a man in a man in a man is in a,0.01291802583371725,0.11627906976744187
+context_v2,SimpleRNN,VeryDeep_Small,2148916767_644ea6a7fa.jpg,a dog is in a dog in a dog in a dog,0.09578464408619825,0.33513513513513515
+context_v2,SimpleRNN,VeryDeep_Small,2998024845_1529c11694.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.03566087490853475,0.20735524256651017
+context_v2,SimpleRNN,VeryDeep_Small,2613209320_edf6a2b7e9.jpg,a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.016373682488441264,0.19329896907216496
+context_v2,SimpleRNN,VeryDeep_Small,745966757_6d16dfad8f.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.0077426364109627836,0.08064516129032258
+context_v2,SimpleRNN,VeryDeep_Small,1998457059_c9ac9a1e1a.jpg,a man is in a dog in a dog in a dog in a dog is in a,0.012931515274572203,0.12077294685990339
+context_v2,SimpleRNN,VeryDeep_Small,503090187_8758ab5680.jpg,a man is in a man,0.2295748846661433,0.3703703703703703
+context_v2,SimpleRNN,VeryDeep_Small,3627679667_0e3de9fc90.jpg,a man is in a,0.13512001548070346,0.17441860465116277
+context_v2,SimpleRNN,VeryDeep_Small,516214924_c2a4364cb3.jpg,a dog is in a dog in a dog,0.06030725360407769,0.2839506172839506
+context_v2,SimpleRNN,VeryDeep_Small,3119696225_b289efaec8.jpg,a man is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a man in a man in,0.008186841244220632,0.18867924528301885
+context_v2,SimpleRNN,VeryDeep_Small,3405113041_4b72c24801.jpg,a man is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.006510755202591488,0.10309278350515465
+context_v2,SimpleRNN,VeryDeep_Small,3315033940_e91f87b7f2.jpg,a man is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.02709640533706218,0.13043478260869565
+context_v2,SimpleRNN,VeryDeep_Small,791338571_7f38510bf7.jpg,a man is in a man in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.014558491217854977,0.15625000000000003
+context_v2,SimpleRNN,VeryDeep_Small,1332208215_fa824f6659.jpg,a man is in a man in a man in a man in a man,0.06734850273596513,0.21016949152542372
+context_v2,SimpleRNN,VeryDeep_Small,3399944164_ec24123945.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.09482754235376444,0.2366863905325444
+context_v2,SimpleRNN,VeryDeep_Small,2696394827_7342ced36f.jpg,a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.018120458368871713,0.23584905660377364
+context_v2,SimpleRNN,VeryDeep_Small,2427558437_3e839056d7.jpg,a dog is in a dog in a dog,0.03585890753612134,0.14814814814814814
+context_v2,SimpleRNN,VeryDeep_Small,2086678529_b3301c2d71.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.030787460505623355,0.22727272727272727
+context_v2,SimpleRNN,VeryDeep_Small,2472574160_8ce233f396.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.13937542038981274,0.2112676056338028
+context_v2,SimpleRNN,VeryDeep_Small,413737417_b0a8b445e9.jpg,a man is in a,0.08428828344718171,0.3758169934640523
+context_v2,SimpleRNN,VeryDeep_Small,3690425778_3b390b3ea5.jpg,a man is in a man in a man in a man in a man in a man in a man in a man is in a man in a man in a man,0.013768570909032773,0.11278195488721804
+context_v2,SimpleRNN,VeryDeep_Small,950273886_88c324e663.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.07205335066302805,0.2796992481203008
+context_v2,SimpleRNN,VeryDeep_Small,2886411666_72d8b12ce4.jpg,a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.037061986319706204,0.2634593356242841
+context_v2,SimpleRNN,VeryDeep_Small,909808296_23c427022d.jpg,a dog is in a dog,0.04749303163563625,0.30243902439024395
+context_v2,SimpleRNN,VeryDeep_Small,2180356743_b3a3c9a7f6.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.015237428485138389,0.125
+context_v2,SimpleRNN,VeryDeep_Small,3640109324_3ce89e4d1a.jpg,a man is in a man in a man in a man in a man in a man,0.014216645907653848,0.11904761904761905
+context_v2,SimpleRNN,VeryDeep_Small,481827288_a688be7913.jpg,a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.007205335066302803,0.11363636363636363
+context_v2,SimpleRNN,VeryDeep_Small,421808539_57abee6d55.jpg,a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.012813098990837714,0.2904040404040405
+context_v2,SimpleRNN,VeryDeep_Small,3550276904_19de3561c5.jpg,a man is in a man in a man,0.038292846753756854,0.18787878787878784
+context_v2,SimpleRNN,VeryDeep_Small,3686924335_3c51e8834a.jpg,a man is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.013768570909032773,0.2634593356242841
+context_v2,SimpleRNN,VeryDeep_Small,2843695880_eeea6c67db.jpg,a man is in a dog in a dog in a dog in a dog is in a,0.010802314890908065,0.0925925925925926
+context_v2,SimpleRNN,VeryDeep_Small,2594459477_8ca0121a9a.jpg,a man is in a dog in a man in a man in a man in a man is in a dog in a man in a man in a man in a man,0.01883240896070105,0.2634593356242841
+context_v2,SimpleRNN,VeryDeep_Small,3257277774_aba333a94c.jpg,a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.012813098990837714,0.2904040404040405
+context_v2,SimpleRNN,VeryDeep_Small,3613030730_0b28b079ba.jpg,a man is in a man in a man in a man in a man is in a dog in a man in a man in a man in a man in a man,0.0077426364109627836,0.12096774193548387
+context_v2,SimpleRNN,VeryDeep_Small,3164415865_612f9fd8bc.jpg,a man is in a dog in a,0.02777619034011792,0.07042253521126761
+context_v2,SimpleRNN,VeryDeep_Small,1439282131_3814d6ae04.jpg,a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.007205335066302803,0.2222222222222222
+context_v2,SimpleRNN,VeryDeep_Small,2046222127_a6f300e202.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.07541356871486662,0.2796992481203008
+context_v2,SimpleRNN,VeryDeep_Small,3271468462_701eb88d3b.jpg,a dog is in a dog in a dog in a dog in a dog,0.033241378434410024,0.1724137931034483
+context_v2,SimpleRNN,VeryDeep_Small,2533076864_d799996433.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.0085686357268259,0.15037593984962405
+context_v2,SimpleRNN,VeryDeep_Small,3499720588_c32590108e.jpg,a man is in a man in a man in a man,0.03986357128268015,0.20161290322580647
+context_v2,SimpleRNN,VeryDeep_Small,673806038_0a3682a83f.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.018120458368871713,0.14634146341463414
+context_v2,SimpleRNN,VeryDeep_Small,571507143_be346225b7.jpg,a man is in a man in a man in a man,0.03667625610580776,0.25
+context_v2,SimpleRNN,VeryDeep_Small,2924884899_f512c84332.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.07742636410962779,0.2977594339622641
+context_v2,SimpleRNN,VeryDeep_Small,1130401779_8c30182e3e.jpg,a dog is in a dog in a dog in a dog in a dog,0.027952555963587523,0.1936026936026936
+context_v2,SimpleRNN,VeryDeep_Small,3431101934_99a6c55914.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.013768570909032773,0.1056338028169014
+context_v2,SimpleRNN,VeryDeep_Small,226607225_44d696db6b.jpg,a man is in a dog in a dog in a,0.022416933501922302,0.12048192771084339
+context_v2,SimpleRNN,VeryDeep_Small,3463268965_f22884fc69.jpg,a man is in a man in a man in a man in a man is in a man in a man in a man in a man in a man is in a,0.03222323801783205,0.18867924528301885
+context_v2,SimpleRNN,VeryDeep_Small,3437315443_ba2263f92e.jpg,a man is in a man in a man,0.06376715693797415,0.25813692480359146
+context_v2,SimpleRNN,VeryDeep_Small,3589367895_5d3729e3ea.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.014558491217854977,0.12096774193548387
+context_v2,SimpleRNN,VeryDeep_Small,2372572028_53b76104a9.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.014558491217854977,0.15625000000000003
+context_v2,SimpleRNN,VeryDeep_Small,3030962048_f71948226c.jpg,a man is in a man in a man,0.03034691922392704,0.17094017094017094
+context_v2,SimpleRNN,VeryDeep_Small,3392019836_c7aeebca1c.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.03222323801783205,0.20898876404494382
+context_v2,SimpleRNN,VeryDeep_Small,2289096282_4ef120f189.jpg,a man is in a man,0.029642151188002917,0.15625
+context_v2,SimpleRNN,VeryDeep_Small,537359971_6e28f5e66e.jpg,a man is in a man in a man in a man,0.020255986027125642,0.11904761904761905
+context_v2,SimpleRNN,VeryDeep_Small,319870744_0e0138d205.jpg,a man is in a,0.23394743548827707,0.436046511627907
+context_v2,SimpleRNN,VeryDeep_Small,535529555_583d89b7f2.jpg,a dog is in a dog in a dog,0.023980296761827107,0.15873015873015875
+context_v2,SimpleRNN,VeryDeep_Small,3415809168_af9dabdba5.jpg,a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.039825696112811726,0.2523011176857331
+context_v2,SimpleRNN,VeryDeep_Small,467858872_f3431df682.jpg,a dog is in a dog in a dog in a dog,0.018636406807066564,0.19810508182601205
+context_v2,SimpleRNN,VeryDeep_Small,1299459550_1fd5594fa2.jpg,a man is in a,0.07071067811865477,0.20000000000000004
+context_v2,SimpleRNN,VeryDeep_Small,3318995586_c2bc50b92e.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man,0.01806193387447607,0.17006802721088435
+context_v2,SimpleRNN,VeryDeep_Small,3079787482_0757e9d167.jpg,a man is in a man in a man in a man,0.018636406807066564,0.07751937984496124
+context_v2,SimpleRNN,VeryDeep_Small,3037558954_20115165e3.jpg,a man is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.030787460505623355,0.2977594339622641
+context_v2,SimpleRNN,VeryDeep_Small,2176874361_2b4149010b.jpg,a dog is in a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog,0.017313061339977776,0.13245033112582785
+context_v2,SimpleRNN,VeryDeep_Small,2328104318_5a43ca170c.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.0932059611377004,0.2997448979591837
+context_v2,SimpleRNN,VeryDeep_Small,3203707977_cc9448fecb.jpg,a man is in a man,0.09554427922043669,0.19230769230769232
+context_v2,SimpleRNN,VeryDeep_Small,3694093650_547259731e.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.013768570909032773,0.125
+context_v2,SimpleRNN,VeryDeep_Small,241046599_28b0ca7b9f.jpg,a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.013768570909032773,0.15463917525773196
+context_v2,SimpleRNN,VeryDeep_Small,2257294002_0073263c54.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.016373682488441264,0.1773174157303371
+context_v2,SimpleRNN,VeryDeep_Small,210625425_fb1ef5d23b.jpg,a man is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.007205335066302803,0.11278195488721804
+context_v2,SimpleRNN,VeryDeep_Small,3612249030_e2829ffa31.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.0077426364109627836,0.15463917525773196
+context_v2,SimpleRNN,VeryDeep_Small,3271084924_4778d556cc.jpg,a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.007205335066302803,0.125
+context_v2,SimpleRNN,VeryDeep_Small,1248734482_3038218f3b.jpg,a man is in a man,0.05271202712688637,0.13157894736842105
+context_v2,SimpleRNN,VeryDeep_Small,765929807_de381cc764.jpg,a man is in a man in a man in a man is in a dog in a man in a man in a man is in a dog in a man in a,0.015237428485138389,0.2410901467505241
+context_v2,SimpleRNN,VeryDeep_Small,3559781965_d4ec00e506.jpg,a dog is in a dog in a dog in a dog in a dog,0.03514847831369806,0.17543859649122806
+context_v2,SimpleRNN,VeryDeep_Small,2525270674_4ab536e7ec.jpg,a dog is in a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog,0.018120458368871713,0.15037593984962405
+context_v2,SimpleRNN,VeryDeep_Small,2335619125_2e2034f2c3.jpg,a dog is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.012813098990837714,0.14150943396226415
+context_v2,SimpleRNN,VeryDeep_Small,3195188609_01afbe46e6.jpg,a man is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.012813098990837714,0.14150943396226415
+context_v2,SimpleRNN,VeryDeep_Small,1975531316_8b00eeaaf7.jpg,a a dog is in a dog,0.1685324060991242,0.2531645569620253
+context_v2,SimpleRNN,VeryDeep_Small,2302747917_aa0300eb68.jpg,a man is in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in,0.017313061339977776,0.2453667953667954
+context_v2,SimpleRNN,VeryDeep_Small,3229282764_a4a515f4e2.jpg,a man is in a,0.1315583108973614,0.17441860465116277
+context_v2,SimpleRNN,VeryDeep_Small,3565655045_8eb00b7423.jpg,a man is in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in a dog in,0.03348928509624719,0.2112676056338028
+context_v2,SimpleRNN,Shallow_Mid,2736508369_fd9ff0b42f.jpg,a young boy in a baseball player in a baseball game,0.12278260149096115,0.2702702702702703
+context_v2,SimpleRNN,Shallow_Mid,1093737381_b313cd49ff.jpg,a girl in a red shirt is walking down a street,0.06238986072117501,0.16304347826086954
+context_v2,SimpleRNN,Shallow_Mid,3412249548_00820fc4ca.jpg,a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt,0.017313061339977776,0.23731203007518795
+context_v2,SimpleRNN,Shallow_Mid,3380072636_4cd59385fd.jpg,a group of people are playing in the air,0.16505041549257518,0.41483259970654923
+context_v2,SimpleRNN,Shallow_Mid,3501083764_cf592292a6.jpg,two men are standing on a large building,0.06500593260343691,0.17523364485981308
+context_v2,SimpleRNN,Shallow_Mid,2911919938_6bb6587a36.jpg,a little boy is jumping into a water,0.039281465090051315,0.28301886792452824
+context_v2,SimpleRNN,Shallow_Mid,3621717946_d96f8a6012.jpg,a dog is jumping in the water,0.04049515890265692,0.189873417721519
+context_v2,SimpleRNN,Shallow_Mid,3228069008_edb2961fc4.jpg,a brown dog is walking in the grass,0.10573712634405641,0.39453125
+context_v2,SimpleRNN,Shallow_Mid,3494394662_3edfd4a34c.jpg,a man in a black shirt and a black shirt and a black shirt and a black shirt and a black shirt and a black shirt and a black shirt and a black shirt,0.020053583653512706,0.2222222222222222
+context_v2,SimpleRNN,Shallow_Mid,3729405438_6e79077ab2.jpg,a man is jumping on a skateboard,0.08307018474412793,0.3234880450070324
+context_v2,SimpleRNN,Shallow_Mid,2868324804_5cc8030484.jpg,a young boy in a red shirt is playing in the grass,0.05094110796339642,0.34074074074074073
+context_v2,SimpleRNN,Shallow_Mid,2448393373_80c011d301.jpg,a young boy in a blue shirt is holding a blue shirt and a blue shirt and a blue shirt and a blue shirt and a blue shirt and a blue shirt and a,0.11548887885010663,0.3896391856480548
+context_v2,SimpleRNN,Shallow_Mid,3052196390_c59dd24ca8.jpg,a young boy in a blue shirt is jumping into the water,0.0428361950754725,0.3872053872053872
+context_v2,SimpleRNN,Shallow_Mid,2247192427_5e106f24a9.jpg,a young boy in a white shirt is playing,0.027155616465759737,0.4732510288065844
+context_v2,SimpleRNN,Shallow_Mid,2244551043_21b8cca866.jpg,a group of people are standing in a city street,0.06985342056580097,0.2808302808302808
+context_v2,SimpleRNN,Shallow_Mid,3014080715_f4f0dbb56e.jpg,a group of people are running in the snow,0.1561969968460128,0.4505050505050505
+context_v2,SimpleRNN,Shallow_Mid,3244734844_c318c29c23.jpg,a man is jumping on a skateboard,0.08783602619713961,0.5174180327868853
+context_v2,SimpleRNN,Shallow_Mid,3421928157_69a325366f.jpg,a man in a blue wetsuit is surfing in the water,0.10528570195593752,0.2100840336134454
+context_v2,SimpleRNN,Shallow_Mid,3572346664_e1e6c77f11.jpg,a man in a blue shirt and a woman in a blue shirt and a woman in a blue shirt and a woman in a blue shirt and a woman in a blue shirt,0.013768570909032773,0.2060931899641577
+context_v2,SimpleRNN,Shallow_Mid,3132760860_3e743a935d.jpg,a man in a blue shirt is jumping into a air,0.02693861110235182,0.3993055555555555
+context_v2,SimpleRNN,Shallow_Mid,2148916767_644ea6a7fa.jpg,a dog is running in the snow,0.1944130841813964,0.7934426229508196
+context_v2,SimpleRNN,Shallow_Mid,2998024845_1529c11694.jpg,a man in a red shirt is riding a bike on a dirt bike,0.1135935489027116,0.3494990892531876
+context_v2,SimpleRNN,Shallow_Mid,2613209320_edf6a2b7e9.jpg,a dog is running through the water,0.12098967350244397,0.5357142857142857
+context_v2,SimpleRNN,Shallow_Mid,745966757_6d16dfad8f.jpg,a girl in a pink shirt is walking on a park,0.030661487102926755,0.26785714285714285
+context_v2,SimpleRNN,Shallow_Mid,1998457059_c9ac9a1e1a.jpg,a man in a blue wetsuit is surfing on a wave,0.06484115071397648,0.25302530253025296
+context_v2,SimpleRNN,Shallow_Mid,503090187_8758ab5680.jpg,a man in a black shirt is standing on a camera,0.052463410228614595,0.27173913043478265
+context_v2,SimpleRNN,Shallow_Mid,3627679667_0e3de9fc90.jpg,a man in a blue shirt is jumping into the water,0.05012578715739066,0.18072289156626503
+context_v2,SimpleRNN,Shallow_Mid,516214924_c2a4364cb3.jpg,a brown dog is running through the grass,0.1477219991186121,0.3680555555555556
+context_v2,SimpleRNN,Shallow_Mid,3119696225_b289efaec8.jpg,a man in a blue shirt is walking on a beach,0.05452469119630864,0.4481927710843373
+context_v2,SimpleRNN,Shallow_Mid,3405113041_4b72c24801.jpg,a bird is jumping over a lake,0.08307018474412793,0.4508928571428571
+context_v2,SimpleRNN,Shallow_Mid,3315033940_e91f87b7f2.jpg,a man is riding a boat on a boat,0.07171781507224269,0.2604166666666667
+context_v2,SimpleRNN,Shallow_Mid,791338571_7f38510bf7.jpg,a black dog is standing in a grassy field,0.3413065354365521,0.49811035525321234
+context_v2,SimpleRNN,Shallow_Mid,1332208215_fa824f6659.jpg,a man in a red shirt is walking on a street,0.12605968092174913,0.398936170212766
+context_v2,SimpleRNN,Shallow_Mid,3399944164_ec24123945.jpg,a young boy is playing in a blue shirt and a blue shirt is holding a baby,0.04430049924255961,0.23026315789473684
+context_v2,SimpleRNN,Shallow_Mid,2696394827_7342ced36f.jpg,a dog is running through the water,0.10445522730720382,0.39952531645569617
+context_v2,SimpleRNN,Shallow_Mid,2427558437_3e839056d7.jpg,a brown dog is running through the water,0.08783602619713961,0.2949766355140187
+context_v2,SimpleRNN,Shallow_Mid,2086678529_b3301c2d71.jpg,a woman in a blue shirt is standing in the camera,0.06238986072117501,0.3126050420168068
+context_v2,SimpleRNN,Shallow_Mid,2472574160_8ce233f396.jpg,two girls are playing in a field,0.1417182961428368,0.3727144866385373
+context_v2,SimpleRNN,Shallow_Mid,413737417_b0a8b445e9.jpg,a man is walking on a mountain,0.043472087194499145,0.14285714285714285
+context_v2,SimpleRNN,Shallow_Mid,3690425778_3b390b3ea5.jpg,a man is jumping on a wooden wall,0.08783602619713961,0.2949766355140187
+context_v2,SimpleRNN,Shallow_Mid,950273886_88c324e663.jpg,a man in a blue shirt is climbing a rock,0.30374414220764573,0.7145928899082569
+context_v2,SimpleRNN,Shallow_Mid,2886411666_72d8b12ce4.jpg,a dog is running through the grass,0.34996355115805833,0.8412698412698414
+context_v2,SimpleRNN,Shallow_Mid,909808296_23c427022d.jpg,two dogs are running in the grass,0.021281397709599685,0.20609318996415774
+context_v2,SimpleRNN,Shallow_Mid,2180356743_b3a3c9a7f6.jpg,a man in a red shirt is standing on a street,0.07175852914772135,0.290625
+context_v2,SimpleRNN,Shallow_Mid,3640109324_3ce89e4d1a.jpg,a man in a red shirt is standing on a building,0.026658376817028855,0.16806722689075632
+context_v2,SimpleRNN,Shallow_Mid,481827288_a688be7913.jpg,a dog is running through the water,0.07730551756939454,0.5174180327868853
+context_v2,SimpleRNN,Shallow_Mid,421808539_57abee6d55.jpg,a brown dog is running through the snow,0.23119742295813953,0.7193548387096775
+context_v2,SimpleRNN,Shallow_Mid,3550276904_19de3561c5.jpg,a man in a blue shirt and a woman and a woman in a blue shirt and a woman with a woman with a woman with a woman with a woman with a woman,0.042408166168451535,0.1569506726457399
+context_v2,SimpleRNN,Shallow_Mid,3686924335_3c51e8834a.jpg,a man is jumping over a wooden building,0.039281465090051315,0.14084507042253522
+context_v2,SimpleRNN,Shallow_Mid,2843695880_eeea6c67db.jpg,a man in a blue shirt is standing on the ocean,0.04411629359322707,0.19801980198019806
+context_v2,SimpleRNN,Shallow_Mid,2594459477_8ca0121a9a.jpg,a man is standing in the water,0.08783602619713961,0.3234880450070324
+context_v2,SimpleRNN,Shallow_Mid,3257277774_aba333a94c.jpg,a black and white dog is running in the water,0.4518010018049224,0.7602601480152501
+context_v2,SimpleRNN,Shallow_Mid,3613030730_0b28b079ba.jpg,a little boy is playing in a pool,0.039281465090051315,0.2388369678089304
+context_v2,SimpleRNN,Shallow_Mid,3164415865_612f9fd8bc.jpg,a man is riding a snowy hill,0.16348126556655487,0.4206349206349207
+context_v2,SimpleRNN,Shallow_Mid,1439282131_3814d6ae04.jpg,a dog is running through the water,0.07730551756939454,0.35866477272727276
+context_v2,SimpleRNN,Shallow_Mid,2046222127_a6f300e202.jpg,a little boy is jumping on a blue shirt is jumping over a wooden wall,0.03288164697569687,0.3005952380952382
+context_v2,SimpleRNN,Shallow_Mid,3271468462_701eb88d3b.jpg,a dog is running through a grassy field,0.06500593260343691,0.28714107365792757
+context_v2,SimpleRNN,Shallow_Mid,2533076864_d799996433.jpg,a man is sitting on a wooden bench,0.03655552228545124,0.14018691588785046
+context_v2,SimpleRNN,Shallow_Mid,3499720588_c32590108e.jpg,a man in a red shirt is standing on a street,0.05012578715739066,0.2272727272727273
+context_v2,SimpleRNN,Shallow_Mid,673806038_0a3682a83f.jpg,a young boy in a blue shirt is jumping into the water,0.10025157431478134,0.27479091995221033
+context_v2,SimpleRNN,Shallow_Mid,571507143_be346225b7.jpg,a woman in a blue shirt is standing on a bench,0.04411629359322707,0.13513513513513514
+context_v2,SimpleRNN,Shallow_Mid,2924884899_f512c84332.jpg,a man with a black shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt,0.0810371533925042,0.30000000000000004
+context_v2,SimpleRNN,Shallow_Mid,1130401779_8c30182e3e.jpg,a brown dog is running through the water,0.18092176081223305,0.8294209702660407
+context_v2,SimpleRNN,Shallow_Mid,3431101934_99a6c55914.jpg,a little girl is jumping on a swing,0.0823481567964712,0.3675766283524904
+context_v2,SimpleRNN,Shallow_Mid,226607225_44d696db6b.jpg,a man is jumping through the water,0.09054992806599667,0.39952531645569617
+context_v2,SimpleRNN,Shallow_Mid,3463268965_f22884fc69.jpg,a man in a red shirt is jumping down a street,0.11094660471566163,0.30789825970548856
+context_v2,SimpleRNN,Shallow_Mid,3437315443_ba2263f92e.jpg,a young girl in a blue shirt is standing on the street,0.17033186037639284,0.44642857142857145
+context_v2,SimpleRNN,Shallow_Mid,3589367895_5d3729e3ea.jpg,a group of people are standing in a red shirt is standing in a crowd of a crowd of a crowd of a crowd of a crowd of a crowd of a crowd of,0.03222323801783205,0.22189349112426038
+context_v2,SimpleRNN,Shallow_Mid,2372572028_53b76104a9.jpg,a young boy in a red shirt is sitting on a tire,0.10608634983804321,0.41481810115350487
+context_v2,SimpleRNN,Shallow_Mid,3030962048_f71948226c.jpg,a man in a red shirt and a hat and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in,0.0077426364109627836,0.1056338028169014
+context_v2,SimpleRNN,Shallow_Mid,3392019836_c7aeebca1c.jpg,a man is sitting on a wooden building,0.06985342056580097,0.20764802631578946
+context_v2,SimpleRNN,Shallow_Mid,2289096282_4ef120f189.jpg,a woman is walking on a tree,0.05411516285864537,0.2410901467505241
+context_v2,SimpleRNN,Shallow_Mid,537359971_6e28f5e66e.jpg,a woman in a white dress and a woman in a red dress and a woman in a red dress and a woman in a red dress and a woman in a red dress,0.0077426364109627836,0.09433962264150943
+context_v2,SimpleRNN,Shallow_Mid,319870744_0e0138d205.jpg,a man is walking on a mountain,0.23119742295813958,0.6392045454545455
+context_v2,SimpleRNN,Shallow_Mid,535529555_583d89b7f2.jpg,a brown dog is running in the grass,0.03655552228545124,0.22471910112359547
+context_v2,SimpleRNN,Shallow_Mid,3415809168_af9dabdba5.jpg,a dog running in the grass,0.15409904547990594,0.4310344827586207
+context_v2,SimpleRNN,Shallow_Mid,467858872_f3431df682.jpg,a dog is running through the woods,0.01666998712262484,0.11278195488721805
+context_v2,SimpleRNN,Shallow_Mid,1299459550_1fd5594fa2.jpg,a young girl in a blue shirt is jumping into the water,0.04532931884180109,0.2976190476190476
+context_v2,SimpleRNN,Shallow_Mid,3318995586_c2bc50b92e.jpg,a young boy is playing in a blue shirt is playing in a blue shirt is playing in a blue shirt is playing in a blue shirt is playing in a blue shirt is,0.01583610518564545,0.17391304347826086
+context_v2,SimpleRNN,Shallow_Mid,3079787482_0757e9d167.jpg,a little boy in a blue shirt and a baby in a toy,0.036362270465000714,0.13157894736842107
+context_v2,SimpleRNN,Shallow_Mid,3037558954_20115165e3.jpg,a man is jumping on a beach,0.21515344521672802,0.42613636363636365
+context_v2,SimpleRNN,Shallow_Mid,2176874361_2b4149010b.jpg,a dog is running through a field,0.20556680845025987,0.4206349206349207
+context_v2,SimpleRNN,Shallow_Mid,2328104318_5a43ca170c.jpg,a man in a red shirt is standing on a wooden wall,0.28646290158800986,0.5289115646258503
+context_v2,SimpleRNN,Shallow_Mid,3203707977_cc9448fecb.jpg,a man in a black shirt and a woman in a black and white shirt and a black and white shirt and a black and white shirt and a black and white shirt and,0.03566087490853475,0.2608695652173913
+context_v2,SimpleRNN,Shallow_Mid,3694093650_547259731e.jpg,a group of people are standing in a crowd of a group of people in a crowd of a group of people in a crowd of a group of people in a crowd of,0.12480006420394119,0.4791666666666667
+context_v2,SimpleRNN,Shallow_Mid,241046599_28b0ca7b9f.jpg,two dogs are running through the grass,0.07730551756939454,0.2222711267605634
+context_v2,SimpleRNN,Shallow_Mid,2257294002_0073263c54.jpg,a group of people are playing in the air,0.03391326091030751,0.2222222222222222
+context_v2,SimpleRNN,Shallow_Mid,210625425_fb1ef5d23b.jpg,a man is in a blue shirt is driving on a lake,0.053863663688318665,0.2505446623093682
+context_v2,SimpleRNN,Shallow_Mid,3612249030_e2829ffa31.jpg,a young girl in a blue shirt and a black and white and white and white and white and white and white and white and white and white and white and white and white,0.018120458368871713,0.2061855670103093
+context_v2,SimpleRNN,Shallow_Mid,3271084924_4778d556cc.jpg,two dogs are running in the grass,0.9306048591020996,0.8551587301587302
+context_v2,SimpleRNN,Shallow_Mid,1248734482_3038218f3b.jpg,a little girl in a blue shirt is playing in a grassy field,0.09826541096288843,0.327991452991453
+context_v2,SimpleRNN,Shallow_Mid,765929807_de381cc764.jpg,a man in a blue shirt is sitting on a rock,0.12760671487807074,0.3993055555555555
+context_v2,SimpleRNN,Shallow_Mid,3559781965_d4ec00e506.jpg,a brown dog is running through the grass,0.1388678643995174,0.4406130268199233
+context_v2,SimpleRNN,Shallow_Mid,2525270674_4ab536e7ec.jpg,a dog is running through a grassy field,0.05709324736182451,0.22030651340996166
+context_v2,SimpleRNN,Shallow_Mid,2335619125_2e2034f2c3.jpg,a black dog is running through the snow,1.0,0.9990234375
+context_v2,SimpleRNN,Shallow_Mid,3195188609_01afbe46e6.jpg,two men are playing in the field,0.08783602619713961,0.39952531645569617
+context_v2,SimpleRNN,Shallow_Mid,1975531316_8b00eeaaf7.jpg,a black dog is walking on a large dog,0.07936880926086218,0.45925925925925926
+context_v2,SimpleRNN,Shallow_Mid,2302747917_aa0300eb68.jpg,a group of people are walking on the street,0.025518615589394285,0.06944444444444445
+context_v2,SimpleRNN,Shallow_Mid,3229282764_a4a515f4e2.jpg,a young girl in a blue shirt is jumping into the water,0.04167227247694064,0.30303030303030304
+context_v2,SimpleRNN,Shallow_Mid,3565655045_8eb00b7423.jpg,a man is jumping into the ocean,0.15447878876032708,0.35967741935483877
+context_v2,SimpleRNN,Shallow_Large,2736508369_fd9ff0b42f.jpg,a baseball player in a white uniform is playing in a baseball game,0.11199834887223277,0.3064320388349515
+context_v2,SimpleRNN,Shallow_Large,1093737381_b313cd49ff.jpg,a boy in a red shirt is holding a skateboard on a sidewalk,0.05269647165434938,0.21257142857142855
+context_v2,SimpleRNN,Shallow_Large,3412249548_00820fc4ca.jpg,a man in a red shirt is standing on a camera,0.05012578715739066,0.19801980198019806
+context_v2,SimpleRNN,Shallow_Large,3380072636_4cd59385fd.jpg,a man in a red shirt is jumping to a ball in a field,0.09303723531853667,0.2403846153846154
+context_v2,SimpleRNN,Shallow_Large,3501083764_cf592292a6.jpg,three people are standing in a field,0.24446151121745052,0.4826958105646631
+context_v2,SimpleRNN,Shallow_Large,2911919938_6bb6587a36.jpg,a young boy is jumping into a fountain,0.039281465090051315,0.28301886792452824
+context_v2,SimpleRNN,Shallow_Large,3621717946_d96f8a6012.jpg,a dog is jumping into the water,0.037684991644924185,0.12658227848101264
+context_v2,SimpleRNN,Shallow_Large,3228069008_edb2961fc4.jpg,a brown dog is standing on a small brown dog,0.08633400213704508,0.4536585365853659
+context_v2,SimpleRNN,Shallow_Large,3494394662_3edfd4a34c.jpg,a man wearing a red hat and a hat and a woman in a red jacket and a woman in a red jacket and a woman in a red jacket,0.04696531424527704,0.28434684684684686
+context_v2,SimpleRNN,Shallow_Large,3729405438_6e79077ab2.jpg,a skateboarder is doing a trick on a skateboard,0.07936880926086218,0.35493827160493824
+context_v2,SimpleRNN,Shallow_Large,2868324804_5cc8030484.jpg,a boy in a red shirt is running on a field,0.2547696540824902,0.4518072289156627
+context_v2,SimpleRNN,Shallow_Large,2448393373_80c011d301.jpg,a boy in a blue shirt is holding a ball in a park,0.1331892333474162,0.3173644659151906
+context_v2,SimpleRNN,Shallow_Large,3052196390_c59dd24ca8.jpg,a young boy is jumping into a fountain,0.03655552228545124,0.16853932584269662
+context_v2,SimpleRNN,Shallow_Large,2247192427_5e106f24a9.jpg,a basketball player in a white uniform is dribbling the ball,0.04411629359322707,0.15384615384615385
+context_v2,SimpleRNN,Shallow_Large,2244551043_21b8cca866.jpg,a group of people are standing in a crowded street,0.06985342056580097,0.2808302808302808
+context_v2,SimpleRNN,Shallow_Large,3014080715_f4f0dbb56e.jpg,a group of dogs are in a sled on a field,0.3508439695638686,0.5060506050605059
+context_v2,SimpleRNN,Shallow_Large,3244734844_c318c29c23.jpg,a skateboarder jumps down a skateboard,0.05372849659117709,0.25
+context_v2,SimpleRNN,Shallow_Large,3421928157_69a325366f.jpg,a man in a blue shirt is riding a raft in the air,0.11685792587573332,0.46487603305785125
+context_v2,SimpleRNN,Shallow_Large,3572346664_e1e6c77f11.jpg,a woman with a woman in a black shirt and a woman in a black shirt,0.030934588294313718,0.24109014675052406
+context_v2,SimpleRNN,Shallow_Large,3132760860_3e743a935d.jpg,a young boy is jumping down a skateboard,0.0682218798076897,0.3206896551724139
+context_v2,SimpleRNN,Shallow_Large,2148916767_644ea6a7fa.jpg,a black and white dog is running through the snow,0.6580370064762462,0.7789062500000001
+context_v2,SimpleRNN,Shallow_Large,2998024845_1529c11694.jpg,a man in a red helmet is riding a bike,0.1634812655665549,0.36134651600753287
+context_v2,SimpleRNN,Shallow_Large,2613209320_edf6a2b7e9.jpg,a dog is running through the water,0.12098967350244397,0.5357142857142857
+context_v2,SimpleRNN,Shallow_Large,745966757_6d16dfad8f.jpg,a young girl in a pink dress is walking down a street,0.10025157431478134,0.44834307992202727
+context_v2,SimpleRNN,Shallow_Large,1998457059_c9ac9a1e1a.jpg,a surfer is surfing in the water,0.18575057999133598,0.3650793650793651
+context_v2,SimpleRNN,Shallow_Large,503090187_8758ab5680.jpg,a woman with a white shirt and a white shirt and a white shirt and a white and white shirt and a white and white shirt,0.01700463072175106,0.12931034482758622
+context_v2,SimpleRNN,Shallow_Large,3627679667_0e3de9fc90.jpg,a man in a blue wetsuit is surfing in the water,0.12760671487807074,0.38027108433734946
+context_v2,SimpleRNN,Shallow_Large,516214924_c2a4364cb3.jpg,a brown dog is laying on a brown dog,0.13485111859503685,0.46296296296296297
+context_v2,SimpleRNN,Shallow_Large,3119696225_b289efaec8.jpg,a man in a bikini and a woman is walking on a beach,0.04646684393670022,0.43764705882352933
+context_v2,SimpleRNN,Shallow_Large,3405113041_4b72c24801.jpg,a bird is flying through the water,0.21515344521672802,0.6371428571428571
+context_v2,SimpleRNN,Shallow_Large,3315033940_e91f87b7f2.jpg,a man is surfing on a wave,0.043472087194499145,0.17045454545454547
+context_v2,SimpleRNN,Shallow_Large,791338571_7f38510bf7.jpg,a black dog is sitting on a grassy path,0.067857774292396,0.3303703703703704
+context_v2,SimpleRNN,Shallow_Large,1332208215_fa824f6659.jpg,a man in a white shirt is sitting on a train,0.17242221289766632,0.6105769230769231
+context_v2,SimpleRNN,Shallow_Large,3399944164_ec24123945.jpg,a young girl with a baby in a blue shirt and a baby in a blue shirt,0.053841017619118636,0.35002055921052627
+context_v2,SimpleRNN,Shallow_Large,2696394827_7342ced36f.jpg,a dog is jumping through the water,0.10445522730720382,0.39952531645569617
+context_v2,SimpleRNN,Shallow_Large,2427558437_3e839056d7.jpg,two dogs are running on the beach,0.18651176671349295,0.4821802935010482
+context_v2,SimpleRNN,Shallow_Large,2086678529_b3301c2d71.jpg,a woman in a black dress is standing in a red dress,0.04740604259878138,0.5636363636363637
+context_v2,SimpleRNN,Shallow_Large,2472574160_8ce233f396.jpg,a woman in a blue dress is standing in a field,0.11651778275759282,0.4726890756302521
+context_v2,SimpleRNN,Shallow_Large,413737417_b0a8b445e9.jpg,a group of people are standing on a snowy hill,0.42728700639623407,0.5625
+context_v2,SimpleRNN,Shallow_Large,3690425778_3b390b3ea5.jpg,a man is standing on a rock,0.07201170728284921,0.2410901467505241
+context_v2,SimpleRNN,Shallow_Large,950273886_88c324e663.jpg,a man in a white shirt is climbing a rock,0.30374414220764573,0.7145928899082569
+context_v2,SimpleRNN,Shallow_Large,2886411666_72d8b12ce4.jpg,a white and white dog is running through the grass,0.5623413251903491,0.7705479452054794
+context_v2,SimpleRNN,Shallow_Large,909808296_23c427022d.jpg,two dogs are playing on a grassy field,0.0423682412589593,0.2720905172413793
+context_v2,SimpleRNN,Shallow_Large,2180356743_b3a3c9a7f6.jpg,a group of people are standing on a street,0.3301008309851503,0.5336896663427275
+context_v2,SimpleRNN,Shallow_Large,3640109324_3ce89e4d1a.jpg,a man in a white shirt and a woman in a white shirt and a woman in a white shirt and a woman in a white shirt and a woman in a white shirt,0.0077426364109627836,0.09433962264150943
+context_v2,SimpleRNN,Shallow_Large,481827288_a688be7913.jpg,a brown dog is running through the water,0.08307018474412793,0.5575
+context_v2,SimpleRNN,Shallow_Large,421808539_57abee6d55.jpg,a dog is running through the snow,0.20556680845025987,0.6147540983606558
+context_v2,SimpleRNN,Shallow_Large,3550276904_19de3561c5.jpg,a woman with a woman sitting on a bench,0.08097951150551157,0.2191840277777778
+context_v2,SimpleRNN,Shallow_Large,3686924335_3c51e8834a.jpg,a man is jumping over a skateboard in a park,0.02984745896009824,0.136986301369863
+context_v2,SimpleRNN,Shallow_Large,2843695880_eeea6c67db.jpg,a man is standing on a beach,0.0,0.05154639175257732
+context_v2,SimpleRNN,Shallow_Large,2594459477_8ca0121a9a.jpg,a woman in a blue shirt is standing in the water,0.05406149861913046,0.38027108433734946
+context_v2,SimpleRNN,Shallow_Large,3257277774_aba333a94c.jpg,a black and white dog is running through the snow,0.4518010018049224,0.7602601480152501
+context_v2,SimpleRNN,Shallow_Large,3613030730_0b28b079ba.jpg,a young girl in a blue shirt is playing in a pool,0.045293761707938834,0.28434684684684686
+context_v2,SimpleRNN,Shallow_Large,3164415865_612f9fd8bc.jpg,a group of people are in the snow,0.04153509237206396,0.14084507042253522
+context_v2,SimpleRNN,Shallow_Large,1439282131_3814d6ae04.jpg,a dog is running through the water,0.07730551756939454,0.35866477272727276
+context_v2,SimpleRNN,Shallow_Large,2046222127_a6f300e202.jpg,a boy is jumping on a skateboard,0.043472087194499145,0.15463917525773196
+context_v2,SimpleRNN,Shallow_Large,3271468462_701eb88d3b.jpg,a dog is jumping over a fence,0.0670144447096575,0.29040404040404044
+context_v2,SimpleRNN,Shallow_Large,2533076864_d799996433.jpg,a man is standing in a yard,0.046713797772820004,0.14150943396226415
+context_v2,SimpleRNN,Shallow_Large,3499720588_c32590108e.jpg,a man in a black shirt is standing on a street,0.05012578715739066,0.3876262626262626
+context_v2,SimpleRNN,Shallow_Large,673806038_0a3682a83f.jpg,a young boy in a blue shirt is playing in a pool,0.11094660471566163,0.40322580645161293
+context_v2,SimpleRNN,Shallow_Large,571507143_be346225b7.jpg,a woman in a white shirt is standing in front of a fountain,0.04913270548144422,0.3362573099415205
+context_v2,SimpleRNN,Shallow_Large,2924884899_f512c84332.jpg,a man in a white shirt and white shirt is standing in front of a white shirt,0.24623953025272613,0.3984942886812045
+context_v2,SimpleRNN,Shallow_Large,1130401779_8c30182e3e.jpg,a brown dog is jumping through the water,0.1561969968460128,0.6816901408450705
+context_v2,SimpleRNN,Shallow_Large,3431101934_99a6c55914.jpg,a little girl in a red shirt is sitting on a swing,0.06704226838163328,0.35532407407407407
+context_v2,SimpleRNN,Shallow_Large,226607225_44d696db6b.jpg,a man is in the water,0.07356556000975763,0.32763532763532766
+context_v2,SimpleRNN,Shallow_Large,3463268965_f22884fc69.jpg,a man in a red shirt is running on a street,0.16860237892968197,0.5067567567567568
+context_v2,SimpleRNN,Shallow_Large,3437315443_ba2263f92e.jpg,a young boy wearing a red shirt and a red shirt is holding a red and white shirt,0.07786777655685517,0.2922453703703704
+context_v2,SimpleRNN,Shallow_Large,3589367895_5d3729e3ea.jpg,a man in a white hat is standing on a street,0.06238986072117501,0.21618150684931506
+context_v2,SimpleRNN,Shallow_Large,2372572028_53b76104a9.jpg,two children are sitting on a red car,0.06500593260343691,0.2525
+context_v2,SimpleRNN,Shallow_Large,3030962048_f71948226c.jpg,a man in a red shirt is holding a guitar,0.02984745896009824,0.1694915254237288
+context_v2,SimpleRNN,Shallow_Large,3392019836_c7aeebca1c.jpg,a man is sitting in a large building,0.09193227152249185,0.3362573099415205
+context_v2,SimpleRNN,Shallow_Large,2289096282_4ef120f189.jpg,a man in a green shirt is walking down a path,0.05452469119630864,0.42216721672167207
+context_v2,SimpleRNN,Shallow_Large,537359971_6e28f5e66e.jpg,a woman in a white dress and a white dress,0.02984745896009824,0.12195121951219512
+context_v2,SimpleRNN,Shallow_Large,319870744_0e0138d205.jpg,a group of people are standing on a snowy hill,0.056122223243057295,0.21978021978021975
+context_v2,SimpleRNN,Shallow_Large,535529555_583d89b7f2.jpg,a dog is playing in a grassy field,0.02777619034011792,0.16853932584269662
+context_v2,SimpleRNN,Shallow_Large,3415809168_af9dabdba5.jpg,a dog runs on a grassy field,0.14609701823905347,0.35866477272727276
+context_v2,SimpleRNN,Shallow_Large,467858872_f3431df682.jpg,a dog is running through a grassy field,0.014867523320266895,0.08
+context_v2,SimpleRNN,Shallow_Large,1299459550_1fd5594fa2.jpg,a young girl in a bathing suit is jumping into the water,0.04361566471268858,0.2380952380952381
+context_v2,SimpleRNN,Shallow_Large,3318995586_c2bc50b92e.jpg,a boy in a blue shirt is playing in a blue shirt is playing in a blue shirt,0.03124577801157052,0.2755555555555556
+context_v2,SimpleRNN,Shallow_Large,3079787482_0757e9d167.jpg,a baby with a baby and a baby,0.03303164318013808,0.07042253521126761
+context_v2,SimpleRNN,Shallow_Large,3037558954_20115165e3.jpg,a man is jumping on a beach,0.21515344521672802,0.42613636363636365
+context_v2,SimpleRNN,Shallow_Large,2176874361_2b4149010b.jpg,a dog is running through a grassy field,0.17286039232097053,0.41471048513302033
+context_v2,SimpleRNN,Shallow_Large,2328104318_5a43ca170c.jpg,a man in a white shirt is standing on a sidewalk,0.2894742149567509,0.5333561996227062
+context_v2,SimpleRNN,Shallow_Large,3203707977_cc9448fecb.jpg,a man in a black shirt and a black hat and a black hat,0.04516881220954754,0.39157894736842114
+context_v2,SimpleRNN,Shallow_Large,3694093650_547259731e.jpg,a group of people are standing in front of a group of people in a white shirt,0.4852876548778083,0.5202797202797204
+context_v2,SimpleRNN,Shallow_Large,241046599_28b0ca7b9f.jpg,two brown dogs are running through the grass,0.06985342056580097,0.32206632653061223
+context_v2,SimpleRNN,Shallow_Large,2257294002_0073263c54.jpg,two boys are playing in a game,0.05249325939883762,0.11363636363636365
+context_v2,SimpleRNN,Shallow_Large,210625425_fb1ef5d23b.jpg,a vehicle is driving through the water,0.45499414040480374,0.4989690721649485
+context_v2,SimpleRNN,Shallow_Large,3612249030_e2829ffa31.jpg,a young boy in a blue shirt is walking down a beach,0.119219885465362,0.47821969696969696
+context_v2,SimpleRNN,Shallow_Large,3271084924_4778d556cc.jpg,a black and white dog is running through a field,0.02984745896009824,0.2054794520547945
+context_v2,SimpleRNN,Shallow_Large,1248734482_3038218f3b.jpg,a little girl in a pink shirt is playing on a swing,0.3672056269893592,0.3717766176237937
+context_v2,SimpleRNN,Shallow_Large,765929807_de381cc764.jpg,a group of people are sitting on a rock,0.4463236137853328,0.654320987654321
+context_v2,SimpleRNN,Shallow_Large,3559781965_d4ec00e506.jpg,a brown dog is running through the grass,0.1388678643995174,0.4406130268199233
+context_v2,SimpleRNN,Shallow_Large,2525270674_4ab536e7ec.jpg,a dog is jumping over a tennis ball,0.05709324736182451,0.22030651340996166
+context_v2,SimpleRNN,Shallow_Large,2335619125_2e2034f2c3.jpg,a black dog is running through the snow,1.0,0.9990234375
+context_v2,SimpleRNN,Shallow_Large,3195188609_01afbe46e6.jpg,a group of people are playing in a field,0.20744432576282615,0.854119425547997
+context_v2,SimpleRNN,Shallow_Large,1975531316_8b00eeaaf7.jpg,a small dog is playing on a small dog,0.16784459625186196,0.6310013717421126
+context_v2,SimpleRNN,Shallow_Large,2302747917_aa0300eb68.jpg,a woman in a red shirt and a red shirt and a red and white and white and white and white and white and white and white and white and white and white and,0.01583610518564545,0.11583011583011582
+context_v2,SimpleRNN,Shallow_Large,3229282764_a4a515f4e2.jpg,a young boy in a bikini is standing in a puddle,0.04411629359322707,0.15384615384615385
+context_v2,SimpleRNN,Shallow_Large,3565655045_8eb00b7423.jpg,a man is standing on a rocky water,0.35091197742655805,0.3568
+context_v2,SimpleRNN,Deep_Large,2736508369_fd9ff0b42f.jpg,a man in a white uniform is jumping to hit a ball,0.24384183193426084,0.5514705882352942
+context_v2,SimpleRNN,Deep_Large,1093737381_b313cd49ff.jpg,a man in a red shirt is standing on a sidewalk,0.05637560315259291,0.21739130434782605
+context_v2,SimpleRNN,Deep_Large,3412249548_00820fc4ca.jpg,a man in a red shirt and a hat and a hat and a hat and a hat and a hat is wearing a red shirt,0.05285382217988812,0.2798507462686567
+context_v2,SimpleRNN,Deep_Large,3380072636_4cd59385fd.jpg,a group of people are playing in the air,0.16505041549257518,0.41483259970654923
+context_v2,SimpleRNN,Deep_Large,3501083764_cf592292a6.jpg,a group of people in a crowd,0.08307018474412793,0.3073770491803279
+context_v2,SimpleRNN,Deep_Large,2911919938_6bb6587a36.jpg,a girl in a blue shirt is jumping into a pool,0.026658376817028855,0.23076923076923078
+context_v2,SimpleRNN,Deep_Large,3621717946_d96f8a6012.jpg,a dog in a blue pool,0.10266900960803409,0.32763532763532766
+context_v2,SimpleRNN,Deep_Large,3228069008_edb2961fc4.jpg,a dog is standing on a wooden building,0.17286039232097053,0.605
+context_v2,SimpleRNN,Deep_Large,3494394662_3edfd4a34c.jpg,a man in a black jacket and a black hat and a black hat and a black hat and a black hat and a black hat and a black hat and a black hat,0.039825696112811726,0.27445652173913043
+context_v2,SimpleRNN,Deep_Large,3729405438_6e79077ab2.jpg,a skateboarder is jumping on a skateboard,0.08307018474412793,0.3234880450070324
+context_v2,SimpleRNN,Deep_Large,2868324804_5cc8030484.jpg,a young girl in a red shirt is running on a grassy field,0.2796842457966537,0.5247058823529411
+context_v2,SimpleRNN,Deep_Large,2448393373_80c011d301.jpg,a girl in a red shirt and white shirt is standing on a wooden fence,0.021500003802814183,0.18817204301075266
+context_v2,SimpleRNN,Deep_Large,3052196390_c59dd24ca8.jpg,a girl in a blue shirt is jumping into a pool,0.04411629359322707,0.18072289156626503
+context_v2,SimpleRNN,Deep_Large,2247192427_5e106f24a9.jpg,a group of men in a white uniform is playing,0.025132936350227657,0.15625
+context_v2,SimpleRNN,Deep_Large,2244551043_21b8cca866.jpg,a group of people in a crowd,0.062425357566781164,0.29040404040404044
+context_v2,SimpleRNN,Deep_Large,3014080715_f4f0dbb56e.jpg,two dogs are running in the snow,0.09878765474230743,0.2634593356242841
+context_v2,SimpleRNN,Deep_Large,3244734844_c318c29c23.jpg,a skateboarder is jumping a skateboard,0.05773502691896258,0.25
+context_v2,SimpleRNN,Deep_Large,3421928157_69a325366f.jpg,a group of people are in the water,0.42728700639623407,0.32327586206896547
+context_v2,SimpleRNN,Deep_Large,3572346664_e1e6c77f11.jpg,a woman in a black shirt and a black hat and a black shirt and a black shirt and a black shirt and a black shirt and a black shirt,0.015703799285850036,0.125
+context_v2,SimpleRNN,Deep_Large,3132760860_3e743a935d.jpg,a boy in a red shirt is jumping over a skateboard,0.04790437745835816,0.24658203125000006
+context_v2,SimpleRNN,Deep_Large,2148916767_644ea6a7fa.jpg,a dog is running through the snow,0.45499414040480374,0.5669642857142857
+context_v2,SimpleRNN,Deep_Large,2998024845_1529c11694.jpg,a man in a red shirt is riding a trick on a bike,0.1235622127262679,0.35238751147842057
+context_v2,SimpleRNN,Deep_Large,2613209320_edf6a2b7e9.jpg,a dog is running through the water,0.12098967350244397,0.5357142857142857
+context_v2,SimpleRNN,Deep_Large,745966757_6d16dfad8f.jpg,a girl in a red shirt is walking down a sidewalk,0.02950234363196405,0.24752475247524755
+context_v2,SimpleRNN,Deep_Large,1998457059_c9ac9a1e1a.jpg,a man in a blue suit is jumping into the water,0.05452469119630864,0.21319444444444444
+context_v2,SimpleRNN,Deep_Large,503090187_8758ab5680.jpg,a woman in a red shirt is standing on a rock wall,0.024088562704853513,0.16129032258064518
+context_v2,SimpleRNN,Deep_Large,3627679667_0e3de9fc90.jpg,a man in a red shirt is standing in the water,0.05012578715739066,0.18072289156626503
+context_v2,SimpleRNN,Deep_Large,516214924_c2a4364cb3.jpg,a dog is standing in a grassy area,0.06985342056580097,0.41218637992831536
+context_v2,SimpleRNN,Deep_Large,3119696225_b289efaec8.jpg,a woman in a red shirt is walking on a beach,0.05452469119630864,0.4481927710843373
+context_v2,SimpleRNN,Deep_Large,3405113041_4b72c24801.jpg,a bird is jumping through the water,0.10445522730720382,0.5068181818181817
+context_v2,SimpleRNN,Deep_Large,3315033940_e91f87b7f2.jpg,a man in a red jacket is standing on the beach,0.059609942732681,0.48478260869565226
+context_v2,SimpleRNN,Deep_Large,791338571_7f38510bf7.jpg,a group of people are walking on a grassy road,0.05307712171072445,0.18790849673202614
+context_v2,SimpleRNN,Deep_Large,1332208215_fa824f6659.jpg,a man in a black shirt and a black shirt and a black shirt and a black shirt and a black shirt and a woman in a black shirt and a woman in a,0.037061986319706204,0.24468971261974176
+context_v2,SimpleRNN,Deep_Large,3399944164_ec24123945.jpg,a girl in a red shirt and a white shirt and a white shirt,0.11064054220098625,0.23489932885906042
+context_v2,SimpleRNN,Deep_Large,2696394827_7342ced36f.jpg,a dog is running through the water,0.10445522730720382,0.39952531645569617
+context_v2,SimpleRNN,Deep_Large,2427558437_3e839056d7.jpg,a dog is running through the sand,0.037684991644924185,0.14150943396226415
+context_v2,SimpleRNN,Deep_Large,2086678529_b3301c2d71.jpg,a girl in a red dress is holding a baby in a red dress,0.2044800736021839,0.6270424836601308
+context_v2,SimpleRNN,Deep_Large,2472574160_8ce233f396.jpg,a girl in a red dress and white hair and white hair,0.05637560315259291,0.42592592592592593
+context_v2,SimpleRNN,Deep_Large,413737417_b0a8b445e9.jpg,a man in a red jacket is walking down a rocky hill,0.053863663688318665,0.19999999999999998
+context_v2,SimpleRNN,Deep_Large,3690425778_3b390b3ea5.jpg,a man is standing on a rock wall,0.06985342056580097,0.2388369678089304
+context_v2,SimpleRNN,Deep_Large,950273886_88c324e663.jpg,a man in a red shirt is climbing a rock,0.5418220425805959,0.8211575489862951
+context_v2,SimpleRNN,Deep_Large,2886411666_72d8b12ce4.jpg,a dog is running through the grass,0.34996355115805833,0.8412698412698414
+context_v2,SimpleRNN,Deep_Large,909808296_23c427022d.jpg,a dog is running through the grass,0.04836067244628849,0.2545362903225807
+context_v2,SimpleRNN,Deep_Large,2180356743_b3a3c9a7f6.jpg,a man in a red shirt and black hat and a red shirt and a black jacket and a black jacket and a red jacket,0.020144990145560468,0.14084507042253522
+context_v2,SimpleRNN,Deep_Large,3640109324_3ce89e4d1a.jpg,a group of people are sitting on a street,0.14113991930789777,0.46296296296296297
+context_v2,SimpleRNN,Deep_Large,481827288_a688be7913.jpg,a dog is running through the water,0.07730551756939454,0.5174180327868853
+context_v2,SimpleRNN,Deep_Large,421808539_57abee6d55.jpg,a dog is running through the snow,0.20556680845025987,0.6147540983606558
+context_v2,SimpleRNN,Deep_Large,3550276904_19de3561c5.jpg,a woman in a black shirt and a woman in a black shirt and a woman in a black shirt and a woman in a black shirt and a woman in a black shirt,0.019471699714049804,0.1912057797708022
+context_v2,SimpleRNN,Deep_Large,3686924335_3c51e8834a.jpg,a man is jumping over a wooden bench,0.039281465090051315,0.14084507042253522
+context_v2,SimpleRNN,Deep_Large,2843695880_eeea6c67db.jpg,a man in a red shirt is standing on a river,0.018850319022747353,0.10638297872340427
+context_v2,SimpleRNN,Deep_Large,2594459477_8ca0121a9a.jpg,a girl in a red shirt is standing on a river,0.09613644987024733,0.4265202702702703
+context_v2,SimpleRNN,Deep_Large,3257277774_aba333a94c.jpg,a black and white dog is running through the water,0.4111336169005197,0.647130647130647
+context_v2,SimpleRNN,Deep_Large,3613030730_0b28b079ba.jpg,a little girl in a blue shirt is standing on a water,0.024088562704853513,0.15151515151515152
+context_v2,SimpleRNN,Deep_Large,3164415865_612f9fd8bc.jpg,a group of people are walking on a snowy hill,0.1242188995129533,0.5136986301369862
+context_v2,SimpleRNN,Deep_Large,1439282131_3814d6ae04.jpg,a dog is running through the water,0.07730551756939454,0.35866477272727276
+context_v2,SimpleRNN,Deep_Large,2046222127_a6f300e202.jpg,a girl is jumping on a skateboard,0.043472087194499145,0.15463917525773196
+context_v2,SimpleRNN,Deep_Large,3271468462_701eb88d3b.jpg,a dog is running through the grass,0.08563683466425753,0.2222711267605634
+context_v2,SimpleRNN,Deep_Large,2533076864_d799996433.jpg,a dog is standing on a wooden building,0.03655552228545124,0.14018691588785046
+context_v2,SimpleRNN,Deep_Large,3499720588_c32590108e.jpg,a man in a black shirt and a black shirt and a black shirt and a black shirt and a black shirt and a black shirt and a black shirt and a black shirt,0.013768570909032773,0.15037593984962405
+context_v2,SimpleRNN,Deep_Large,673806038_0a3682a83f.jpg,two children are playing in the air,0.08563683466425753,0.4746835443037974
+context_v2,SimpleRNN,Deep_Large,571507143_be346225b7.jpg,a group of people are sitting on a bench,0.13485111859503685,0.2504960317460318
+context_v2,SimpleRNN,Deep_Large,2924884899_f512c84332.jpg,a man in a black shirt and a black shirt and a black shirt,0.16295846120958615,0.3670058139534884
+context_v2,SimpleRNN,Deep_Large,1130401779_8c30182e3e.jpg,a dog is running through the water,0.20556680845025987,0.6914285714285714
+context_v2,SimpleRNN,Deep_Large,3431101934_99a6c55914.jpg,a girl in a blue shirt is jumping over a swing,0.052463410228614595,0.23232323232323232
+context_v2,SimpleRNN,Deep_Large,226607225_44d696db6b.jpg,a man is standing in the water,0.07201170728284921,0.3234880450070324
+context_v2,SimpleRNN,Deep_Large,3463268965_f22884fc69.jpg,a man in a red shirt is jumping on a sidewalk,0.12760671487807074,0.34534534534534533
+context_v2,SimpleRNN,Deep_Large,3437315443_ba2263f92e.jpg,a girl in a red shirt and a white shirt is sitting on a sidewalk,0.30934588294313714,0.5111111111111111
+context_v2,SimpleRNN,Deep_Large,3589367895_5d3729e3ea.jpg,a group of people are standing in front of a crowd of people,0.21401603033752975,0.25337837837837834
+context_v2,SimpleRNN,Deep_Large,2372572028_53b76104a9.jpg,a girl in a red shirt is sitting on a red car,0.053905948484896764,0.3703703703703703
+context_v2,SimpleRNN,Deep_Large,3030962048_f71948226c.jpg,a man in a black shirt and a hat and a hat and a hat and a hat and a hat and a hat,0.011191021613657745,0.11363636363636363
+context_v2,SimpleRNN,Deep_Large,3392019836_c7aeebca1c.jpg,a group of people are sitting on a bench,0.06030725360407769,0.3155006858710563
+context_v2,SimpleRNN,Deep_Large,2289096282_4ef120f189.jpg,a man is sitting on a rock wall,0.05440189863686198,0.35046728971962615
+context_v2,SimpleRNN,Deep_Large,537359971_6e28f5e66e.jpg,a woman in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt,0.010275474580767148,0.10204081632653061
+context_v2,SimpleRNN,Deep_Large,319870744_0e0138d205.jpg,a man in a red jacket is standing on a rocky hill,0.059656738552532215,0.41802832244008714
+context_v2,SimpleRNN,Deep_Large,535529555_583d89b7f2.jpg,a dog is running through a grassy area,0.02777619034011792,0.16853932584269662
+context_v2,SimpleRNN,Deep_Large,3415809168_af9dabdba5.jpg,a dog is running through the grass,0.32668286409255015,0.2545362903225807
+context_v2,SimpleRNN,Deep_Large,467858872_f3431df682.jpg,a dog is running through the grass,0.01666998712262484,0.11278195488721805
+context_v2,SimpleRNN,Deep_Large,1299459550_1fd5594fa2.jpg,a girl in a blue shirt is standing on a river,0.05012578715739066,0.290625
+context_v2,SimpleRNN,Deep_Large,3318995586_c2bc50b92e.jpg,a girl in a red shirt is holding a red shirt,0.05637560315259291,0.23437499999999997
+context_v2,SimpleRNN,Deep_Large,3079787482_0757e9d167.jpg,a little girl in a pink shirt and a girl in a blue shirt and a girl in a blue shirt,0.051366639095059535,0.23809523809523805
+context_v2,SimpleRNN,Deep_Large,3037558954_20115165e3.jpg,a man in a blue shirt is jumping into the water,0.06484115071397648,0.5555555555555555
+context_v2,SimpleRNN,Deep_Large,2176874361_2b4149010b.jpg,a dog is walking through a grassy area,0.08783602619713961,0.26408450704225356
+context_v2,SimpleRNN,Deep_Large,2328104318_5a43ca170c.jpg,a man in a red shirt and black hat is standing on a bench,0.24739977342883948,0.5202408832385413
+context_v2,SimpleRNN,Deep_Large,3203707977_cc9448fecb.jpg,a man in a black shirt and a woman in a black shirt and a woman in a black jacket,0.0627251733901403,0.297029702970297
+context_v2,SimpleRNN,Deep_Large,3694093650_547259731e.jpg,a group of people are sitting on a sidewalk,0.3549481056010053,0.5208333333333334
+context_v2,SimpleRNN,Deep_Large,241046599_28b0ca7b9f.jpg,a dog running in the grass,0.09189343000084486,0.26382978723404255
+context_v2,SimpleRNN,Deep_Large,2257294002_0073263c54.jpg,a group of people are playing in the air,0.03391326091030751,0.2222222222222222
+context_v2,SimpleRNN,Deep_Large,210625425_fb1ef5d23b.jpg,a group of people are walking on a rocky river,0.025098621243978974,0.0684931506849315
+context_v2,SimpleRNN,Deep_Large,3612249030_e2829ffa31.jpg,a girl in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt,0.010275474580767148,0.16853932584269665
+context_v2,SimpleRNN,Deep_Large,3271084924_4778d556cc.jpg,two dogs are running in the grass,0.9306048591020996,0.8551587301587302
+context_v2,SimpleRNN,Deep_Large,1248734482_3038218f3b.jpg,a little girl in a pink shirt is sitting on a slide,0.3672056269893592,0.3717766176237937
+context_v2,SimpleRNN,Deep_Large,765929807_de381cc764.jpg,a man in a red shirt is climbing a rock,0.07259795291154773,0.33573928258967634
+context_v2,SimpleRNN,Deep_Large,3559781965_d4ec00e506.jpg,a dog is running through the grass,0.06173866219946367,0.3234782608695652
+context_v2,SimpleRNN,Deep_Large,2525270674_4ab536e7ec.jpg,a dog is running through a grassy field,0.05709324736182451,0.22030651340996166
+context_v2,SimpleRNN,Deep_Large,2335619125_2e2034f2c3.jpg,a black dog is running through the grass,0.8408964152537145,0.8737244897959183
+context_v2,SimpleRNN,Deep_Large,3195188609_01afbe46e6.jpg,a group of people are playing in the air,0.1561969968460128,0.5506172839506173
+context_v2,SimpleRNN,Deep_Large,1975531316_8b00eeaaf7.jpg,a dog is walking through the air,0.1417182961428368,0.3234880450070324
+context_v2,SimpleRNN,Deep_Large,2302747917_aa0300eb68.jpg,a girl in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt,0.05085570764977474,0.1394422310756972
+context_v2,SimpleRNN,Deep_Large,3229282764_a4a515f4e2.jpg,a girl in a pink shirt is jumping into the water,0.059609942732681,0.3931623931623932
+context_v2,SimpleRNN,Deep_Large,3565655045_8eb00b7423.jpg,a man is standing on a rock,0.38185022210613584,0.41218637992831547
+context_v2,LSTM,Shallow_Small,2736508369_fd9ff0b42f.jpg,a man in a ball,0.668740304976422,0.33223684210526316
+context_v2,LSTM,Shallow_Small,1093737381_b313cd49ff.jpg,a man in a man in a red shirt and a man in a red shirt and a red shirt and a red shirt and a man in a red shirt and a red,0.01883240896070105,0.18378831417624522
+context_v2,LSTM,Shallow_Small,3412249548_00820fc4ca.jpg,a man in a man in a red shirt and a man and a man and a man in a red shirt and a man and a man and a man in a red,0.017313061339977776,0.23731203007518795
+context_v2,LSTM,Shallow_Small,3380072636_4cd59385fd.jpg,a man in a ball,0.05911295955652278,0.33223684210526316
+context_v2,LSTM,Shallow_Small,3501083764_cf592292a6.jpg,a man in a man in a red shirt and a man in a red and a man in a red and white and a man in a red and white and a man,0.1403604669765699,0.3447884215991693
+context_v2,LSTM,Shallow_Small,2911919938_6bb6587a36.jpg,a boy is in a girl in a blue shirt is in a blue shirt is in a blue shirt is in a blue shirt is in a blue shirt and a blue shirt,0.015237428485138389,0.189873417721519
+context_v2,LSTM,Shallow_Small,3621717946_d96f8a6012.jpg,a dog is running in a water,0.08563683466425753,0.39952531645569617
+context_v2,LSTM,Shallow_Small,3228069008_edb2961fc4.jpg,a dog is running in a black dog in a black dog in a black dog,0.07655122720591222,0.22727272727272727
+context_v2,LSTM,Shallow_Small,3494394662_3edfd4a34c.jpg,a man in a man and a man and a man and a man and a man and a man and a man and a man and a man and a man and a,0.017313061339977776,0.20902317880794707
+context_v2,LSTM,Shallow_Small,3729405438_6e79077ab2.jpg,a man is in a man in a man in a red shirt is in a red shirt is in a red shirt in a red shirt is in a red shirt in a,0.015237428485138389,0.23731203007518795
+context_v2,LSTM,Shallow_Small,2868324804_5cc8030484.jpg,a boy in a ball,0.08428828344718171,0.275735294117647
+context_v2,LSTM,Shallow_Small,2448393373_80c011d301.jpg,a man in a red shirt and a red shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt,0.018120458368871713,0.23250000000000004
+context_v2,LSTM,Shallow_Small,3052196390_c59dd24ca8.jpg,a boy is in a pool,0.09554427922043669,0.32763532763532766
+context_v2,LSTM,Shallow_Small,2247192427_5e106f24a9.jpg,a man in a ball,0.06389431042462725,0.09615384615384616
+context_v2,LSTM,Shallow_Small,2244551043_21b8cca866.jpg,a man in a man and a man and a man and a man and a man and a man and a man and a man and a man and a man and a,0.020053583653512706,0.2005347593582888
+context_v2,LSTM,Shallow_Small,3014080715_f4f0dbb56e.jpg,a man is running in a field,0.039281465090051315,0.14285714285714285
+context_v2,LSTM,Shallow_Small,3244734844_c318c29c23.jpg,a man is in a blue shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in,0.037061986319706204,0.1704545454545455
+context_v2,LSTM,Shallow_Small,3421928157_69a325366f.jpg,a man is in a wave,0.10855926040543844,0.3125
+context_v2,LSTM,Shallow_Small,3572346664_e1e6c77f11.jpg,a man in a red shirt and a man and a man and a man and a man and a man and a man and a man and a man and a man and,0.012813098990837714,0.12096774193548387
+context_v2,LSTM,Shallow_Small,3132760860_3e743a935d.jpg,a man is in a man in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red,0.0077426364109627836,0.1056338028169014
+context_v2,LSTM,Shallow_Small,2148916767_644ea6a7fa.jpg,a dog is running in a field,0.08783602619713961,0.4189435336976321
+context_v2,LSTM,Shallow_Small,2998024845_1529c11694.jpg,a man is is in a bike,0.10932651139290935,0.27445652173913043
+context_v2,LSTM,Shallow_Small,2613209320_edf6a2b7e9.jpg,a dog is running in a water,0.10445522730720382,0.32538659793814434
+context_v2,LSTM,Shallow_Small,745966757_6d16dfad8f.jpg,a boy in a boy is in a blue shirt is in a blue shirt is in a blue shirt is in a blue shirt and a red shirt and a red shirt and,0.01883240896070105,0.30000000000000004
+context_v2,LSTM,Shallow_Small,1998457059_c9ac9a1e1a.jpg,a man is in a water,0.051675473202961675,0.1282051282051282
+context_v2,LSTM,Shallow_Small,503090187_8758ab5680.jpg,a man in a man is in a red shirt in a red shirt and a man in a red shirt and a man is in a red shirt in a red shirt and,0.030787460505623355,0.2634593356242841
+context_v2,LSTM,Shallow_Small,3627679667_0e3de9fc90.jpg,a man is in a water,0.10266900960803409,0.17241379310344826
+context_v2,LSTM,Shallow_Small,516214924_c2a4364cb3.jpg,a dog is running in a field,0.08307018474412793,0.5174180327868853
+context_v2,LSTM,Shallow_Small,3119696225_b289efaec8.jpg,a man is in a water,0.043742343691381705,0.25641025641025644
+context_v2,LSTM,Shallow_Small,3405113041_4b72c24801.jpg,a man is is running in the water,0.06985342056580097,0.3546348314606741
+context_v2,LSTM,Shallow_Small,3315033940_e91f87b7f2.jpg,a man is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in,0.02709640533706218,0.2222222222222222
+context_v2,LSTM,Shallow_Small,791338571_7f38510bf7.jpg,a man is in a red and white and white and white and white and white and white and white and white and white and white and white and white and white and white,0.017313061339977776,0.23731203007518795
+context_v2,LSTM,Shallow_Small,1332208215_fa824f6659.jpg,a man in a man in a man and a man and a man and a man and a man and a man and a man and a man and a man and a,0.03566087490853475,0.21754535147392287
+context_v2,LSTM,Shallow_Small,3399944164_ec24123945.jpg,a man in a red shirt and a white and white and white and white and white and white and white and white and white and white and white and white and white and,0.08422109323240742,0.1775147928994083
+context_v2,LSTM,Shallow_Small,2696394827_7342ced36f.jpg,a dog is running in a water,0.10932651139290935,0.4708860759493671
+context_v2,LSTM,Shallow_Small,2427558437_3e839056d7.jpg,a dog is running in a water,0.04049515890265692,0.189873417721519
+context_v2,LSTM,Shallow_Small,2086678529_b3301c2d71.jpg,a man in a woman and a woman and a woman and a woman and a woman and a woman and a woman and a woman and a woman and a woman and a,0.013768570909032773,0.1704545454545455
+context_v2,LSTM,Shallow_Small,2472574160_8ce233f396.jpg,a man is in a red shirt and a white and white and white and white and white and white and white and white and white and white and white and white and white,0.1077448900968642,0.35377358490566035
+context_v2,LSTM,Shallow_Small,413737417_b0a8b445e9.jpg,a man in a man in a mountain,0.06500593260343691,0.3599374021909233
+context_v2,LSTM,Shallow_Small,3690425778_3b390b3ea5.jpg,a man is in a water,0.10855926040543844,0.30059523809523814
+context_v2,LSTM,Shallow_Small,950273886_88c324e663.jpg,a man in a man is in a man in a man in a rock,0.195647514979229,0.44834307992202727
+context_v2,LSTM,Shallow_Small,2886411666_72d8b12ce4.jpg,a dog is running in a field,0.274941620352113,0.42613636363636365
+context_v2,LSTM,Shallow_Small,909808296_23c427022d.jpg,a dog is running in a field,0.04836067244628849,0.2545362903225807
+context_v2,LSTM,Shallow_Small,2180356743_b3a3c9a7f6.jpg,a man in a man in a man and a man and a man and a man and a man and a man and a man and a man and a man in a,0.015237428485138389,0.197265625
+context_v2,LSTM,Shallow_Small,3640109324_3ce89e4d1a.jpg,a man in a man and a man and a man and a man and a man and a man and a man and a man and a man and a man and a,0.0077426364109627836,0.09433962264150943
+context_v2,LSTM,Shallow_Small,481827288_a688be7913.jpg,a dog is running in a water,0.043472087194499145,0.5174180327868853
+context_v2,LSTM,Shallow_Small,421808539_57abee6d55.jpg,a dog is running in a field,0.07730551756939454,0.24590163934426232
+context_v2,LSTM,Shallow_Small,3550276904_19de3561c5.jpg,a man in a woman and a man and a man and a man and a man and a man and a man and a man and a man and a man and a,0.01883240896070105,0.11210762331838565
+context_v2,LSTM,Shallow_Small,3686924335_3c51e8834a.jpg,a man is is is is is is is is is is is is is is is is is is is is is is is is is is and white and white and white,0.006510755202591488,0.15463917525773196
+context_v2,LSTM,Shallow_Small,2843695880_eeea6c67db.jpg,a man in a water,0.06389431042462725,0.24390243902439024
+context_v2,LSTM,Shallow_Small,2594459477_8ca0121a9a.jpg,a boy is in a water,0.09189343000084486,0.3703703703703703
+context_v2,LSTM,Shallow_Small,3257277774_aba333a94c.jpg,a dog is running in a field,0.07730551756939454,0.24590163934426232
+context_v2,LSTM,Shallow_Small,3613030730_0b28b079ba.jpg,a boy is in a water,0.06104735835807843,0.16666666666666666
+context_v2,LSTM,Shallow_Small,3164415865_612f9fd8bc.jpg,a man in a man in a man in a red shirt is in a red shirt in a red shirt in a red shirt in a red shirt in a red shirt in,0.005474870710453651,0.051546391752577324
+context_v2,LSTM,Shallow_Small,1439282131_3814d6ae04.jpg,a dog is running in a water,0.043472087194499145,0.2272727272727273
+context_v2,LSTM,Shallow_Small,2046222127_a6f300e202.jpg,a man is in a blue shirt is in a blue shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in,0.018120458368871713,0.1879699248120301
+context_v2,LSTM,Shallow_Small,3271468462_701eb88d3b.jpg,a dog is running through a field,0.0670144447096575,0.29040404040404044
+context_v2,LSTM,Shallow_Small,2533076864_d799996433.jpg,a man is in a white dog in a white dog in a white dog in a white dog in a white dog in a white dog in a white dog in a white,0.0085686357268259,0.15037593984962405
+context_v2,LSTM,Shallow_Small,3499720588_c32590108e.jpg,a man in a man in a man and a man in a red shirt and a man and a man in a red shirt and a man and a man in a red,0.013768570909032773,0.17996870109546165
+context_v2,LSTM,Shallow_Small,673806038_0a3682a83f.jpg,a boy is in a boy in a blue ball,0.31239399369202553,0.2808302808302808
+context_v2,LSTM,Shallow_Small,571507143_be346225b7.jpg,a man in a man in a man and a man and a man and a man and a man and a man and a man and a man and a man and a,0.012813098990837714,0.10309278350515465
+context_v2,LSTM,Shallow_Small,2924884899_f512c84332.jpg,a man in a man and a man and a man and a man and a man and a man and a man and a man and a man and a man and a,0.07205335066302805,0.30000000000000004
+context_v2,LSTM,Shallow_Small,1130401779_8c30182e3e.jpg,a dog is running in a water,0.08307018474412793,0.30241935483870974
+context_v2,LSTM,Shallow_Small,3431101934_99a6c55914.jpg,a boy is in a boy is in a blue shirt is is in a blue shirt is is in a blue shirt is is in a blue shirt is is in a blue,0.013768570909032773,0.15120967741935484
+context_v2,LSTM,Shallow_Small,226607225_44d696db6b.jpg,a man is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in,0.006510755202591488,0.09433962264150943
+context_v2,LSTM,Shallow_Small,3463268965_f22884fc69.jpg,a man is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in,0.015237428485138389,0.14150943396226415
+context_v2,LSTM,Shallow_Small,3437315443_ba2263f92e.jpg,a man in a red shirt and a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a man in a,0.07837655860096929,0.3387272068590749
+context_v2,LSTM,Shallow_Small,3589367895_5d3729e3ea.jpg,a man in a man in a man and a man and a man and a man and a man and a man and a man and a man and a man and a,0.013768570909032773,0.2060931899641577
+context_v2,LSTM,Shallow_Small,2372572028_53b76104a9.jpg,a man in a boy is in a blue shirt is in a blue shirt is in a blue shirt is in a blue shirt is in a blue shirt is in a blue,0.037061986319706204,0.21875
+context_v2,LSTM,Shallow_Small,3030962048_f71948226c.jpg,a man in a man and a man and a man and a man and a man and a man and a man and a man and a man and a man and a,0.0077426364109627836,0.1056338028169014
+context_v2,LSTM,Shallow_Small,3392019836_c7aeebca1c.jpg,a man is in a man in a red shirt and a man in a red shirt and a man in a red shirt and a man in a red shirt and a man,0.03462612267995555,0.19662921348314608
+context_v2,LSTM,Shallow_Small,2289096282_4ef120f189.jpg,a man is in a man in a rock,0.032087960321332466,0.20202020202020204
+context_v2,LSTM,Shallow_Small,537359971_6e28f5e66e.jpg,a man in a man and a man and a man and a man and a man and a man and a man and a man and a man and a man and a,0.007205335066302803,0.09433962264150943
+context_v2,LSTM,Shallow_Small,319870744_0e0138d205.jpg,a man in a man in a red shirt is in a red shirt in a red shirt is in a red shirt in a red shirt is in a red shirt in a,0.013768570909032773,0.17391304347826086
+context_v2,LSTM,Shallow_Small,535529555_583d89b7f2.jpg,a dog is running in a field,0.033031643180138064,0.17045454545454547
+context_v2,LSTM,Shallow_Small,3415809168_af9dabdba5.jpg,a dog is running in a field,0.5976278945158731,0.5499999999999999
+context_v2,LSTM,Shallow_Small,467858872_f3431df682.jpg,a dog is running in a field,0.01666998712262484,0.08064516129032259
+context_v2,LSTM,Shallow_Small,1299459550_1fd5594fa2.jpg,a boy is in a water,0.10855926040543844,0.29411764705882354
+context_v2,LSTM,Shallow_Small,3318995586_c2bc50b92e.jpg,a boy is in a red shirt and a red shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white,0.0085686357268259,0.13245033112582785
+context_v2,LSTM,Shallow_Small,3079787482_0757e9d167.jpg,a man in a white and white and white and white and white and white and white and white and white and white and white and white and white and white and white and,0.006510755202591488,0.051546391752577324
+context_v2,LSTM,Shallow_Small,3037558954_20115165e3.jpg,a man is in a water,0.24028114141347542,0.4275862068965518
+context_v2,LSTM,Shallow_Small,2176874361_2b4149010b.jpg,a dog is running in a field,0.21515344521672802,0.4206349206349207
+context_v2,LSTM,Shallow_Small,2328104318_5a43ca170c.jpg,a man is in a man in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red shirt is in a red,0.0932059611377004,0.24635761589403976
+context_v2,LSTM,Shallow_Small,3203707977_cc9448fecb.jpg,a man in a man and a man and a man and a man and a man and a man and a man and a man and a man and a man and a,0.07205335066302805,0.4208695652173913
+context_v2,LSTM,Shallow_Small,3694093650_547259731e.jpg,a man in a man in a man and a man and a man and a man and a man and a man and a man and a man and a man and a,0.014558491217854977,0.14084507042253522
+context_v2,LSTM,Shallow_Small,241046599_28b0ca7b9f.jpg,a dog is running in a field,0.18575057999133598,0.3650793650793651
+context_v2,LSTM,Shallow_Small,2257294002_0073263c54.jpg,a boy in a boy in a ball,0.057367534172156044,0.09868421052631579
+context_v2,LSTM,Shallow_Small,210625425_fb1ef5d23b.jpg,a man is in a red shirt is in a red shirt in a red shirt in a red shirt in a red shirt in a red shirt in a red shirt in a,0.007205335066302803,0.11278195488721804
+context_v2,LSTM,Shallow_Small,3612249030_e2829ffa31.jpg,a man in a red shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt,0.0077426364109627836,0.15463917525773196
+context_v2,LSTM,Shallow_Small,3271084924_4778d556cc.jpg,a dog is running in a field,0.08783602619713961,0.4508928571428571
+context_v2,LSTM,Shallow_Small,1248734482_3038218f3b.jpg,a boy is in a girl in a blue shirt is in a blue shirt and a blue shirt and a blue shirt and a blue shirt and a blue shirt and a blue,0.08345883299682069,0.2823767476085357
+context_v2,LSTM,Shallow_Small,765929807_de381cc764.jpg,a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in a man in a,0.015237428485138389,0.2410901467505241
+context_v2,LSTM,Shallow_Small,3559781965_d4ec00e506.jpg,a dog is running in a field,0.06416436668203723,0.35094339622641507
+context_v2,LSTM,Shallow_Small,2525270674_4ab536e7ec.jpg,a dog is running in a field,0.10445522730720382,0.27445652173913043
+context_v2,LSTM,Shallow_Small,2335619125_2e2034f2c3.jpg,a dog is running in a water,0.15228621982435664,0.4746835443037974
+context_v2,LSTM,Shallow_Small,3195188609_01afbe46e6.jpg,a man in a ball,0.11062691203042492,0.33189033189033185
+context_v2,LSTM,Shallow_Small,1975531316_8b00eeaaf7.jpg,a black dog in a black and white dog in a black and white dog in a black and white dog in a black and white dog in a black and white dog in,0.016373682488441264,0.3234782608695652
+context_v2,LSTM,Shallow_Small,2302747917_aa0300eb68.jpg,a man in a man in a red shirt and a man and a man and a man and a man and a man and a man and a man and a man and,0.016373682488441264,0.13513513513513514
+context_v2,LSTM,Shallow_Small,3229282764_a4a515f4e2.jpg,a boy is in a water,0.09554427922043669,0.16666666666666666
+context_v2,LSTM,Shallow_Small,3565655045_8eb00b7423.jpg,a man is in a water,0.1457378792180198,0.2662037037037037
+context_v2,LSTM,Deep_Small,2736508369_fd9ff0b42f.jpg,a,0.008853531856477262,0.078125
+context_v2,LSTM,Deep_Small,1093737381_b313cd49ff.jpg,a,5.965462840365855e-05,0.06097560975609756
+context_v2,LSTM,Deep_Small,3412249548_00820fc4ca.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3380072636_4cd59385fd.jpg,a,2.1945711360427958e-05,0.054945054945054944
+context_v2,LSTM,Deep_Small,3501083764_cf592292a6.jpg,a,0.003257032351754417,0.10869565217391304
+context_v2,LSTM,Deep_Small,2911919938_6bb6587a36.jpg,a,0.003257032351754417,0.10869565217391304
+context_v2,LSTM,Deep_Small,3621717946_d96f8a6012.jpg,a,0.003257032351754417,0.0684931506849315
+context_v2,LSTM,Deep_Small,3228069008_edb2961fc4.jpg,a,0.008853531856477262,0.0684931506849315
+context_v2,LSTM,Deep_Small,3494394662_3edfd4a34c.jpg,a,0.008853531856477262,0.13513513513513511
+context_v2,LSTM,Deep_Small,3729405438_6e79077ab2.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,2868324804_5cc8030484.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,2448393373_80c011d301.jpg,a,0.008853531856477262,0.13513513513513511
+context_v2,LSTM,Deep_Small,3052196390_c59dd24ca8.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,2247192427_5e106f24a9.jpg,a,0.003257032351754417,0.0909090909090909
+context_v2,LSTM,Deep_Small,2244551043_21b8cca866.jpg,a,5.965462840365855e-05,0.06097560975609756
+context_v2,LSTM,Deep_Small,3014080715_f4f0dbb56e.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,3244734844_c318c29c23.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3421928157_69a325366f.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3572346664_e1e6c77f11.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3132760860_3e743a935d.jpg,a,0.0011981952414407235,0.04587155963302752
+context_v2,LSTM,Deep_Small,2148916767_644ea6a7fa.jpg,a,0.0011981952414407235,0.054945054945054944
+context_v2,LSTM,Deep_Small,2998024845_1529c11694.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,2613209320_edf6a2b7e9.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,745966757_6d16dfad8f.jpg,a,0.003257032351754417,0.10869565217391304
+context_v2,LSTM,Deep_Small,1998457059_c9ac9a1e1a.jpg,a,0.0004407913958354948,0.054945054945054944
+context_v2,LSTM,Deep_Small,503090187_8758ab5680.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3627679667_0e3de9fc90.jpg,a,0.003257032351754417,0.10869565217391304
+context_v2,LSTM,Deep_Small,516214924_c2a4364cb3.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3119696225_b289efaec8.jpg,a,0.00016215809237314185,0.0684931506849315
+context_v2,LSTM,Deep_Small,3405113041_4b72c24801.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,3315033940_e91f87b7f2.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,791338571_7f38510bf7.jpg,a,2.1945711360427958e-05,0.05
+context_v2,LSTM,Deep_Small,1332208215_fa824f6659.jpg,a,0.008853531856477262,0.13513513513513511
+context_v2,LSTM,Deep_Small,3399944164_ec24123945.jpg,a,2.9700290627924664e-06,0.04587155963302752
+context_v2,LSTM,Deep_Small,2696394827_7342ced36f.jpg,a,0.0011981952414407235,0.0684931506849315
+context_v2,LSTM,Deep_Small,2427558437_3e839056d7.jpg,a,0.00016215809237314185,0.05
+context_v2,LSTM,Deep_Small,2086678529_b3301c2d71.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,2472574160_8ce233f396.jpg,a,0.00016215809237314185,0.0684931506849315
+context_v2,LSTM,Deep_Small,413737417_b0a8b445e9.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,3690425778_3b390b3ea5.jpg,a,0.003257032351754417,0.0684931506849315
+context_v2,LSTM,Deep_Small,950273886_88c324e663.jpg,a,0.003257032351754417,0.10869565217391304
+context_v2,LSTM,Deep_Small,2886411666_72d8b12ce4.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,909808296_23c427022d.jpg,a,2.9700290627924664e-06,0.04587155963302752
+context_v2,LSTM,Deep_Small,2180356743_b3a3c9a7f6.jpg,a,2.1945711360427958e-05,0.054945054945054944
+context_v2,LSTM,Deep_Small,3640109324_3ce89e4d1a.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,481827288_a688be7913.jpg,a,0.0,0.0
+context_v2,LSTM,Deep_Small,421808539_57abee6d55.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3550276904_19de3561c5.jpg,a,4.0194972443398975e-07,0.03937007874015748
+context_v2,LSTM,Deep_Small,3686924335_3c51e8834a.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,2843695880_eeea6c67db.jpg,a,0.0,0.0
+context_v2,LSTM,Deep_Small,2594459477_8ca0121a9a.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,3257277774_aba333a94c.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3613030730_0b28b079ba.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3164415865_612f9fd8bc.jpg,a,0.003257032351754417,0.078125
+context_v2,LSTM,Deep_Small,1439282131_3814d6ae04.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,2046222127_a6f300e202.jpg,a,0.0004407913958354948,0.054945054945054944
+context_v2,LSTM,Deep_Small,3271468462_701eb88d3b.jpg,a,0.00016215809237314185,0.0684931506849315
+context_v2,LSTM,Deep_Small,2533076864_d799996433.jpg,a,0.0011981952414407235,0.05
+context_v2,LSTM,Deep_Small,3499720588_c32590108e.jpg,a,5.965462840365855e-05,0.06097560975609756
+context_v2,LSTM,Deep_Small,673806038_0a3682a83f.jpg,a,0.00016215809237314185,0.06097560975609756
+context_v2,LSTM,Deep_Small,571507143_be346225b7.jpg,a,0.0011981952414407235,0.078125
+context_v2,LSTM,Deep_Small,2924884899_f512c84332.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,1130401779_8c30182e3e.jpg,a,0.0011981952414407235,0.04237288135593221
+context_v2,LSTM,Deep_Small,3431101934_99a6c55914.jpg,a,2.1945711360427958e-05,0.054945054945054944
+context_v2,LSTM,Deep_Small,226607225_44d696db6b.jpg,a,0.00016215809237314185,0.0684931506849315
+context_v2,LSTM,Deep_Small,3463268965_f22884fc69.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,3437315443_ba2263f92e.jpg,a,0.00016215809237314185,0.0684931506849315
+context_v2,LSTM,Deep_Small,3589367895_5d3729e3ea.jpg,a,0.008853531856477262,0.054945054945054944
+context_v2,LSTM,Deep_Small,2372572028_53b76104a9.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3030962048_f71948226c.jpg,a,0.0004407913958354948,0.04587155963302752
+context_v2,LSTM,Deep_Small,3392019836_c7aeebca1c.jpg,a,0.00016215809237314185,0.0684931506849315
+context_v2,LSTM,Deep_Small,2289096282_4ef120f189.jpg,a,2.1945711360427958e-05,0.054945054945054944
+context_v2,LSTM,Deep_Small,537359971_6e28f5e66e.jpg,a,0.00016215809237314185,0.0684931506849315
+context_v2,LSTM,Deep_Small,319870744_0e0138d205.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,535529555_583d89b7f2.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3415809168_af9dabdba5.jpg,a,5.965462840365855e-05,0.06097560975609756
+context_v2,LSTM,Deep_Small,467858872_f3431df682.jpg,a,1.0926126318830351e-06,0.04237288135593221
+context_v2,LSTM,Deep_Small,1299459550_1fd5594fa2.jpg,a,0.003257032351754417,0.10869565217391304
+context_v2,LSTM,Deep_Small,3318995586_c2bc50b92e.jpg,a man,0.009549251099193677,0.10869565217391304
+context_v2,LSTM,Deep_Small,3079787482_0757e9d167.jpg,a,0.008853531856477262,0.078125
+context_v2,LSTM,Deep_Small,3037558954_20115165e3.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,2176874361_2b4149010b.jpg,a,0.0004407913958354948,0.054945054945054944
+context_v2,LSTM,Deep_Small,2328104318_5a43ca170c.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3203707977_cc9448fecb.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3694093650_547259731e.jpg,a man,0.03336574130316504,0.07692307692307691
+context_v2,LSTM,Deep_Small,241046599_28b0ca7b9f.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,2257294002_0073263c54.jpg,a,5.965462840365855e-05,0.06097560975609756
+context_v2,LSTM,Deep_Small,210625425_fb1ef5d23b.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,3612249030_e2829ffa31.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3271084924_4778d556cc.jpg,a,0.0011981952414407235,0.0684931506849315
+context_v2,LSTM,Deep_Small,1248734482_3038218f3b.jpg,a,2.1945711360427958e-05,0.04587155963302752
+context_v2,LSTM,Deep_Small,765929807_de381cc764.jpg,a,0.0004407913958354948,0.078125
+context_v2,LSTM,Deep_Small,3559781965_d4ec00e506.jpg,a,8.07337603138401e-06,0.05
+context_v2,LSTM,Deep_Small,2525270674_4ab536e7ec.jpg,a,0.024066394763145416,0.05
+context_v2,LSTM,Deep_Small,2335619125_2e2034f2c3.jpg,a,0.003257032351754417,0.0684931506849315
+context_v2,LSTM,Deep_Small,3195188609_01afbe46e6.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,1975531316_8b00eeaaf7.jpg,a,0.003257032351754417,0.0684931506849315
+context_v2,LSTM,Deep_Small,2302747917_aa0300eb68.jpg,a,0.008853531856477262,0.078125
+context_v2,LSTM,Deep_Small,3229282764_a4a515f4e2.jpg,a,0.0011981952414407235,0.0909090909090909
+context_v2,LSTM,Deep_Small,3565655045_8eb00b7423.jpg,a,5.965462840365855e-05,0.054945054945054944
+context_v2,LSTM,VeryDeep_Small,2736508369_fd9ff0b42f.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.12096774193548387
+context_v2,LSTM,VeryDeep_Small,1093737381_b313cd49ff.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.008186841244220632,0.10775862068965517
+context_v2,LSTM,VeryDeep_Small,3412249548_00820fc4ca.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.12096774193548387
+context_v2,LSTM,VeryDeep_Small,3380072636_4cd59385fd.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.08064516129032258
+context_v2,LSTM,VeryDeep_Small,3501083764_cf592292a6.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.0077426364109627836,0.09345794392523364
+context_v2,LSTM,VeryDeep_Small,2911919938_6bb6587a36.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.12658227848101267
+context_v2,LSTM,VeryDeep_Small,3621717946_d96f8a6012.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.09374999999999999
+context_v2,LSTM,VeryDeep_Small,3228069008_edb2961fc4.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.09433962264150943
+context_v2,LSTM,VeryDeep_Small,3494394662_3edfd4a34c.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.07142857142857142
+context_v2,LSTM,VeryDeep_Small,3729405438_6e79077ab2.jpg,a a a a a a a a a a a a a a a a a a,0.014216645907653848,0.1282051282051282
+context_v2,LSTM,VeryDeep_Small,2868324804_5cc8030484.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.07042253521126761
+context_v2,LSTM,VeryDeep_Small,2448393373_80c011d301.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.09933774834437087
+context_v2,LSTM,VeryDeep_Small,3052196390_c59dd24ca8.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.09433962264150943
+context_v2,LSTM,VeryDeep_Small,2247192427_5e106f24a9.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.07518796992481203
+context_v2,LSTM,VeryDeep_Small,2244551043_21b8cca866.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.043478260869565216
+context_v2,LSTM,VeryDeep_Small,3014080715_f4f0dbb56e.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.1056338028169014
+context_v2,LSTM,VeryDeep_Small,3244734844_c318c29c23.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.11363636363636363
+context_v2,LSTM,VeryDeep_Small,3421928157_69a325366f.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.09374999999999999
+context_v2,LSTM,VeryDeep_Small,3572346664_e1e6c77f11.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.08064516129032258
+context_v2,LSTM,VeryDeep_Small,3132760860_3e743a935d.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.07317073170731707
+context_v2,LSTM,VeryDeep_Small,2148916767_644ea6a7fa.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.07518796992481203
+context_v2,LSTM,VeryDeep_Small,2998024845_1529c11694.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.1056338028169014
+context_v2,LSTM,VeryDeep_Small,2613209320_edf6a2b7e9.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.08695652173913043
+context_v2,LSTM,VeryDeep_Small,745966757_6d16dfad8f.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.06329113924050633
+context_v2,LSTM,VeryDeep_Small,1998457059_c9ac9a1e1a.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.06622516556291393
+context_v2,LSTM,VeryDeep_Small,503090187_8758ab5680.jpg,a a a a a a a a a a a a a a a a a a a a,0.011451997463067555,0.13513513513513514
+context_v2,LSTM,VeryDeep_Small,3627679667_0e3de9fc90.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.0077426364109627836,0.1183431952662722
+context_v2,LSTM,VeryDeep_Small,516214924_c2a4364cb3.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.11363636363636363
+context_v2,LSTM,VeryDeep_Small,3119696225_b289efaec8.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.12096774193548387
+context_v2,LSTM,VeryDeep_Small,3405113041_4b72c24801.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.051546391752577324
+context_v2,LSTM,VeryDeep_Small,3315033940_e91f87b7f2.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.056818181818181816
+context_v2,LSTM,VeryDeep_Small,791338571_7f38510bf7.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.11278195488721804
+context_v2,LSTM,VeryDeep_Small,1332208215_fa824f6659.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.07142857142857142
+context_v2,LSTM,VeryDeep_Small,3399944164_ec24123945.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.0077426364109627836,0.1183431952662722
+context_v2,LSTM,VeryDeep_Small,2696394827_7342ced36f.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.09433962264150943
+context_v2,LSTM,VeryDeep_Small,2427558437_3e839056d7.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.07317073170731707
+context_v2,LSTM,VeryDeep_Small,2086678529_b3301c2d71.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.11363636363636363
+context_v2,LSTM,VeryDeep_Small,2472574160_8ce233f396.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.1056338028169014
+context_v2,LSTM,VeryDeep_Small,413737417_b0a8b445e9.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.10309278350515465
+context_v2,LSTM,VeryDeep_Small,3690425778_3b390b3ea5.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.09433962264150943
+context_v2,LSTM,VeryDeep_Small,950273886_88c324e663.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.11278195488721804
+context_v2,LSTM,VeryDeep_Small,2886411666_72d8b12ce4.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.09433962264150943
+context_v2,LSTM,VeryDeep_Small,909808296_23c427022d.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.0842696629213483
+context_v2,LSTM,VeryDeep_Small,2180356743_b3a3c9a7f6.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.09933774834437087
+context_v2,LSTM,VeryDeep_Small,3640109324_3ce89e4d1a.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.09433962264150943
+context_v2,LSTM,VeryDeep_Small,481827288_a688be7913.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.0,0.0
+context_v2,LSTM,VeryDeep_Small,421808539_57abee6d55.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.056818181818181816
+context_v2,LSTM,VeryDeep_Small,3550276904_19de3561c5.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.06726457399103139
+context_v2,LSTM,VeryDeep_Small,3686924335_3c51e8834a.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.10309278350515465
+context_v2,LSTM,VeryDeep_Small,2843695880_eeea6c67db.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.0,0.0
+context_v2,LSTM,VeryDeep_Small,2594459477_8ca0121a9a.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.10309278350515465
+context_v2,LSTM,VeryDeep_Small,3257277774_aba333a94c.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.056818181818181816
+context_v2,LSTM,VeryDeep_Small,3613030730_0b28b079ba.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.056818181818181816
+context_v2,LSTM,VeryDeep_Small,3164415865_612f9fd8bc.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.051546391752577324
+context_v2,LSTM,VeryDeep_Small,1439282131_3814d6ae04.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.056818181818181816
+context_v2,LSTM,VeryDeep_Small,2046222127_a6f300e202.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.11278195488721804
+context_v2,LSTM,VeryDeep_Small,3271468462_701eb88d3b.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.09433962264150943
+context_v2,LSTM,VeryDeep_Small,2533076864_d799996433.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.11278195488721804
+context_v2,LSTM,VeryDeep_Small,3499720588_c32590108e.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.07518796992481203
+context_v2,LSTM,VeryDeep_Small,673806038_0a3682a83f.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.0077426364109627836,0.09756097560975609
+context_v2,LSTM,VeryDeep_Small,571507143_be346225b7.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.06622516556291393
+context_v2,LSTM,VeryDeep_Small,2924884899_f512c84332.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.09433962264150943
+context_v2,LSTM,VeryDeep_Small,1130401779_8c30182e3e.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.03311258278145696
+context_v2,LSTM,VeryDeep_Small,3431101934_99a6c55914.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.07042253521126761
+context_v2,LSTM,VeryDeep_Small,226607225_44d696db6b.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.04716981132075471
+context_v2,LSTM,VeryDeep_Small,3463268965_f22884fc69.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.05791505791505791
+context_v2,LSTM,VeryDeep_Small,3437315443_ba2263f92e.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.0077426364109627836,0.1183431952662722
+context_v2,LSTM,VeryDeep_Small,3589367895_5d3729e3ea.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.08064516129032258
+context_v2,LSTM,VeryDeep_Small,2372572028_53b76104a9.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.11363636363636363
+context_v2,LSTM,VeryDeep_Small,3030962048_f71948226c.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.07042253521126761
+context_v2,LSTM,VeryDeep_Small,3392019836_c7aeebca1c.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.11278195488721804
+context_v2,LSTM,VeryDeep_Small,2289096282_4ef120f189.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.12096774193548387
+context_v2,LSTM,VeryDeep_Small,537359971_6e28f5e66e.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.04716981132075471
+context_v2,LSTM,VeryDeep_Small,319870744_0e0138d205.jpg,a a a a a a a a a a a a a a a a a a a,0.012109013026441871,0.136986301369863
+context_v2,LSTM,VeryDeep_Small,535529555_583d89b7f2.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.056818181818181816
+context_v2,LSTM,VeryDeep_Small,3415809168_af9dabdba5.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.06622516556291393
+context_v2,LSTM,VeryDeep_Small,467858872_f3431df682.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.03311258278145696
+context_v2,LSTM,VeryDeep_Small,1299459550_1fd5594fa2.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.06329113924050633
+context_v2,LSTM,VeryDeep_Small,3318995586_c2bc50b92e.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.09933774834437087
+context_v2,LSTM,VeryDeep_Small,3079787482_0757e9d167.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.051546391752577324
+context_v2,LSTM,VeryDeep_Small,3037558954_20115165e3.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.08695652173913043
+context_v2,LSTM,VeryDeep_Small,2176874361_2b4149010b.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.08064516129032258
+context_v2,LSTM,VeryDeep_Small,2328104318_5a43ca170c.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.0077426364109627836,0.125
+context_v2,LSTM,VeryDeep_Small,3203707977_cc9448fecb.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.13043478260869565
+context_v2,LSTM,VeryDeep_Small,3694093650_547259731e.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.0625
+context_v2,LSTM,VeryDeep_Small,241046599_28b0ca7b9f.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.08695652173913043
+context_v2,LSTM,VeryDeep_Small,2257294002_0073263c54.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.05617977528089888
+context_v2,LSTM,VeryDeep_Small,210625425_fb1ef5d23b.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.051546391752577324
+context_v2,LSTM,VeryDeep_Small,3612249030_e2829ffa31.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.11363636363636363
+context_v2,LSTM,VeryDeep_Small,3271084924_4778d556cc.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.04716981132075471
+context_v2,LSTM,VeryDeep_Small,1248734482_3038218f3b.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.09933774834437087
+context_v2,LSTM,VeryDeep_Small,765929807_de381cc764.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.0077426364109627836,0.09433962264150943
+context_v2,LSTM,VeryDeep_Small,3559781965_d4ec00e506.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.07518796992481203
+context_v2,LSTM,VeryDeep_Small,2525270674_4ab536e7ec.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.07518796992481203
+context_v2,LSTM,VeryDeep_Small,2335619125_2e2034f2c3.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.005474870710453651,0.04716981132075471
+context_v2,LSTM,VeryDeep_Small,3195188609_01afbe46e6.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.09433962264150943
+context_v2,LSTM,VeryDeep_Small,1975531316_8b00eeaaf7.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.007205335066302803,0.09933774834437087
+context_v2,LSTM,VeryDeep_Small,2302747917_aa0300eb68.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.0077426364109627836,0.07722007722007723
+context_v2,LSTM,VeryDeep_Small,3229282764_a4a515f4e2.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.006510755202591488,0.11363636363636363
+context_v2,LSTM,VeryDeep_Small,3565655045_8eb00b7423.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.0077426364109627836,0.14084507042253522
+context_v2,LSTM,Shallow_Mid,2736508369_fd9ff0b42f.jpg,a man in a red shirt is playing a ball,0.30213753973567675,0.484
+context_v2,LSTM,Shallow_Mid,1093737381_b313cd49ff.jpg,a man in a red shirt is sitting on a red shirt is sitting on a red shirt,0.03124577801157052,0.20666666666666667
+context_v2,LSTM,Shallow_Mid,3412249548_00820fc4ca.jpg,a man is sitting on a red shirt,0.06985342056580097,0.2949766355140187
+context_v2,LSTM,Shallow_Mid,3380072636_4cd59385fd.jpg,a man in a red uniform is playing a soccer player,0.05012578715739066,0.31250000000000006
+context_v2,LSTM,Shallow_Mid,3501083764_cf592292a6.jpg,a man in a red shirt and a man is standing on a large man in the background,0.1948197028373391,0.40564373897707234
+context_v2,LSTM,Shallow_Mid,2911919938_6bb6587a36.jpg,a girl in a blue shirt is jumping on a blue shirt,0.024088562704853513,0.22727272727272727
+context_v2,LSTM,Shallow_Mid,3621717946_d96f8a6012.jpg,a dog is running through the water,0.037684991644924185,0.19230769230769232
+context_v2,LSTM,Shallow_Mid,3228069008_edb2961fc4.jpg,a dog is running through the grass,0.15228621982435664,0.3234880450070324
+context_v2,LSTM,Shallow_Mid,3494394662_3edfd4a34c.jpg,a man in a red shirt and a red shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt,0.020053583653512706,0.16924208977189112
+context_v2,LSTM,Shallow_Mid,3729405438_6e79077ab2.jpg,a man is jumping on a skateboard,0.08307018474412793,0.3234880450070324
+context_v2,LSTM,Shallow_Mid,2868324804_5cc8030484.jpg,a young boy in a red shirt is playing in a red ball,0.036362270465000714,0.38742690058479534
+context_v2,LSTM,Shallow_Mid,2448393373_80c011d301.jpg,a young girl in a red shirt is standing on a red shirt,0.04324227075463215,0.2317330917874396
+context_v2,LSTM,Shallow_Mid,3052196390_c59dd24ca8.jpg,a girl in a blue shirt is jumping into the water,0.04740604259878138,0.3931623931623932
+context_v2,LSTM,Shallow_Mid,2247192427_5e106f24a9.jpg,a football player in a red uniform is playing a ball,0.04411629359322707,0.15384615384615385
+context_v2,LSTM,Shallow_Mid,2244551043_21b8cca866.jpg,a man in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.01583610518564545,0.16304347826086957
+context_v2,LSTM,Shallow_Mid,3014080715_f4f0dbb56e.jpg,a dog in a black and white dog is running through the snow,0.08737167851715875,0.4962243797195253
+context_v2,LSTM,Shallow_Mid,3244734844_c318c29c23.jpg,a man is jumping on a skateboard,0.08783602619713961,0.5174180327868853
+context_v2,LSTM,Shallow_Mid,3421928157_69a325366f.jpg,a man in a blue shirt is riding a wave,0.10569768572329603,0.267478813559322
+context_v2,LSTM,Shallow_Mid,3572346664_e1e6c77f11.jpg,a woman in a red shirt and a white shirt is standing on a blue shirt,0.032709344708772174,0.18867924528301888
+context_v2,LSTM,Shallow_Mid,3132760860_3e743a935d.jpg,a man is jumping on a red shirt,0.03226013518927287,0.2525
+context_v2,LSTM,Shallow_Mid,2148916767_644ea6a7fa.jpg,a dog is running through the snow,0.45499414040480374,0.5669642857142857
+context_v2,LSTM,Shallow_Mid,2998024845_1529c11694.jpg,a man in a red shirt is riding a bike on a bike,0.1235622127262679,0.35238751147842057
+context_v2,LSTM,Shallow_Mid,2613209320_edf6a2b7e9.jpg,a dog is running through the water,0.12098967350244397,0.5357142857142857
+context_v2,LSTM,Shallow_Mid,745966757_6d16dfad8f.jpg,a girl in a blue shirt is jumping on a blue shirt,0.05094110796339642,0.3647058823529412
+context_v2,LSTM,Shallow_Mid,1998457059_c9ac9a1e1a.jpg,a man in a blue shirt is jumping in the water,0.11530568323789493,0.25555555555555554
+context_v2,LSTM,Shallow_Mid,503090187_8758ab5680.jpg,a man is sitting on a red shirt,0.1477219991186121,0.3599374021909233
+context_v2,LSTM,Shallow_Mid,3627679667_0e3de9fc90.jpg,a man in a blue shirt is jumping in the water,0.05012578715739066,0.18072289156626503
+context_v2,LSTM,Shallow_Mid,516214924_c2a4364cb3.jpg,a dog is running through the grass,0.07730551756939454,0.24590163934426232
+context_v2,LSTM,Shallow_Mid,3119696225_b289efaec8.jpg,a man in a red shirt is standing on the water,0.06484115071397648,0.3126050420168068
+context_v2,LSTM,Shallow_Mid,3405113041_4b72c24801.jpg,a black dog is jumping through the water,0.07386099955930606,0.4179775280898876
+context_v2,LSTM,Shallow_Mid,3315033940_e91f87b7f2.jpg,a man in a red shirt is jumping through the water,0.12278260149096115,0.576923076923077
+context_v2,LSTM,Shallow_Mid,791338571_7f38510bf7.jpg,a dog is running through the grass,0.028319415510892395,0.08426966292134833
+context_v2,LSTM,Shallow_Mid,1332208215_fa824f6659.jpg,a man in a red shirt and a black shirt and a black shirt is standing on a street,0.0712695567709093,0.3409090909090909
+context_v2,LSTM,Shallow_Mid,3399944164_ec24123945.jpg,a woman in a blue shirt and a white and white and white and white and white and white and white and white and white and white and white and white and white and,0.08422109323240742,0.2523011176857331
+context_v2,LSTM,Shallow_Mid,2696394827_7342ced36f.jpg,a dog is running through the water,0.10445522730720382,0.39952531645569617
+context_v2,LSTM,Shallow_Mid,2427558437_3e839056d7.jpg,a dog is running through the water,0.07201170728284921,0.23731203007518795
+context_v2,LSTM,Shallow_Mid,2086678529_b3301c2d71.jpg,a girl in a blue shirt is sitting in a blue shirt,0.23462350320528,0.5636363636363637
+context_v2,LSTM,Shallow_Mid,2472574160_8ce233f396.jpg,a young girl is sitting on a red shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt and,0.009482754235376445,0.17605633802816903
+context_v2,LSTM,Shallow_Mid,413737417_b0a8b445e9.jpg,a man is standing on a mountain,0.043472087194499145,0.14285714285714285
+context_v2,LSTM,Shallow_Mid,3690425778_3b390b3ea5.jpg,a man is jumping on a lake,0.09054992806599667,0.2977594339622642
+context_v2,LSTM,Shallow_Mid,950273886_88c324e663.jpg,a man is climbing a rock,0.12909944487358058,0.5717948717948719
+context_v2,LSTM,Shallow_Mid,2886411666_72d8b12ce4.jpg,a dog is running through the grass,0.34996355115805833,0.8412698412698414
+context_v2,LSTM,Shallow_Mid,909808296_23c427022d.jpg,a dog is running through the grass,0.04836067244628849,0.2545362903225807
+context_v2,LSTM,Shallow_Mid,2180356743_b3a3c9a7f6.jpg,a man in a red shirt is standing on a street,0.07175852914772135,0.290625
+context_v2,LSTM,Shallow_Mid,3640109324_3ce89e4d1a.jpg,a man in a red shirt and a black shirt is standing on a picture,0.019765441873349214,0.16260162601626016
+context_v2,LSTM,Shallow_Mid,481827288_a688be7913.jpg,a dog is running through the water,0.07730551756939454,0.5174180327868853
+context_v2,LSTM,Shallow_Mid,421808539_57abee6d55.jpg,a dog is running through the snow,0.20556680845025987,0.6147540983606558
+context_v2,LSTM,Shallow_Mid,3550276904_19de3561c5.jpg,a woman in a red shirt and a black and white and white and white and white and white and white and white and white and white and white and white and white and,0.01883240896070105,0.11210762331838565
+context_v2,LSTM,Shallow_Mid,3686924335_3c51e8834a.jpg,a man is jumping on a large large large white area,0.026658376817028855,0.13513513513513514
+context_v2,LSTM,Shallow_Mid,2843695880_eeea6c67db.jpg,a man in a blue shirt is standing on a lake,0.018850319022747353,0.10638297872340427
+context_v2,LSTM,Shallow_Mid,2594459477_8ca0121a9a.jpg,a man is standing on a lake,0.046713797772820004,0.189873417721519
+context_v2,LSTM,Shallow_Mid,3257277774_aba333a94c.jpg,a black dog is running through the snow,0.08783602619713961,0.5090725806451614
+context_v2,LSTM,Shallow_Mid,3613030730_0b28b079ba.jpg,a girl in a blue shirt is in a blue shirt is in a pool,0.018693000799960027,0.14285714285714285
+context_v2,LSTM,Shallow_Mid,3164415865_612f9fd8bc.jpg,a man in a red jacket is riding a red jacket is riding a snowy hill,0.06087895024805787,0.37271448663853723
+context_v2,LSTM,Shallow_Mid,1439282131_3814d6ae04.jpg,a dog is running through the water,0.07730551756939454,0.35866477272727276
+context_v2,LSTM,Shallow_Mid,2046222127_a6f300e202.jpg,a little girl is jumping on a blue shirt,0.028240990488565418,0.15151515151515152
+context_v2,LSTM,Shallow_Mid,3271468462_701eb88d3b.jpg,a dog is running through the grass,0.08563683466425753,0.2222711267605634
+context_v2,LSTM,Shallow_Mid,2533076864_d799996433.jpg,a black dog is jumping on a red shirt,0.025271148634948993,0.13888888888888887
+context_v2,LSTM,Shallow_Mid,3499720588_c32590108e.jpg,a man is sitting on a red shirt and a red shirt is standing on a street,0.03201406061582137,0.21551724137931033
+context_v2,LSTM,Shallow_Mid,673806038_0a3682a83f.jpg,a man in a blue shirt is jumping in the air,0.05442988140675566,0.22590361445783136
+context_v2,LSTM,Shallow_Mid,571507143_be346225b7.jpg,a man in a red shirt is sitting on a woman in a red shirt,0.030934588294313718,0.24038461538461542
+context_v2,LSTM,Shallow_Mid,2924884899_f512c84332.jpg,a man in a red shirt and a white shirt is standing on a red shirt,0.195647514979229,0.40225366876310265
+context_v2,LSTM,Shallow_Mid,1130401779_8c30182e3e.jpg,a dog is running through the water,0.20556680845025987,0.6914285714285714
+context_v2,LSTM,Shallow_Mid,3431101934_99a6c55914.jpg,a girl is jumping on a blue shirt,0.07159692505124966,0.32206632653061223
+context_v2,LSTM,Shallow_Mid,226607225_44d696db6b.jpg,a man is in a blue shirt is in the water,0.05012578715739066,0.31250000000000006
+context_v2,LSTM,Shallow_Mid,3463268965_f22884fc69.jpg,a man in a red shirt is jumping on a red shirt,0.11530568323789493,0.34074074074074073
+context_v2,LSTM,Shallow_Mid,3437315443_ba2263f92e.jpg,a woman in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a blue shirt and a blue shirt,0.07837655860096929,0.28378215191402
+context_v2,LSTM,Shallow_Mid,3589367895_5d3729e3ea.jpg,a man in a red shirt is standing on a red shirt,0.05637560315259291,0.21471088435374147
+context_v2,LSTM,Shallow_Mid,2372572028_53b76104a9.jpg,a young girl in a blue shirt is sitting on a blue shirt,0.09144626892372869,0.3067545963229416
+context_v2,LSTM,Shallow_Mid,3030962048_f71948226c.jpg,a man in a red shirt and a black shirt is standing on a red shirt and a man,0.015226277779914149,0.15748031496062992
+context_v2,LSTM,Shallow_Mid,3392019836_c7aeebca1c.jpg,a man is sitting on a red shirt,0.07386099955930606,0.24473684210526317
+context_v2,LSTM,Shallow_Mid,2289096282_4ef120f189.jpg,a man is sitting on a rock,0.05411516285864537,0.3537735849056604
+context_v2,LSTM,Shallow_Mid,537359971_6e28f5e66e.jpg,a woman in a red shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt and a white shirt,0.0077426364109627836,0.09433962264150943
+context_v2,LSTM,Shallow_Mid,319870744_0e0138d205.jpg,a man in a red jacket is standing on a mountain,0.06904573083274564,0.4634661835748792
+context_v2,LSTM,Shallow_Mid,535529555_583d89b7f2.jpg,a dog is running through the grass,0.039281465090051315,0.2272727272727273
+context_v2,LSTM,Shallow_Mid,3415809168_af9dabdba5.jpg,a dog is running through the grass,0.32668286409255015,0.2545362903225807
+context_v2,LSTM,Shallow_Mid,467858872_f3431df682.jpg,a dog is running through the water,0.01666998712262484,0.11278195488721805
+context_v2,LSTM,Shallow_Mid,1299459550_1fd5594fa2.jpg,a girl in a blue shirt is jumping into the water,0.02950234363196405,0.24096385542168677
+context_v2,LSTM,Shallow_Mid,3318995586_c2bc50b92e.jpg,a girl in a blue shirt is is playing in a blue shirt,0.04646684393670022,0.327991452991453
+context_v2,LSTM,Shallow_Mid,3079787482_0757e9d167.jpg,a little girl is sitting on a blue shirt,0.12753431387594827,0.35493827160493824
+context_v2,LSTM,Shallow_Mid,3037558954_20115165e3.jpg,a man in a blue shirt is jumping on a wave,0.06238986072117501,0.4043478260869566
+context_v2,LSTM,Shallow_Mid,2176874361_2b4149010b.jpg,a dog is running through the grass,0.20556680845025987,0.5357142857142857
+context_v2,LSTM,Shallow_Mid,2328104318_5a43ca170c.jpg,a man is sitting on a red shirt,0.17286039232097053,0.38448275862068976
+context_v2,LSTM,Shallow_Mid,3203707977_cc9448fecb.jpg,a man in a red shirt and a woman is standing on a picture,0.10390302174233558,0.4488304093567252
+context_v2,LSTM,Shallow_Mid,3694093650_547259731e.jpg,a man in a red shirt is standing on a man in a red shirt,0.03514847831369806,0.20776874435411022
+context_v2,LSTM,Shallow_Mid,241046599_28b0ca7b9f.jpg,a dog is running through the grass,0.21515344521672802,0.4508928571428571
+context_v2,LSTM,Shallow_Mid,2257294002_0073263c54.jpg,a man in a red shirt is playing in the air,0.05442988140675566,0.16304347826086954
+context_v2,LSTM,Shallow_Mid,210625425_fb1ef5d23b.jpg,a man is standing in the water,0.08783602619713961,0.18867924528301888
+context_v2,LSTM,Shallow_Mid,3612249030_e2829ffa31.jpg,a young girl in a red shirt and a red shirt is standing on a blue shirt,0.0805111000764593,0.5281690140845071
+context_v2,LSTM,Shallow_Mid,3271084924_4778d556cc.jpg,a dog is running through the grass,0.08783602619713961,0.5174180327868853
+context_v2,LSTM,Shallow_Mid,1248734482_3038218f3b.jpg,a little girl is sitting on a blue shirt,0.05972242358741472,0.26976495726495725
+context_v2,LSTM,Shallow_Mid,765929807_de381cc764.jpg,a man in a red shirt is standing on a rock,0.12760671487807074,0.3993055555555555
+context_v2,LSTM,Shallow_Mid,3559781965_d4ec00e506.jpg,a dog is running through the grass,0.06173866219946367,0.3234782608695652
+context_v2,LSTM,Shallow_Mid,2525270674_4ab536e7ec.jpg,a dog is running through the grass,0.09878765474230743,0.27445652173913043
+context_v2,LSTM,Shallow_Mid,2335619125_2e2034f2c3.jpg,a black dog is running through the snow,1.0,0.9990234375
+context_v2,LSTM,Shallow_Mid,3195188609_01afbe46e6.jpg,a man in a red player is playing in the ball,0.07175852914772135,0.38027108433734946
+context_v2,LSTM,Shallow_Mid,1975531316_8b00eeaaf7.jpg,a man is standing on a large dog,0.07386099955930606,0.46499999999999997
+context_v2,LSTM,Shallow_Mid,2302747917_aa0300eb68.jpg,a man in a red shirt is standing on a street,0.052463410228614595,0.13513513513513514
+context_v2,LSTM,Shallow_Mid,3229282764_a4a515f4e2.jpg,a young girl in a blue shirt is jumping into the water,0.04167227247694064,0.30303030303030304
+context_v2,LSTM,Shallow_Mid,3565655045_8eb00b7423.jpg,a man in a blue shirt is standing on a lake,0.06704226838163331,0.35830999066293184
+context_v2,LSTM,Shallow_Large,2736508369_fd9ff0b42f.jpg,a boy in a red uniform is playing a ball,0.06104735835807846,0.372
+context_v2,LSTM,Shallow_Large,1093737381_b313cd49ff.jpg,a young boy in a red shirt is walking down a sidewalk,0.041704986619350834,0.16666666666666666
+context_v2,LSTM,Shallow_Large,3412249548_00820fc4ca.jpg,a man in a red shirt is holding a picture,0.056122223243057295,0.20000000000000004
+context_v2,LSTM,Shallow_Large,3380072636_4cd59385fd.jpg,a group of men are playing in the air,0.6143868746168435,0.5090890522875817
+context_v2,LSTM,Shallow_Large,3501083764_cf592292a6.jpg,a group of people are standing on a beach,0.05706135914957148,0.23662551440329216
+context_v2,LSTM,Shallow_Large,2911919938_6bb6587a36.jpg,a boy is jumping on a slide,0.08307018474412793,0.49145299145299143
+context_v2,LSTM,Shallow_Large,3621717946_d96f8a6012.jpg,a dog is jumping into the water,0.037684991644924185,0.12658227848101264
+context_v2,LSTM,Shallow_Large,3228069008_edb2961fc4.jpg,a dog is playing a large brown dog,0.17286039232097053,0.25
+context_v2,LSTM,Shallow_Large,3494394662_3edfd4a34c.jpg,a woman in a black shirt and a black shirt and black and black hair is holding a black and black and white hat,0.022023814946586635,0.10638297872340427
+context_v2,LSTM,Shallow_Large,3729405438_6e79077ab2.jpg,a boy is jumping on a skateboard,0.10445522730720382,0.3234880450070324
+context_v2,LSTM,Shallow_Large,2868324804_5cc8030484.jpg,a boy in a red shirt is running on a field,0.2547696540824902,0.4518072289156627
+context_v2,LSTM,Shallow_Large,2448393373_80c011d301.jpg,a boy in a blue shirt is holding a blue shirt is holding a red shirt,0.2187405715612322,0.443048128342246
+context_v2,LSTM,Shallow_Large,3052196390_c59dd24ca8.jpg,a boy in a blue shirt is jumping into a pool,0.04411629359322707,0.18072289156626503
+context_v2,LSTM,Shallow_Large,2247192427_5e106f24a9.jpg,a group of men are playing in the air,0.044939163285563015,0.23662551440329216
+context_v2,LSTM,Shallow_Large,2244551043_21b8cca866.jpg,a woman in a black shirt is standing in a restaurant,0.04740604259878138,0.20380434782608692
+context_v2,LSTM,Shallow_Large,3014080715_f4f0dbb56e.jpg,a dog is running through the snow,0.17567205239427922,0.4597938144329897
+context_v2,LSTM,Shallow_Large,3244734844_c318c29c23.jpg,a boy is jumping on a skateboard,0.08783602619713961,0.2463576158940397
+context_v2,LSTM,Shallow_Large,3421928157_69a325366f.jpg,a man in a red kayak is riding a boat,0.04594899010019892,0.15625
+context_v2,LSTM,Shallow_Large,3572346664_e1e6c77f11.jpg,a woman in a red shirt and a black jacket and black hair and black hair and black hair and black hair and black hair and black hair and black hair and black hair,0.013768570909032773,0.12096774193548387
+context_v2,LSTM,Shallow_Large,3132760860_3e743a935d.jpg,a boy is jumping over a jump,0.09878765474230743,0.27445652173913043
+context_v2,LSTM,Shallow_Large,2148916767_644ea6a7fa.jpg,a black and white dog is running through the snow,0.6580370064762462,0.7789062500000001
+context_v2,LSTM,Shallow_Large,2998024845_1529c11694.jpg,a man in a red helmet is riding a bike,0.1634812655665549,0.36134651600753287
+context_v2,LSTM,Shallow_Large,2613209320_edf6a2b7e9.jpg,a dog is running through the water,0.12098967350244397,0.5357142857142857
+context_v2,LSTM,Shallow_Large,745966757_6d16dfad8f.jpg,a girl in a pink shirt is jumping on a park,0.030661487102926755,0.26785714285714285
+context_v2,LSTM,Shallow_Large,1998457059_c9ac9a1e1a.jpg,a man in a blue wetsuit is surfing on a wave,0.06484115071397648,0.25302530253025296
+context_v2,LSTM,Shallow_Large,503090187_8758ab5680.jpg,a woman in a black jacket is standing on a camera,0.02818780157629645,0.21739130434782605
+context_v2,LSTM,Shallow_Large,3627679667_0e3de9fc90.jpg,a man in a blue shirt is jumping on a wave,0.12760671487807074,0.5257936507936508
+context_v2,LSTM,Shallow_Large,516214924_c2a4364cb3.jpg,a brown dog is running through a field,0.1477219991186121,0.32258064516129037
+context_v2,LSTM,Shallow_Large,3119696225_b289efaec8.jpg,a woman is walking on a beach,0.07614310991217832,0.39952531645569617
+context_v2,LSTM,Shallow_Large,3405113041_4b72c24801.jpg,a white bird is flying through the water,0.1880301546543197,0.6281690140845071
+context_v2,LSTM,Shallow_Large,3315033940_e91f87b7f2.jpg,a man is riding a boat on a lake,0.07171781507224269,0.3506944444444444
+context_v2,LSTM,Shallow_Large,791338571_7f38510bf7.jpg,a dog is running through a field,0.05411516285864537,0.2410901467505241
+context_v2,LSTM,Shallow_Large,1332208215_fa824f6659.jpg,a woman in a black shirt is sitting on a bench,0.06238986072117501,0.45299145299145305
+context_v2,LSTM,Shallow_Large,3399944164_ec24123945.jpg,a woman in a blue shirt and a white shirt and a blue shirt and a blue shirt,0.17694975149532557,0.34773284313725494
+context_v2,LSTM,Shallow_Large,2696394827_7342ced36f.jpg,a dog is running through the water,0.10445522730720382,0.39952531645569617
+context_v2,LSTM,Shallow_Large,2427558437_3e839056d7.jpg,a dog is running through the snow,0.037684991644924185,0.14150943396226415
+context_v2,LSTM,Shallow_Large,2086678529_b3301c2d71.jpg,a woman in a blue shirt is holding a camera,0.05314968932522299,0.3125
+context_v2,LSTM,Shallow_Large,2472574160_8ce233f396.jpg,a woman in a red dress is holding a baby in a field,0.10874855364455038,0.4411764705882353
+context_v2,LSTM,Shallow_Large,413737417_b0a8b445e9.jpg,a man is standing on a mountain,0.043472087194499145,0.14285714285714285
+context_v2,LSTM,Shallow_Large,3690425778_3b390b3ea5.jpg,a man is climbing a rock,0.10266900960803409,0.24338624338624337
+context_v2,LSTM,Shallow_Large,950273886_88c324e663.jpg,a man is climbing a rock,0.12909944487358058,0.5717948717948719
+context_v2,LSTM,Shallow_Large,2886411666_72d8b12ce4.jpg,a dog is running through a field,0.29071536848410967,0.6126582278481013
+context_v2,LSTM,Shallow_Large,909808296_23c427022d.jpg,a black and white dog is running through the grass,0.43989172475842214,0.38239538239538234
+context_v2,LSTM,Shallow_Large,2180356743_b3a3c9a7f6.jpg,a man in a black shirt is standing on a sidewalk,0.07175852914772135,0.290625
+context_v2,LSTM,Shallow_Large,3640109324_3ce89e4d1a.jpg,a man in a black shirt and a black shirt and a black shirt and a black shirt and a black shirt and a black shirt and a black shirt and a black shirt,0.0077426364109627836,0.09433962264150943
+context_v2,LSTM,Shallow_Large,481827288_a688be7913.jpg,a dog is jumping through the water,0.07730551756939454,0.4189435336976321
+context_v2,LSTM,Shallow_Large,421808539_57abee6d55.jpg,a dog runs through the snow,0.25406637407730737,0.625
+context_v2,LSTM,Shallow_Large,3550276904_19de3561c5.jpg,a woman in a black shirt and a black shirt and a black shirt and a black shirt and a woman and a woman and a woman and a woman and a woman and,0.01883240896070105,0.1597222222222222
+context_v2,LSTM,Shallow_Large,3686924335_3c51e8834a.jpg,a man is jumping over a tree,0.046713797772820004,0.14285714285714285
+context_v2,LSTM,Shallow_Large,2843695880_eeea6c67db.jpg,a man is standing on a lake,0.0,0.05154639175257732
+context_v2,LSTM,Shallow_Large,2594459477_8ca0121a9a.jpg,a woman is standing in a lake,0.08307018474412793,0.4746835443037974
+context_v2,LSTM,Shallow_Large,3257277774_aba333a94c.jpg,a black and white dog is running through the beach,0.4111336169005197,0.647130647130647
+context_v2,LSTM,Shallow_Large,3613030730_0b28b079ba.jpg,a boy in a blue shirt is playing in the water,0.06484115071397648,0.36831683168316837
+context_v2,LSTM,Shallow_Large,3164415865_612f9fd8bc.jpg,a person in a red jacket is riding a snowy hill,0.09329460218997072,0.39789789789789787
+context_v2,LSTM,Shallow_Large,1439282131_3814d6ae04.jpg,a dog is running through the water,0.07730551756939454,0.35866477272727276
+context_v2,LSTM,Shallow_Large,2046222127_a6f300e202.jpg,a boy in a red shirt is jumping on a playground,0.05012578715739066,0.2869318181818182
+context_v2,LSTM,Shallow_Large,3271468462_701eb88d3b.jpg,a dog is running through a field,0.0670144447096575,0.29040404040404044
+context_v2,LSTM,Shallow_Large,2533076864_d799996433.jpg,a man is sitting on a bench,0.043472087194499145,0.14150943396226415
+context_v2,LSTM,Shallow_Large,3499720588_c32590108e.jpg,a man in a black shirt is standing on a sidewalk,0.04740604259878138,0.3381818181818182
+context_v2,LSTM,Shallow_Large,673806038_0a3682a83f.jpg,a young boy in a red shirt is jumping into a pool,0.09578464408619825,0.2032786885245902
+context_v2,LSTM,Shallow_Large,571507143_be346225b7.jpg,a woman in a red shirt is standing on a bench,0.04411629359322707,0.13513513513513514
+context_v2,LSTM,Shallow_Large,2924884899_f512c84332.jpg,a man in a black shirt and a black shirt and a black shirt is holding a man in a black shirt and a black shirt and a black shirt and a black shirt,0.07541356871486662,0.30000000000000004
+context_v2,LSTM,Shallow_Large,1130401779_8c30182e3e.jpg,a brown dog is running through the water,0.18092176081223305,0.8294209702660407
+context_v2,LSTM,Shallow_Large,3431101934_99a6c55914.jpg,a girl in a red shirt is jumping on a swing,0.07175852914772135,0.36831683168316837
+context_v2,LSTM,Shallow_Large,226607225_44d696db6b.jpg,a man is in a red jacket is standing in the water,0.0428361950754725,0.30423280423280424
+context_v2,LSTM,Shallow_Large,3463268965_f22884fc69.jpg,a man in a red shirt is jumping on a park,0.12760671487807074,0.34534534534534533
+context_v2,LSTM,Shallow_Large,3437315443_ba2263f92e.jpg,a woman in a red shirt and a black shirt is holding a red shirt and a black and white hair and a white shirt and a white shirt and a white shirt and,0.08345883299682069,0.2366863905325444
+context_v2,LSTM,Shallow_Large,3589367895_5d3729e3ea.jpg,a man in a red shirt and a white shirt is standing in a white and white and white and white and white and white and white and white and white and white and,0.03566087490853475,0.22189349112426038
+context_v2,LSTM,Shallow_Large,2372572028_53b76104a9.jpg,a young boy in a red shirt and a red shirt is riding a red helmet,0.08326915667169545,0.4031330842196033
+context_v2,LSTM,Shallow_Large,3030962048_f71948226c.jpg,a man in a black shirt is holding a black and white shirt and a black shirt is holding a black and white and white and white and white and white and white and,0.008186841244220632,0.14084507042253522
+context_v2,LSTM,Shallow_Large,3392019836_c7aeebca1c.jpg,a man is sitting on a table,0.07201170728284921,0.20902317880794705
+context_v2,LSTM,Shallow_Large,2289096282_4ef120f189.jpg,a woman in a red shirt is jumping through a tree,0.02950234363196405,0.19801980198019806
+context_v2,LSTM,Shallow_Large,537359971_6e28f5e66e.jpg,a woman in a red shirt and a woman and a woman in a red shirt and a black shirt and a woman in a red shirt and a black shirt and a black,0.0077426364109627836,0.09433962264150943
+context_v2,LSTM,Shallow_Large,319870744_0e0138d205.jpg,a man is standing on a snowy hill,0.1596628935269467,0.5011235955056179
+context_v2,LSTM,Shallow_Large,535529555_583d89b7f2.jpg,a dog is running through the grass,0.039281465090051315,0.2272727272727273
+context_v2,LSTM,Shallow_Large,3415809168_af9dabdba5.jpg,a black and white dog is running on a field,0.21105340631872638,0.738954922628392
+context_v2,LSTM,Shallow_Large,467858872_f3431df682.jpg,a dog is running through the grass,0.01666998712262484,0.11278195488721805
+context_v2,LSTM,Shallow_Large,1299459550_1fd5594fa2.jpg,a young girl in a blue shirt is jumping into the water,0.04532931884180109,0.2976190476190476
+context_v2,LSTM,Shallow_Large,3318995586_c2bc50b92e.jpg,a boy in a red shirt is playing with a red shirt,0.04532931884180109,0.2883720930232559
+context_v2,LSTM,Shallow_Large,3079787482_0757e9d167.jpg,a little girl is playing with a baby,0.1477219991186121,0.3599374021909233
+context_v2,LSTM,Shallow_Large,3037558954_20115165e3.jpg,a boy is jumping on a beach,0.08783602619713961,0.29040404040404044
+context_v2,LSTM,Shallow_Large,2176874361_2b4149010b.jpg,a dog is running through a field,0.20556680845025987,0.4206349206349207
+context_v2,LSTM,Shallow_Large,2328104318_5a43ca170c.jpg,a man is standing on a bench,0.488923022434901,0.4891304347826087
+context_v2,LSTM,Shallow_Large,3203707977_cc9448fecb.jpg,a man in a black shirt and a black shirt and a black shirt and a black shirt and a black and white hat and a black and white hat,0.019746482195058843,0.22522522522522523
+context_v2,LSTM,Shallow_Large,3694093650_547259731e.jpg,a group of people are standing in a crowd of a crowd,0.3672056269893592,0.5434782608695652
+context_v2,LSTM,Shallow_Large,241046599_28b0ca7b9f.jpg,a brown dog is running through the grass,0.42728700639623407,0.47024404167261313
+context_v2,LSTM,Shallow_Large,2257294002_0073263c54.jpg,a group of children are playing in the air,0.03585890753612134,0.2777777777777778
+context_v2,LSTM,Shallow_Large,210625425_fb1ef5d23b.jpg,a person is sitting on a lake,0.039281465090051315,0.10309278350515463
+context_v2,LSTM,Shallow_Large,3612249030_e2829ffa31.jpg,a young boy in a red shirt and a black shirt and black and white shirt and black and white hair and black and white hair and black and white hair and black and,0.037061986319706204,0.30000000000000004
+context_v2,LSTM,Shallow_Large,3271084924_4778d556cc.jpg,a black and white dog is running through the grass,0.056122223243057295,0.4931640625
+context_v2,LSTM,Shallow_Large,1248734482_3038218f3b.jpg,a little girl is playing in a park,0.06840676598421276,0.2720905172413793
+context_v2,LSTM,Shallow_Large,765929807_de381cc764.jpg,a man in a blue shirt is climbing a rock,0.07259795291154773,0.33573928258967634
+context_v2,LSTM,Shallow_Large,3559781965_d4ec00e506.jpg,a brown dog is running through the grass,0.1388678643995174,0.4406130268199233
+context_v2,LSTM,Shallow_Large,2525270674_4ab536e7ec.jpg,a dog is running through a field,0.09878765474230743,0.2222222222222222
+context_v2,LSTM,Shallow_Large,2335619125_2e2034f2c3.jpg,a black dog is running through the snow,1.0,0.9990234375
+context_v2,LSTM,Shallow_Large,3195188609_01afbe46e6.jpg,a group of people are playing in the field,0.1623339577375495,0.6310013717421126
+context_v2,LSTM,Shallow_Large,1975531316_8b00eeaaf7.jpg,a dog is playing in a red dog,0.1561969968460128,0.25
+context_v2,LSTM,Shallow_Large,2302747917_aa0300eb68.jpg,a woman in a red shirt is walking on a street,0.052463410228614595,0.13513513513513514
+context_v2,LSTM,Shallow_Large,3229282764_a4a515f4e2.jpg,a young girl in a blue shirt is jumping on a beach,0.05186805880190237,0.5636363636363637
+context_v2,LSTM,Shallow_Large,3565655045_8eb00b7423.jpg,a man is jumping into the water,0.15447878876032708,0.30241935483870974
+context_v2,LSTM,Deep_Large,2736508369_fd9ff0b42f.jpg,a man in a red shirt is a ball,0.29558013016570783,0.48888888888888893
+context_v2,LSTM,Deep_Large,1093737381_b313cd49ff.jpg,a man in a red shirt is standing on a street,0.05452469119630864,0.21739130434782605
+context_v2,LSTM,Deep_Large,3412249548_00820fc4ca.jpg,a man in a red shirt and a black shirt and a black shirt is,0.043748114312246456,0.3542857142857143
+context_v2,LSTM,Deep_Large,3380072636_4cd59385fd.jpg,a man in a red shirt is playing in a ball,0.12278260149096115,0.44158415841584164
+context_v2,LSTM,Deep_Large,3501083764_cf592292a6.jpg,a man in a red shirt and a black shirt is standing,0.29502343631964045,0.2497874149659864
+context_v2,LSTM,Deep_Large,2911919938_6bb6587a36.jpg,a man in a red shirt is standing on a street,0.06238986072117501,0.3076923076923077
+context_v2,LSTM,Deep_Large,3621717946_d96f8a6012.jpg,a dog is running in the water,0.04049515890265692,0.2531645569620253
+context_v2,LSTM,Deep_Large,3228069008_edb2961fc4.jpg,a dog is running in a grass,0.17820132316770917,0.4746835443037974
+context_v2,LSTM,Deep_Large,3494394662_3edfd4a34c.jpg,a man in a red shirt and a black shirt and a black shirt,0.05842896293786665,0.2690058479532164
+context_v2,LSTM,Deep_Large,3729405438_6e79077ab2.jpg,a man in a red shirt is riding a rock,0.06568934426718102,0.21657250470809788
+context_v2,LSTM,Deep_Large,2868324804_5cc8030484.jpg,a man in a red shirt is playing in a ball,0.040282619279694225,0.39789789789789787
+context_v2,LSTM,Deep_Large,2448393373_80c011d301.jpg,a man in a red shirt is standing on a street,0.023501661818361337,0.145985401459854
+context_v2,LSTM,Deep_Large,3052196390_c59dd24ca8.jpg,a man in a red shirt is jumping on a water,0.05637560315259291,0.3931623931623932
+context_v2,LSTM,Deep_Large,2247192427_5e106f24a9.jpg,a man in a red shirt is playing in a ball,0.024808415001701823,0.15384615384615385
+context_v2,LSTM,Deep_Large,2244551043_21b8cca866.jpg,a man in a red shirt and a woman is,0.056122223243057295,0.10989010989010987
+context_v2,LSTM,Deep_Large,3014080715_f4f0dbb56e.jpg,a dog is running in the water,0.039281465090051315,0.15463917525773196
+context_v2,LSTM,Deep_Large,3244734844_c318c29c23.jpg,a man in a red shirt is a red shirt,0.06985342056580097,0.2485236220472441
+context_v2,LSTM,Deep_Large,3421928157_69a325366f.jpg,a man in a red shirt is riding a bike,0.04594899010019892,0.15625
+context_v2,LSTM,Deep_Large,3572346664_e1e6c77f11.jpg,a man in a red shirt is standing in a street,0.04740604259878138,0.31250000000000006
+context_v2,LSTM,Deep_Large,3132760860_3e743a935d.jpg,a man in a red shirt is riding a bike,0.02984745896009824,0.12711864406779658
+context_v2,LSTM,Deep_Large,2148916767_644ea6a7fa.jpg,a dog is running in the water,0.08783602619713961,0.6147540983606558
+context_v2,LSTM,Deep_Large,2998024845_1529c11694.jpg,a man is riding a bike,0.13512001548070346,0.17543859649122806
+context_v2,LSTM,Deep_Large,2613209320_edf6a2b7e9.jpg,a dog is running in the water,0.1155987114790698,0.5357142857142857
+context_v2,LSTM,Deep_Large,745966757_6d16dfad8f.jpg,a man in a red shirt is standing on a rock,0.02950234363196405,0.1785714285714286
+context_v2,LSTM,Deep_Large,1998457059_c9ac9a1e1a.jpg,a man in a red shirt is jumping on the water,0.06484115071397648,0.23979591836734693
+context_v2,LSTM,Deep_Large,503090187_8758ab5680.jpg,a man in a red shirt and a black shirt is standing,0.045293761707938834,0.21505376344086022
+context_v2,LSTM,Deep_Large,3627679667_0e3de9fc90.jpg,a man in a red shirt is jumping in the water,0.05012578715739066,0.18072289156626503
+context_v2,LSTM,Deep_Large,516214924_c2a4364cb3.jpg,a dog is running in a grass,0.08307018474412793,0.5174180327868853
+context_v2,LSTM,Deep_Large,3119696225_b289efaec8.jpg,a man in a red shirt is a water,0.037531192687516986,0.2469135802469136
+context_v2,LSTM,Deep_Large,3405113041_4b72c24801.jpg,a dog is in the water,0.08690744034581972,0.3627873563218391
+context_v2,LSTM,Deep_Large,3315033940_e91f87b7f2.jpg,a man is a bike,0.05231223689135342,0.11627906976744186
+context_v2,LSTM,Deep_Large,791338571_7f38510bf7.jpg,a man is a red and white dog,0.06469512492861311,0.2388369678089304
+context_v2,LSTM,Deep_Large,1332208215_fa824f6659.jpg,a man in a red shirt and a black shirt is standing,0.10600313379512592,0.14367816091954025
+context_v2,LSTM,Deep_Large,3399944164_ec24123945.jpg,a man in a red shirt and a black shirt is to a woman,0.2601278440403792,0.391913165962383
+context_v2,LSTM,Deep_Large,2696394827_7342ced36f.jpg,a dog is running in the water,0.21515344521672802,0.5645569620253165
+context_v2,LSTM,Deep_Large,2427558437_3e839056d7.jpg,a dog is running in the water,0.07201170728284921,0.23731203007518795
+context_v2,LSTM,Deep_Large,2086678529_b3301c2d71.jpg,a man in a red shirt is standing,0.06985342056580097,0.5090725806451614
+context_v2,LSTM,Deep_Large,2472574160_8ce233f396.jpg,a man in a red shirt is standing in a red and white and white and white and white and white and white shirt,0.14411291670643006,0.509431045145331
+context_v2,LSTM,Deep_Large,413737417_b0a8b445e9.jpg,a man in a red shirt is riding a bike,0.04939382737115371,0.2054794520547945
+context_v2,LSTM,Deep_Large,3690425778_3b390b3ea5.jpg,a man in a red shirt is on a rock of a rock,0.056910028801226954,0.2818080357142857
+context_v2,LSTM,Deep_Large,950273886_88c324e663.jpg,a man in a red shirt is standing on a rock,0.5193071778680676,0.7215909090909091
+context_v2,LSTM,Deep_Large,2886411666_72d8b12ce4.jpg,a dog is running in the grass,0.28574404296988,0.6914285714285714
+context_v2,LSTM,Deep_Large,909808296_23c427022d.jpg,a dog is running in the water,0.04836067244628849,0.2545362903225807
+context_v2,LSTM,Deep_Large,2180356743_b3a3c9a7f6.jpg,a man in a red shirt and a black shirt is standing on a street,0.05202556880807584,0.3230218855218855
+context_v2,LSTM,Deep_Large,3640109324_3ce89e4d1a.jpg,a man in a red shirt and a black shirt is standing,0.024088562704853513,0.125
+context_v2,LSTM,Deep_Large,481827288_a688be7913.jpg,a dog is running in the water,0.17567205239427922,0.7934426229508196
+context_v2,LSTM,Deep_Large,421808539_57abee6d55.jpg,a dog is running in the water,0.09878765474230743,0.6147540983606558
+context_v2,LSTM,Deep_Large,3550276904_19de3561c5.jpg,a man in a red shirt and a black shirt is standing,0.047720917798355585,0.10204081632653061
+context_v2,LSTM,Deep_Large,3686924335_3c51e8834a.jpg,a man is a bike in a rock of a blue wall,0.024088562704853513,0.21505376344086022
+context_v2,LSTM,Deep_Large,2843695880_eeea6c67db.jpg,a man in a red shirt is to a water,0.025098621243978974,0.21739130434782608
+context_v2,LSTM,Deep_Large,2594459477_8ca0121a9a.jpg,a man in a red shirt is a red shirt,0.056122223243057295,0.2054794520547945
+context_v2,LSTM,Deep_Large,3257277774_aba333a94c.jpg,a dog is running in the water,0.09878765474230743,0.6147540983606558
+context_v2,LSTM,Deep_Large,3613030730_0b28b079ba.jpg,a man in a red shirt is in a air,0.02984745896009824,0.15
+context_v2,LSTM,Deep_Large,3164415865_612f9fd8bc.jpg,a man in a red shirt is riding a bike,0.021105340631872645,0.0684931506849315
+context_v2,LSTM,Deep_Large,1439282131_3814d6ae04.jpg,a dog is running in the water,0.17567205239427922,0.5068181818181817
+context_v2,LSTM,Deep_Large,2046222127_a6f300e202.jpg,a man in a red shirt is a red shirt,0.2907153684841096,0.4440366972477064
+context_v2,LSTM,Deep_Large,3271468462_701eb88d3b.jpg,a dog is running in the water,0.08563683466425753,0.2222711267605634
+context_v2,LSTM,Deep_Large,2533076864_d799996433.jpg,a man is a red shirt,0.05372849659117709,0.14285714285714285
+context_v2,LSTM,Deep_Large,3499720588_c32590108e.jpg,a man in a red shirt and a black shirt and a black shirt is standing,0.030934588294313718,0.1739130434782609
+context_v2,LSTM,Deep_Large,673806038_0a3682a83f.jpg,a man in a red shirt is playing in the water,0.05696822651325549,0.3547523427041499
+context_v2,LSTM,Deep_Large,571507143_be346225b7.jpg,a man in a red shirt and a black shirt is standing,0.03667625610580776,0.13333333333333333
+context_v2,LSTM,Deep_Large,2924884899_f512c84332.jpg,a man in a red shirt and a black shirt is standing,0.23462350320528,0.3757440476190476
+context_v2,LSTM,Deep_Large,1130401779_8c30182e3e.jpg,a dog is running in the water,0.18575057999133598,0.6147540983606558
+context_v2,LSTM,Deep_Large,3431101934_99a6c55914.jpg,a man in a red shirt is on a rock of a rock,0.04913270548144422,0.2608471074380165
+context_v2,LSTM,Deep_Large,226607225_44d696db6b.jpg,a man is a bike,0.035065941041239286,0.12987012987012989
+context_v2,LSTM,Deep_Large,3463268965_f22884fc69.jpg,a man in a red shirt is standing on a rock,0.12760671487807074,0.34534534534534533
+context_v2,LSTM,Deep_Large,3437315443_ba2263f92e.jpg,a man in a red shirt is standing on a street,0.3508439695638686,0.4323630136986301
+context_v2,LSTM,Deep_Large,3589367895_5d3729e3ea.jpg,a man in a black shirt and a black shirt is standing,0.05637560315259291,0.21471088435374147
+context_v2,LSTM,Deep_Large,2372572028_53b76104a9.jpg,a man in a red shirt is standing on a street,0.05201772843458374,0.3112327656123276
+context_v2,LSTM,Deep_Large,3030962048_f71948226c.jpg,a man in a red shirt and a black shirt and a black shirt and a white shirt,0.015276780223747026,0.11904761904761905
+context_v2,LSTM,Deep_Large,3392019836_c7aeebca1c.jpg,a man in a red shirt and a black shirt is standing,0.11094660471566163,0.3074306645735218
+context_v2,LSTM,Deep_Large,2289096282_4ef120f189.jpg,a man in a red shirt is standing on a rock of a rock,0.04271802513581977,0.19230769230769232
+context_v2,LSTM,Deep_Large,537359971_6e28f5e66e.jpg,a man in a red shirt and a black shirt is standing,0.022416933501922302,0.11904761904761905
+context_v2,LSTM,Deep_Large,319870744_0e0138d205.jpg,a man in a red shirt is on a air,0.06674094719041482,0.27472527472527475
+context_v2,LSTM,Deep_Large,535529555_583d89b7f2.jpg,a dog is running in the grass,0.039281465090051315,0.2272727272727273
+context_v2,LSTM,Deep_Large,3415809168_af9dabdba5.jpg,a dog is running in the water,0.42993882790909616,0.35866477272727276
+context_v2,LSTM,Deep_Large,467858872_f3431df682.jpg,a dog is running in the water,0.03280636247745341,0.20609318996415774
+context_v2,LSTM,Deep_Large,1299459550_1fd5594fa2.jpg,a man in a red shirt is in a red shirt,0.026658376817028855,0.1785714285714286
+context_v2,LSTM,Deep_Large,3318995586_c2bc50b92e.jpg,a man in a red shirt is standing in a street,0.05637560315259291,0.19801980198019806
+context_v2,LSTM,Deep_Large,3079787482_0757e9d167.jpg,a man in a red shirt is to a black and white and white and white and white and white and white and white and white and white and white and white and white,0.007205335066302803,0.06622516556291393
+context_v2,LSTM,Deep_Large,3037558954_20115165e3.jpg,a man in a red shirt is jumping on the water,0.06704226838163331,0.6222271517302573
+context_v2,LSTM,Deep_Large,2176874361_2b4149010b.jpg,a dog is a black and white dog,0.11362193664674995,0.3675766283524904
+context_v2,LSTM,Deep_Large,2328104318_5a43ca170c.jpg,a man in a red shirt is standing on a street,0.2894742149567509,0.5333561996227062
+context_v2,LSTM,Deep_Large,3203707977_cc9448fecb.jpg,a man in a red shirt and a woman is,0.13747081017605653,0.5616605616605616
+context_v2,LSTM,Deep_Large,3694093650_547259731e.jpg,a man in a red shirt and a woman is standing,0.04576989215762564,0.145985401459854
+context_v2,LSTM,Deep_Large,241046599_28b0ca7b9f.jpg,a dog is running in the grass,0.21515344521672802,0.4508928571428571
+context_v2,LSTM,Deep_Large,2257294002_0073263c54.jpg,a man in a red shirt is playing in a red ball,0.05094110796339642,0.12820512820512822
+context_v2,LSTM,Deep_Large,210625425_fb1ef5d23b.jpg,a man in a red shirt is in a air,0.02777619034011792,0.13761467889908252
+context_v2,LSTM,Deep_Large,3612249030_e2829ffa31.jpg,a man in a red shirt is standing on a air,0.11530568323789493,0.576923076923077
+context_v2,LSTM,Deep_Large,3271084924_4778d556cc.jpg,a dog is running in the water,0.18575057999133598,0.6147540983606558
+context_v2,LSTM,Deep_Large,1248734482_3038218f3b.jpg,a man in a red shirt is standing on a grass,0.05637560315259291,0.23437499999999997
+context_v2,LSTM,Deep_Large,765929807_de381cc764.jpg,a man in a red shirt is a red shirt,0.056122223243057295,0.18292682926829268
+context_v2,LSTM,Deep_Large,3559781965_d4ec00e506.jpg,a dog is running in the grass,0.13569111493289868,0.45362903225806456
+context_v2,LSTM,Deep_Large,2525270674_4ab536e7ec.jpg,a dog is running in the water,0.10445522730720382,0.3234782608695652
+context_v2,LSTM,Deep_Large,2335619125_2e2034f2c3.jpg,a dog is running in the water,0.16102307266026747,0.5645569620253165
+context_v2,LSTM,Deep_Large,3195188609_01afbe46e6.jpg,a man in a red shirt is running,0.06985342056580097,0.39453125
+context_v2,LSTM,Deep_Large,1975531316_8b00eeaaf7.jpg,a man is playing in a black and white dog,0.06311969078225892,0.40879120879120884
+context_v2,LSTM,Deep_Large,2302747917_aa0300eb68.jpg,a man in a red shirt is standing on a street,0.052463410228614595,0.13513513513513514
+context_v2,LSTM,Deep_Large,3229282764_a4a515f4e2.jpg,a man in a red shirt is jumping in the water,0.059609942732681,0.21739130434782605
+context_v2,LSTM,Deep_Large,3565655045_8eb00b7423.jpg,a man in a red shirt is a bike,0.06674094719041482,0.21367521367521372

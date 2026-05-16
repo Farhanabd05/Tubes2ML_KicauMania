@@ -75,19 +75,19 @@ class ImageCaptioningModel:
     def generate_caption(self, image_feature, max_len=35):
         self.reset_states()
         
-        x_minus1 = self.dense_projection.forward(
+        image_context = np.tanh(self.dense_projection.forward(
             image_feature.reshape(1, -1)
-        )[0]
+        )[0])
         
-        self.forward_step(x_minus1)
         start_token = self._token_id("start")
         end_token = self._token_id("end")
         current_token = start_token
         
         caption = []
         
-        for _ in range(max_len):
+        for _ in range(min(max_len, self.text_util.sequence_length - 1)):
             x_t = self.embedding.forward(current_token) 
+            x_t = np.concatenate([x_t, image_context])
             
             probs = self.forward_step(x_t)
             

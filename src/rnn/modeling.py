@@ -1,41 +1,29 @@
-def drop_image_timestep_layer(name="Drop_Image_Timestep"):
-    from tensorflow.keras.layers import Layer
-
-    class DropImageTimestep(Layer):
-        def __init__(self, **kwargs):
-            super().__init__(**kwargs)
-            self.supports_masking = True
-
-        def call(self, inputs):
-            return inputs[:, 1:, :]
-
-        def compute_mask(self, inputs, mask=None):
-            if mask is None:
-                return None
-            return mask[:, 1:]
-
-    return DropImageTimestep(name=name)
+def caption_steps(sequence_length: int) -> int:
+    return int(sequence_length) - 1
 
 
 def build_caption_model(is_lstm: bool, layers: int, hidden_state: int, vocab_size: int, sequence_length: int = 35):
-    from tensorflow.keras.layers import Concatenate, Dense, Embedding, Input, LSTM, Masking, Reshape, SimpleRNN
+    from tensorflow.keras.layers import Concatenate, Dense, Embedding, Input, LSTM, RepeatVector, SimpleRNN
     from tensorflow.keras.models import Model
 
-    image_input = Input(shape=(2048,), name="Image_Input")
-    caption_input = Input(shape=(sequence_length,), name="Caption_Input")
+    steps = caption_steps(sequence_length)
+    if steps < 1:
+        raise ValueError("sequence_length harus lebih besar dari 1.")
 
-    image_projection = Dense(256, activation="relu", name="Image_Projection")(image_input)
-    image_projection = Reshape((1, 256), name="Image_Timestep")(image_projection)
-    image_projection = Masking(mask_value=0.0, name="Image_Mask")(image_projection)
+    image_input = Input(shape=(2048,), name="Image_Input")
+    caption_input = Input(shape=(steps,), name="Caption_Input")
+
+    image_context = Dense(256, activation="tanh", name="Image_Projection")(image_input)
+    image_context = RepeatVector(steps, name="Image_Context_Repeat")(image_context)
 
     caption_embedding = Embedding(
         input_dim=vocab_size,
         output_dim=256,
-        mask_zero=True,
+        mask_zero=False,
         name="Token_Embedding",
     )(caption_input)
 
-    x = Concatenate(axis=1, name="PreInject_Concat")([image_projection, caption_embedding])
+    x = Concatenate(axis=-1, name="Context_Concat")([caption_embedding, image_context])
     recurrent_cls = LSTM if is_lstm else SimpleRNN
     prefix = "LSTM" if is_lstm else "RNN"
 
@@ -46,7 +34,6 @@ def build_caption_model(is_lstm: bool, layers: int, hidden_state: int, vocab_siz
             name=f"{prefix}_Layer_{idx + 1}",
         )(x)
 
-    x = drop_image_timestep_layer(name="Drop_Image_Timestep")(x)
     output = Dense(vocab_size, activation="softmax", name="Output_Layer")(x)
 
     model = Model(inputs=[image_input, caption_input], outputs=output)
@@ -67,11 +54,12 @@ def greedy_decode_keras(keras_model, image_feature, text_util, max_len=35):
     if start_token is None or end_token is None:
         raise KeyError("Vocabulary harus punya token start dan end.")
 
-    input_seq = np.zeros((1, text_util.sequence_length), dtype=np.int32)
+    steps = caption_steps(text_util.sequence_length)
+    input_seq = np.zeros((1, steps), dtype=np.int32)
     input_seq[0, 0] = start_token
     words = []
 
-    for step in range(min(max_len, text_util.sequence_length)):
+    for step in range(min(max_len, steps)):
         probs = keras_model.predict([image_feature.reshape(1, -1), input_seq], verbose=0)
         next_token = int(np.argmax(probs[0, step]))
         next_word = text_util.idx_to_word.get(next_token, "")
@@ -81,7 +69,7 @@ def greedy_decode_keras(keras_model, image_feature, text_util, max_len=35):
 
         if next_word not in skip_tokens:
             words.append(next_word)
-        if step + 1 < text_util.sequence_length:
+        if step + 1 < steps:
             input_seq[0, step + 1] = next_token
 
     return " ".join(words)

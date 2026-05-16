@@ -203,6 +203,12 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# ML artifacts generated locally/Kaggle.
+artifacts/rnn/weights/
+artifacts/rnn/feature_scaler_*.npz
+*.weights.h5
+*.h5
+
 # Ruff stuff:
 .ruff_cache/
 

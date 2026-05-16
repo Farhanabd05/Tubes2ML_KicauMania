@@ -1,0 +1,4 @@
+architecture,model_type,variation_name,implementation,max_len,bleu_4,meteor,total_time_sec,avg_time_sec,unique_captions,top_caption_frequency
+context_v2,SimpleRNN,Shallow_Large,scratch,10,0.14835361012295492,0.362451160410733,22.942893500003265,0.22942893500003264,95,0.02
+context_v2,SimpleRNN,Shallow_Large,scratch,20,0.1399410796393487,0.3667079520204433,20.11099970000214,0.20110999700002138,95,0.02
+context_v2,SimpleRNN,Shallow_Large,scratch,35,0.13951378398802788,0.3661461386406099,19.85402639998938,0.1985402639998938,95,0.02
