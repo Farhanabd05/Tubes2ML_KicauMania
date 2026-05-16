@@ -256,5 +256,5 @@ Zip tersebut berisi weight `PreInjectV2`, scaler, dan CSV hasil evaluasi. Downlo
 | NIM      | Nama                         | Pembagian Tugas |
 | :------: | :--------------------------- | :-------------- |
 | 13523023 | Muhammad Aufa Farabi         | Implementasi CNN |
-| 13523042 | Abdullah Farhan              | Implementasi RNN/LSTM (Bagian 4 sampai 6) |
+| 13523042 | Abdullah Farhan              | Implementasi RNN LSTM (Bagian 0 dan 4 sampai 6), Fix Bug|
 | 13523051 | Ferdinand Gabe Tua Sinaga    | Implementasi dan analisis RNN (Bagian 1 sampai 3) |
