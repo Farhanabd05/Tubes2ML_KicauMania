@@ -202,6 +202,12 @@ cython_debug/
 # .vscode/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
+*.zip
+
+# ML artifacts generated locally/Kaggle.
+# Model weights under artifacts/rnn/weights are tracked with Git LFS.
+artifacts/rnn/weights/*.h5
+!artifacts/rnn/weights/*PreInjectV2*.weights.h5
 
 # Ruff stuff:
 .ruff_cache/

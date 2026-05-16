@@ -1,5 +1,5 @@
 import numpy as np
-from dense import DenseLayer
+from ...dense import DenseLayer
 
 class DenseProjectionLayer(DenseLayer):
     def __init__(self, input_size, embed_dim):

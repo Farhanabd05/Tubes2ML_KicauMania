@@ -1,5 +1,5 @@
 import numpy as np
-from dense import DenseLayer
+from ...dense import DenseLayer
 
 class DenseOutputLayer(DenseLayer):
     def __init__(self, units, vocab_size):
@@ -10,4 +10,7 @@ class DenseOutputLayer(DenseLayer):
         self.b = np.array(b_keras).reshape(1, -1)
 
     def forward(self, inputs: np.ndarray) -> np.ndarray:
-        return super().forward(inputs)
+        logits = super().forward(inputs)
+        shifted = logits - np.max(logits, axis=1, keepdims=True)
+        exp = np.exp(shifted)
+        return exp / np.sum(exp, axis=1, keepdims=True)

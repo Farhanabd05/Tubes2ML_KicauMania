@@ -1,0 +1,1201 @@
+architecture,model_type,variation_name,image_name,generated_caption,bleu_4,meteor
+preinject_v2,SimpleRNN,Shallow_Small,2736508369_fd9ff0b42f.jpg,a man in a red shirt is running on a field,0.2596535889340338,0.47920792079207924
+preinject_v2,SimpleRNN,Shallow_Small,1093737381_b313cd49ff.jpg,a man in a red shirt is running on a field,0.052463410228614595,0.21739130434782605
+preinject_v2,SimpleRNN,Shallow_Small,3412249548_00820fc4ca.jpg,a man in a red shirt is running on a field,0.05012578715739066,0.19801980198019806
+preinject_v2,SimpleRNN,Shallow_Small,3380072636_4cd59385fd.jpg,a man in a red shirt is running on a field,0.06596924585662962,0.36831683168316837
+preinject_v2,SimpleRNN,Shallow_Small,3501083764_cf592292a6.jpg,a man in a red shirt is running on a field,0.2596535889340338,0.223240255962769
+preinject_v2,SimpleRNN,Shallow_Small,2911919938_6bb6587a36.jpg,a man in a red shirt is running on a field,0.05012578715739066,0.3076923076923077
+preinject_v2,SimpleRNN,Shallow_Small,3621717946_d96f8a6012.jpg,a dog is running on a field,0.034052233956373766,0.12658227848101264
+preinject_v2,SimpleRNN,Shallow_Small,3228069008_edb2961fc4.jpg,a dog is running on a field,0.17820132316770917,0.6126582278481013
+preinject_v2,SimpleRNN,Shallow_Small,3494394662_3edfd4a34c.jpg,a man in a red shirt is running on a field,0.06904573083274564,0.24658203125000006
+preinject_v2,SimpleRNN,Shallow_Small,3729405438_6e79077ab2.jpg,a man in a red shirt is running on a field,0.06484115071397648,0.30789825970548856
+preinject_v2,SimpleRNN,Shallow_Small,2868324804_5cc8030484.jpg,a man in a red shirt is running on a field,0.2547696540824902,0.4518072289156627
+preinject_v2,SimpleRNN,Shallow_Small,2448393373_80c011d301.jpg,a man in a red shirt is running on a field,0.023501661818361337,0.21276595744680854
+preinject_v2,SimpleRNN,Shallow_Small,3052196390_c59dd24ca8.jpg,a man in a red shirt is running on a field,0.04740604259878138,0.24096385542168677
+preinject_v2,SimpleRNN,Shallow_Small,2247192427_5e106f24a9.jpg,a man in a red shirt is running on a field,0.04411629359322707,0.3931623931623932
+preinject_v2,SimpleRNN,Shallow_Small,2244551043_21b8cca866.jpg,a man in a red shirt is running on a field,0.04411629359322707,0.10869565217391303
+preinject_v2,SimpleRNN,Shallow_Small,3014080715_f4f0dbb56e.jpg,a dog is running on a field,0.039281465090051315,0.2142857142857143
+preinject_v2,SimpleRNN,Shallow_Small,3244734844_c318c29c23.jpg,a man in a red shirt is running on a field,0.06238986072117501,0.24658203125000006
+preinject_v2,SimpleRNN,Shallow_Small,3421928157_69a325366f.jpg,a man in a red shirt is running on a field,0.04790437745835816,0.15384615384615385
+preinject_v2,SimpleRNN,Shallow_Small,3572346664_e1e6c77f11.jpg,a man in a red shirt is running on a field,0.04740604259878138,0.19801980198019806
+preinject_v2,SimpleRNN,Shallow_Small,3132760860_3e743a935d.jpg,a man in a red shirt is running on a field,0.02434178296655151,0.12605042016806722
+preinject_v2,SimpleRNN,Shallow_Small,2148916767_644ea6a7fa.jpg,a dog is running on a field,0.04939382737115371,0.1639344262295082
+preinject_v2,SimpleRNN,Shallow_Small,2998024845_1529c11694.jpg,a man in a red shirt is running on a field,0.13193849171325928,0.35830999066293184
+preinject_v2,SimpleRNN,Shallow_Small,2613209320_edf6a2b7e9.jpg,a dog is running on a field,0.09878765474230743,0.2634593356242841
+preinject_v2,SimpleRNN,Shallow_Small,745966757_6d16dfad8f.jpg,a man in a red shirt is running on a field,0.02950234363196405,0.1785714285714286
+preinject_v2,SimpleRNN,Shallow_Small,1998457059_c9ac9a1e1a.jpg,a man in a red shirt is running on a field,0.05012578715739066,0.18564356435643567
+preinject_v2,SimpleRNN,Shallow_Small,503090187_8758ab5680.jpg,a man in a red shirt is running on a field,0.05012578715739066,0.21739130434782605
+preinject_v2,SimpleRNN,Shallow_Small,3627679667_0e3de9fc90.jpg,a man in a red shirt is running on a field,0.06238986072117501,0.3348214285714286
+preinject_v2,SimpleRNN,Shallow_Small,516214924_c2a4364cb3.jpg,a dog is running on a field,0.08307018474412793,0.5174180327868853
+preinject_v2,SimpleRNN,Shallow_Small,3119696225_b289efaec8.jpg,a man in a red shirt is running on a field,0.052463410228614595,0.4481927710843373
+preinject_v2,SimpleRNN,Shallow_Small,3405113041_4b72c24801.jpg,a dog is running on a field,0.039281465090051315,0.14285714285714285
+preinject_v2,SimpleRNN,Shallow_Small,3315033940_e91f87b7f2.jpg,a man is running on a field,0.043472087194499145,0.17045454545454547
+preinject_v2,SimpleRNN,Shallow_Small,791338571_7f38510bf7.jpg,a dog is running on a field,0.05411516285864537,0.2410901467505241
+preinject_v2,SimpleRNN,Shallow_Small,1332208215_fa824f6659.jpg,a man in a red shirt is running on a field,0.12605968092174913,0.398936170212766
+preinject_v2,SimpleRNN,Shallow_Small,3399944164_ec24123945.jpg,a man in a red shirt is running on a field,0.2547696540824902,0.2054794520547945
+preinject_v2,SimpleRNN,Shallow_Small,2696394827_7342ced36f.jpg,a dog is running on a field,0.08307018474412793,0.3234880450070324
+preinject_v2,SimpleRNN,Shallow_Small,2427558437_3e839056d7.jpg,a dog is running on a field,0.07201170728284921,0.2410901467505241
+preinject_v2,SimpleRNN,Shallow_Small,2086678529_b3301c2d71.jpg,a man in a red shirt is running on a field,0.05012578715739066,0.3076923076923077
+preinject_v2,SimpleRNN,Shallow_Small,2472574160_8ce233f396.jpg,a man in a red shirt is running on a field,0.2819489698613971,0.4810495626822157
+preinject_v2,SimpleRNN,Shallow_Small,413737417_b0a8b445e9.jpg,a man in a red shirt is running on a field,0.05012578715739066,0.2702702702702703
+preinject_v2,SimpleRNN,Shallow_Small,3690425778_3b390b3ea5.jpg,a man in a red shirt is running on a field,0.059609942732681,0.21618150684931506
+preinject_v2,SimpleRNN,Shallow_Small,950273886_88c324e663.jpg,a man in a red shirt is running on a field,0.47987820666906633,0.6289424860853432
+preinject_v2,SimpleRNN,Shallow_Small,2886411666_72d8b12ce4.jpg,a dog is running on a field,0.5410822690539396,0.5499999999999999
+preinject_v2,SimpleRNN,Shallow_Small,909808296_23c427022d.jpg,a dog is running on a field,0.056590385060109244,0.3234782608695652
+preinject_v2,SimpleRNN,Shallow_Small,2180356743_b3a3c9a7f6.jpg,a man in a red shirt is running on a field,0.06238986072117501,0.24658203125000006
+preinject_v2,SimpleRNN,Shallow_Small,3640109324_3ce89e4d1a.jpg,a man in a red shirt is running on a field,0.026658376817028855,0.16806722689075632
+preinject_v2,SimpleRNN,Shallow_Small,481827288_a688be7913.jpg,a dog is running on a field,0.033031643180138064,0.1639344262295082
+preinject_v2,SimpleRNN,Shallow_Small,421808539_57abee6d55.jpg,a dog is running on a field,0.06985342056580097,0.1639344262295082
+preinject_v2,SimpleRNN,Shallow_Small,3550276904_19de3561c5.jpg,a man in a red shirt is running on a field,0.0381607811464067,0.10273972602739725
+preinject_v2,SimpleRNN,Shallow_Small,3686924335_3c51e8834a.jpg,a man is running on a field,0.043472087194499145,0.14285714285714285
+preinject_v2,SimpleRNN,Shallow_Small,2843695880_eeea6c67db.jpg,a man in a red shirt is running on a field,0.018850319022747353,0.10638297872340427
+preinject_v2,SimpleRNN,Shallow_Small,2594459477_8ca0121a9a.jpg,a man in a red shirt is running on a field,0.04374152137028269,0.2027027027027027
+preinject_v2,SimpleRNN,Shallow_Small,3257277774_aba333a94c.jpg,a dog is running on a field,0.06985342056580097,0.1639344262295082
+preinject_v2,SimpleRNN,Shallow_Small,3613030730_0b28b079ba.jpg,a man in a red shirt is running on a field,0.024808415001701823,0.13636363636363635
+preinject_v2,SimpleRNN,Shallow_Small,3164415865_612f9fd8bc.jpg,a man in a red shirt is running on a field,0.022416933501922302,0.06756756756756757
+preinject_v2,SimpleRNN,Shallow_Small,1439282131_3814d6ae04.jpg,a dog is running on a field,0.039281465090051315,0.1639344262295082
+preinject_v2,SimpleRNN,Shallow_Small,2046222127_a6f300e202.jpg,a man in a red shirt is running on a field,0.2596535889340338,0.44
+preinject_v2,SimpleRNN,Shallow_Small,3271468462_701eb88d3b.jpg,a dog is running on a field,0.0670144447096575,0.29040404040404044
+preinject_v2,SimpleRNN,Shallow_Small,2533076864_d799996433.jpg,a man in a red shirt is running on a field,0.02818780157629645,0.18181818181818182
+preinject_v2,SimpleRNN,Shallow_Small,3499720588_c32590108e.jpg,a man in a red shirt is running on a field,0.04740604259878138,0.2272727272727273
+preinject_v2,SimpleRNN,Shallow_Small,673806038_0a3682a83f.jpg,a man in a red shirt is running on a field,0.04576989215762564,0.21739130434782605
+preinject_v2,SimpleRNN,Shallow_Small,571507143_be346225b7.jpg,a man in a red shirt is running on a field,0.04411629359322707,0.2027027027027027
+preinject_v2,SimpleRNN,Shallow_Small,2924884899_f512c84332.jpg,a man in a red shirt is running on a field,0.2596535889340338,0.38027108433734946
+preinject_v2,SimpleRNN,Shallow_Small,1130401779_8c30182e3e.jpg,a dog is running on a field,0.039281465090051315,0.1639344262295082
+preinject_v2,SimpleRNN,Shallow_Small,3431101934_99a6c55914.jpg,a man in a red shirt is running on a field,0.059609942732681,0.16806722689075632
+preinject_v2,SimpleRNN,Shallow_Small,226607225_44d696db6b.jpg,a man in a red shirt is running on a field,0.022416933501922302,0.12048192771084339
+preinject_v2,SimpleRNN,Shallow_Small,3463268965_f22884fc69.jpg,a man in a red shirt is running on a field,0.16860237892968197,0.5067567567567568
+preinject_v2,SimpleRNN,Shallow_Small,3437315443_ba2263f92e.jpg,a man in a red shirt is running on a field,0.2998221389342337,0.3284875594073246
+preinject_v2,SimpleRNN,Shallow_Small,3589367895_5d3729e3ea.jpg,a man in a red shirt is running on a field,0.05012578715739066,0.14851485148514848
+preinject_v2,SimpleRNN,Shallow_Small,2372572028_53b76104a9.jpg,a man in a red shirt is running on a field,0.05201772843458374,0.35006703411291523
+preinject_v2,SimpleRNN,Shallow_Small,3030962048_f71948226c.jpg,a man in a red shirt is running on a field,0.026658376817028855,0.16806722689075632
+preinject_v2,SimpleRNN,Shallow_Small,3392019836_c7aeebca1c.jpg,a man in a red shirt is running on a field,0.11530568323789493,0.275089605734767
+preinject_v2,SimpleRNN,Shallow_Small,2289096282_4ef120f189.jpg,a man in a red shirt is running on a field,0.05452469119630864,0.23232323232323232
+preinject_v2,SimpleRNN,Shallow_Small,537359971_6e28f5e66e.jpg,a man in a red shirt is running on a field,0.0204689180374571,0.12048192771084339
+preinject_v2,SimpleRNN,Shallow_Small,319870744_0e0138d205.jpg,a man in a red shirt is running on a field,0.059609942732681,0.27173913043478265
+preinject_v2,SimpleRNN,Shallow_Small,535529555_583d89b7f2.jpg,a dog is running on a field,0.039281465090051315,0.2272727272727273
+preinject_v2,SimpleRNN,Shallow_Small,3415809168_af9dabdba5.jpg,a dog is running on a field,0.38185022210613584,0.35866477272727276
+preinject_v2,SimpleRNN,Shallow_Small,467858872_f3431df682.jpg,a dog is running on a field,0.014017732413740807,0.08064516129032259
+preinject_v2,SimpleRNN,Shallow_Small,1299459550_1fd5594fa2.jpg,a man in a red shirt is running on a field,0.04740604259878138,0.24658203125000006
+preinject_v2,SimpleRNN,Shallow_Small,3318995586_c2bc50b92e.jpg,a man in a red shirt is running on a field,0.06704226838163331,0.40760869565217384
+preinject_v2,SimpleRNN,Shallow_Small,3079787482_0757e9d167.jpg,a man in a red shirt is running on a field,0.018690183721524995,0.07812500000000001
+preinject_v2,SimpleRNN,Shallow_Small,3037558954_20115165e3.jpg,a man in a red shirt is running on a field,0.06238986072117501,0.4043478260869566
+preinject_v2,SimpleRNN,Shallow_Small,2176874361_2b4149010b.jpg,a dog is running on a field,0.20556680845025987,0.4206349206349207
+preinject_v2,SimpleRNN,Shallow_Small,2328104318_5a43ca170c.jpg,a man in a red shirt is running on a field,0.2647795226140597,0.48557692307692313
+preinject_v2,SimpleRNN,Shallow_Small,3203707977_cc9448fecb.jpg,a man in a red shirt is running on a field,0.04328649145305472,0.21739130434782605
+preinject_v2,SimpleRNN,Shallow_Small,3694093650_547259731e.jpg,a man in a red shirt is running on a field,0.040282619279694225,0.10948905109489049
+preinject_v2,SimpleRNN,Shallow_Small,241046599_28b0ca7b9f.jpg,a dog is running on a field,0.1944130841813964,0.3650793650793651
+preinject_v2,SimpleRNN,Shallow_Small,2257294002_0073263c54.jpg,a man in a red shirt is running on a field,0.05442988140675566,0.24
+preinject_v2,SimpleRNN,Shallow_Small,210625425_fb1ef5d23b.jpg,a man in a red shirt is running on a field,0.024808415001701823,0.13636363636363635
+preinject_v2,SimpleRNN,Shallow_Small,3612249030_e2829ffa31.jpg,a man in a red shirt is running on a field,0.052463410228614595,0.3931623931623932
+preinject_v2,SimpleRNN,Shallow_Small,3271084924_4778d556cc.jpg,a dog is running on a field,0.046713797772820004,0.2142857142857143
+preinject_v2,SimpleRNN,Shallow_Small,1248734482_3038218f3b.jpg,a man in a red shirt is running on a field,0.05452469119630864,0.19531250000000003
+preinject_v2,SimpleRNN,Shallow_Small,765929807_de381cc764.jpg,a man in a red shirt is running on a field,0.06238986072117501,0.38027108433734946
+preinject_v2,SimpleRNN,Shallow_Small,3559781965_d4ec00e506.jpg,a dog is running on a field,0.11410217212885428,0.4444444444444444
+preinject_v2,SimpleRNN,Shallow_Small,2525270674_4ab536e7ec.jpg,a dog is running on a field,0.09878765474230743,0.2222222222222222
+preinject_v2,SimpleRNN,Shallow_Small,2335619125_2e2034f2c3.jpg,a dog is running on a field,0.15228621982435664,0.4746835443037974
+preinject_v2,SimpleRNN,Shallow_Small,3195188609_01afbe46e6.jpg,a man in a red shirt is running on a field,0.06904573083274564,0.4481927710843373
+preinject_v2,SimpleRNN,Shallow_Small,1975531316_8b00eeaaf7.jpg,a dog is running on a field,0.17820132316770917,0.5645569620253165
+preinject_v2,SimpleRNN,Shallow_Small,2302747917_aa0300eb68.jpg,a man in a red shirt is running on a field,0.06484115071397648,0.22543697033898305
+preinject_v2,SimpleRNN,Shallow_Small,3229282764_a4a515f4e2.jpg,a man in a red shirt is running on a field,0.06238986072117501,0.34534534534534533
+preinject_v2,SimpleRNN,Shallow_Small,3565655045_8eb00b7423.jpg,a man in a red shirt is running on a field,0.05452469119630864,0.35830999066293184
+preinject_v2,SimpleRNN,Deep_Small,2736508369_fd9ff0b42f.jpg,a man is running on a water,0.08307018474412793,0.15463917525773196
+preinject_v2,SimpleRNN,Deep_Small,1093737381_b313cd49ff.jpg,a man in a white shirt is running on a water,0.052463410228614595,0.21739130434782605
+preinject_v2,SimpleRNN,Deep_Small,3412249548_00820fc4ca.jpg,a man in a white shirt is running on a water,0.06238986072117501,0.2272727272727273
+preinject_v2,SimpleRNN,Deep_Small,3380072636_4cd59385fd.jpg,a man is running on a water,0.05035983350735684,0.2410901467505241
+preinject_v2,SimpleRNN,Deep_Small,3501083764_cf592292a6.jpg,a man in a white shirt is running on a water,0.3209138982794099,0.2510952024788973
+preinject_v2,SimpleRNN,Deep_Small,2911919938_6bb6587a36.jpg,a man in a white shirt is running on a water,0.05012578715739066,0.3076923076923077
+preinject_v2,SimpleRNN,Deep_Small,3621717946_d96f8a6012.jpg,a dog is running on a water,0.0670144447096575,0.23731203007518795
+preinject_v2,SimpleRNN,Deep_Small,3228069008_edb2961fc4.jpg,a dog is running on a water,0.17820132316770917,0.6126582278481013
+preinject_v2,SimpleRNN,Deep_Small,3494394662_3edfd4a34c.jpg,a man in a white shirt is running on a water,0.059609942732681,0.24658203125000006
+preinject_v2,SimpleRNN,Deep_Small,3729405438_6e79077ab2.jpg,a man in a white shirt is running on a water,0.06238986072117501,0.30789825970548856
+preinject_v2,SimpleRNN,Deep_Small,2868324804_5cc8030484.jpg,a man is running on a water,0.17567205239427922,0.3727144866385373
+preinject_v2,SimpleRNN,Deep_Small,2448393373_80c011d301.jpg,a man in a white shirt is running on a water,0.04374152137028269,0.21276595744680854
+preinject_v2,SimpleRNN,Deep_Small,3052196390_c59dd24ca8.jpg,a man in a white shirt is running on a water,0.059609942732681,0.48557692307692313
+preinject_v2,SimpleRNN,Deep_Small,2247192427_5e106f24a9.jpg,a man in a white shirt is running on a water,0.04411629359322707,0.3931623931623932
+preinject_v2,SimpleRNN,Deep_Small,2244551043_21b8cca866.jpg,a man in a white shirt is running on a water,0.04411629359322707,0.10869565217391303
+preinject_v2,SimpleRNN,Deep_Small,3014080715_f4f0dbb56e.jpg,a dog is running on a water,0.039281465090051315,0.2142857142857143
+preinject_v2,SimpleRNN,Deep_Small,3244734844_c318c29c23.jpg,a man in a white shirt is running on a water,0.06484115071397648,0.24658203125000006
+preinject_v2,SimpleRNN,Deep_Small,3421928157_69a325366f.jpg,a man in a white shirt is running on a water,0.05147660361947715,0.2100840336134454
+preinject_v2,SimpleRNN,Deep_Small,3572346664_e1e6c77f11.jpg,a man in a white shirt is running on a water,0.04740604259878138,0.19801980198019806
+preinject_v2,SimpleRNN,Deep_Small,3132760860_3e743a935d.jpg,a man in a white shirt is running on a water,0.02434178296655151,0.12605042016806722
+preinject_v2,SimpleRNN,Deep_Small,2148916767_644ea6a7fa.jpg,a dog is running on a water,0.04939382737115371,0.1639344262295082
+preinject_v2,SimpleRNN,Deep_Small,2998024845_1529c11694.jpg,a man in a white shirt is running on a water,0.13193849171325928,0.35830999066293184
+preinject_v2,SimpleRNN,Deep_Small,2613209320_edf6a2b7e9.jpg,a dog is running on a water,0.10445522730720382,0.32538659793814434
+preinject_v2,SimpleRNN,Deep_Small,745966757_6d16dfad8f.jpg,a man in a white shirt is running on a water,0.02950234363196405,0.1785714285714286
+preinject_v2,SimpleRNN,Deep_Small,1998457059_c9ac9a1e1a.jpg,a man in a white shirt is running on a water,0.052463410228614595,0.18564356435643567
+preinject_v2,SimpleRNN,Deep_Small,503090187_8758ab5680.jpg,a man in a white shirt is running on a water,0.05012578715739066,0.21739130434782605
+preinject_v2,SimpleRNN,Deep_Small,3627679667_0e3de9fc90.jpg,a man in a white shirt is running on a water,0.06238986072117501,0.3348214285714286
+preinject_v2,SimpleRNN,Deep_Small,516214924_c2a4364cb3.jpg,a dog is running on a water,0.08307018474412793,0.5174180327868853
+preinject_v2,SimpleRNN,Deep_Small,3119696225_b289efaec8.jpg,a man in a white shirt is running on a water,0.05452469119630864,0.4481927710843373
+preinject_v2,SimpleRNN,Deep_Small,3405113041_4b72c24801.jpg,a dog is running on a water,0.043472087194499145,0.2142857142857143
+preinject_v2,SimpleRNN,Deep_Small,3315033940_e91f87b7f2.jpg,a man is running on a water,0.046713797772820004,0.2272727272727273
+preinject_v2,SimpleRNN,Deep_Small,791338571_7f38510bf7.jpg,a dog is running on a water,0.028319415510892395,0.11278195488721805
+preinject_v2,SimpleRNN,Deep_Small,1332208215_fa824f6659.jpg,a man in a white shirt is running on a water,0.12605968092174913,0.398936170212766
+preinject_v2,SimpleRNN,Deep_Small,3399944164_ec24123945.jpg,a man in a white shirt is running on a water,0.2547696540824902,0.2054794520547945
+preinject_v2,SimpleRNN,Deep_Small,2696394827_7342ced36f.jpg,a dog is running on a water,0.08783602619713961,0.39952531645569617
+preinject_v2,SimpleRNN,Deep_Small,2427558437_3e839056d7.jpg,a dog is running on a water,0.07614310991217832,0.2410901467505241
+preinject_v2,SimpleRNN,Deep_Small,2086678529_b3301c2d71.jpg,a man in a white shirt is running on a water,0.05012578715739066,0.3076923076923077
+preinject_v2,SimpleRNN,Deep_Small,2472574160_8ce233f396.jpg,a man in a white shirt is running on a water,0.2547696540824902,0.35830999066293184
+preinject_v2,SimpleRNN,Deep_Small,413737417_b0a8b445e9.jpg,a man in a white shirt is running on a water,0.04740604259878138,0.2027027027027027
+preinject_v2,SimpleRNN,Deep_Small,3690425778_3b390b3ea5.jpg,a man in a white shirt is running on a water,0.06238986072117501,0.2547945205479452
+preinject_v2,SimpleRNN,Deep_Small,950273886_88c324e663.jpg,a man in a white shirt is running on a water,0.2596535889340338,0.5113636363636364
+preinject_v2,SimpleRNN,Deep_Small,2886411666_72d8b12ce4.jpg,a dog is running on a water,0.5410822690539396,0.5499999999999999
+preinject_v2,SimpleRNN,Deep_Small,909808296_23c427022d.jpg,a dog is running on a water,0.056590385060109244,0.3234782608695652
+preinject_v2,SimpleRNN,Deep_Small,2180356743_b3a3c9a7f6.jpg,a man in a white shirt is running on a water,0.06238986072117501,0.24658203125000006
+preinject_v2,SimpleRNN,Deep_Small,3640109324_3ce89e4d1a.jpg,a man in a white shirt is running on a water,0.026658376817028855,0.16806722689075632
+preinject_v2,SimpleRNN,Deep_Small,481827288_a688be7913.jpg,a dog is running on a water,0.039281465090051315,0.24590163934426232
+preinject_v2,SimpleRNN,Deep_Small,421808539_57abee6d55.jpg,a dog is running on a water,0.06985342056580097,0.1639344262295082
+preinject_v2,SimpleRNN,Deep_Small,3550276904_19de3561c5.jpg,a man in a white shirt is running on a water,0.0381607811464067,0.10273972602739725
+preinject_v2,SimpleRNN,Deep_Small,3686924335_3c51e8834a.jpg,a man is running on a water,0.046713797772820004,0.2142857142857143
+preinject_v2,SimpleRNN,Deep_Small,2843695880_eeea6c67db.jpg,a man in a white shirt is running on a water,0.022416933501922302,0.21276595744680854
+preinject_v2,SimpleRNN,Deep_Small,2594459477_8ca0121a9a.jpg,a man in a white shirt is running on a water,0.04546012039207043,0.2027027027027027
+preinject_v2,SimpleRNN,Deep_Small,3257277774_aba333a94c.jpg,a dog is running on a water,0.06985342056580097,0.1639344262295082
+preinject_v2,SimpleRNN,Deep_Small,3613030730_0b28b079ba.jpg,a man in a white shirt is running on a water,0.026658376817028855,0.15384615384615385
+preinject_v2,SimpleRNN,Deep_Small,3164415865_612f9fd8bc.jpg,a man in a white shirt is running on a water,0.022416933501922302,0.06756756756756757
+preinject_v2,SimpleRNN,Deep_Small,1439282131_3814d6ae04.jpg,a dog is running on a water,0.043472087194499145,0.17045454545454547
+preinject_v2,SimpleRNN,Deep_Small,2046222127_a6f300e202.jpg,a man in a white shirt is running on a water,0.2596535889340338,0.44
+preinject_v2,SimpleRNN,Deep_Small,3271468462_701eb88d3b.jpg,a dog is running on a water,0.0670144447096575,0.29040404040404044
+preinject_v2,SimpleRNN,Deep_Small,2533076864_d799996433.jpg,a man is running on a water,0.043472087194499145,0.14150943396226415
+preinject_v2,SimpleRNN,Deep_Small,3499720588_c32590108e.jpg,a man in a white shirt is running on a water,0.04740604259878138,0.2272727272727273
+preinject_v2,SimpleRNN,Deep_Small,673806038_0a3682a83f.jpg,a man in a white shirt is running on a water,0.05696822651325549,0.27777777777777773
+preinject_v2,SimpleRNN,Deep_Small,571507143_be346225b7.jpg,a man in a white shirt is running on a water,0.05637560315259291,0.38027108433734946
+preinject_v2,SimpleRNN,Deep_Small,2924884899_f512c84332.jpg,a man in a white shirt is running on a water,0.38163309113713373,0.38027108433734946
+preinject_v2,SimpleRNN,Deep_Small,1130401779_8c30182e3e.jpg,a dog is running on a water,0.043472087194499145,0.24590163934426232
+preinject_v2,SimpleRNN,Deep_Small,3431101934_99a6c55914.jpg,a man in a white shirt is running on a water,0.059609942732681,0.16806722689075632
+preinject_v2,SimpleRNN,Deep_Small,226607225_44d696db6b.jpg,a man is running on a water,0.037684991644924185,0.189873417721519
+preinject_v2,SimpleRNN,Deep_Small,3463268965_f22884fc69.jpg,a man in a white shirt is running on a water,0.18360281349467963,0.5067567567567568
+preinject_v2,SimpleRNN,Deep_Small,3437315443_ba2263f92e.jpg,a man in a white shirt is running on a water,0.06484115071397648,0.2869318181818182
+preinject_v2,SimpleRNN,Deep_Small,3589367895_5d3729e3ea.jpg,a man in a white shirt is running on a water,0.05012578715739066,0.14851485148514848
+preinject_v2,SimpleRNN,Deep_Small,2372572028_53b76104a9.jpg,a man in a white shirt is running on a water,0.04179252131328987,0.3112327656123276
+preinject_v2,SimpleRNN,Deep_Small,3030962048_f71948226c.jpg,a man in a white shirt is running on a water,0.026658376817028855,0.16806722689075632
+preinject_v2,SimpleRNN,Deep_Small,3392019836_c7aeebca1c.jpg,a man in a white shirt is running on a water,0.11094660471566163,0.24
+preinject_v2,SimpleRNN,Deep_Small,2289096282_4ef120f189.jpg,a man in a white shirt is running on a water,0.052463410228614595,0.23232323232323232
+preinject_v2,SimpleRNN,Deep_Small,537359971_6e28f5e66e.jpg,a man in a white shirt is running on a water,0.0204689180374571,0.12048192771084339
+preinject_v2,SimpleRNN,Deep_Small,319870744_0e0138d205.jpg,a man in a white shirt is running on a water,0.059609942732681,0.27173913043478265
+preinject_v2,SimpleRNN,Deep_Small,535529555_583d89b7f2.jpg,a dog is running on a water,0.039281465090051315,0.2272727272727273
+preinject_v2,SimpleRNN,Deep_Small,3415809168_af9dabdba5.jpg,a dog is running on a water,0.3419177649965185,0.30000000000000004
+preinject_v2,SimpleRNN,Deep_Small,467858872_f3431df682.jpg,a dog is running on a water,0.014017732413740807,0.08064516129032259
+preinject_v2,SimpleRNN,Deep_Small,1299459550_1fd5594fa2.jpg,a man in a white shirt is running on a water,0.05012578715739066,0.24658203125000006
+preinject_v2,SimpleRNN,Deep_Small,3318995586_c2bc50b92e.jpg,a man in a white shirt is running on a water,0.06484115071397648,0.40760869565217384
+preinject_v2,SimpleRNN,Deep_Small,3079787482_0757e9d167.jpg,a man in a white shirt is running on a water,0.018690183721524995,0.07812500000000001
+preinject_v2,SimpleRNN,Deep_Small,3037558954_20115165e3.jpg,a man in a white shirt is running on a water,0.06484115071397648,0.4634661835748792
+preinject_v2,SimpleRNN,Deep_Small,2176874361_2b4149010b.jpg,a dog is running on a water,0.20556680845025987,0.4206349206349207
+preinject_v2,SimpleRNN,Deep_Small,2328104318_5a43ca170c.jpg,a man in a white shirt is running on a water,0.2647795226140597,0.48557692307692313
+preinject_v2,SimpleRNN,Deep_Small,3203707977_cc9448fecb.jpg,a man in a white shirt is running on a water,0.04328649145305472,0.21739130434782605
+preinject_v2,SimpleRNN,Deep_Small,3694093650_547259731e.jpg,a man in a white shirt is running on a water,0.04328649145305472,0.12605042016806722
+preinject_v2,SimpleRNN,Deep_Small,241046599_28b0ca7b9f.jpg,a dog is running on a water,0.1944130841813964,0.3650793650793651
+preinject_v2,SimpleRNN,Deep_Small,2257294002_0073263c54.jpg,a man in a white shirt is running on a water,0.05442988140675566,0.24
+preinject_v2,SimpleRNN,Deep_Small,210625425_fb1ef5d23b.jpg,a man is running on a water,0.043472087194499145,0.12658227848101264
+preinject_v2,SimpleRNN,Deep_Small,3612249030_e2829ffa31.jpg,a man in a white shirt is running on a water,0.052463410228614595,0.3931623931623932
+preinject_v2,SimpleRNN,Deep_Small,3271084924_4778d556cc.jpg,a dog is running on a water,0.043472087194499145,0.189873417721519
+preinject_v2,SimpleRNN,Deep_Small,1248734482_3038218f3b.jpg,a man in a white shirt is running on a water,0.05637560315259291,0.19531250000000003
+preinject_v2,SimpleRNN,Deep_Small,765929807_de381cc764.jpg,a man in a white shirt is running on a water,0.07175852914772135,0.38027108433734946
+preinject_v2,SimpleRNN,Deep_Small,3559781965_d4ec00e506.jpg,a dog is running on a water,0.1097885917926546,0.4444444444444444
+preinject_v2,SimpleRNN,Deep_Small,2525270674_4ab536e7ec.jpg,a dog is running on a water,0.09878765474230743,0.2222222222222222
+preinject_v2,SimpleRNN,Deep_Small,2335619125_2e2034f2c3.jpg,a dog is running on a water,0.15228621982435664,0.4746835443037974
+preinject_v2,SimpleRNN,Deep_Small,3195188609_01afbe46e6.jpg,a man is running on a water,0.08307018474412793,0.2410901467505241
+preinject_v2,SimpleRNN,Deep_Small,1975531316_8b00eeaaf7.jpg,a dog is running on a water,0.17820132316770917,0.5645569620253165
+preinject_v2,SimpleRNN,Deep_Small,2302747917_aa0300eb68.jpg,a man in a white shirt is running on a water,0.06238986072117501,0.2027027027027027
+preinject_v2,SimpleRNN,Deep_Small,3229282764_a4a515f4e2.jpg,a man in a white shirt is running on a water,0.06238986072117501,0.34534534534534533
+preinject_v2,SimpleRNN,Deep_Small,3565655045_8eb00b7423.jpg,a man in a white shirt is running on a water,0.05637560315259291,0.35830999066293184
+preinject_v2,SimpleRNN,VeryDeep_Small,2736508369_fd9ff0b42f.jpg,a man in a red shirt is running on a grassy area,0.23462350320528,0.47450980392156866
+preinject_v2,SimpleRNN,VeryDeep_Small,1093737381_b313cd49ff.jpg,a man in a red shirt is running on a field,0.052463410228614595,0.21739130434782605
+preinject_v2,SimpleRNN,VeryDeep_Small,3412249548_00820fc4ca.jpg,a man in a red shirt is running on a field,0.05012578715739066,0.19801980198019806
+preinject_v2,SimpleRNN,VeryDeep_Small,3380072636_4cd59385fd.jpg,a man is standing on a street,0.05035983350735684,0.2410901467505241
+preinject_v2,SimpleRNN,VeryDeep_Small,3501083764_cf592292a6.jpg,a man in a red shirt is running on a field,0.2596535889340338,0.223240255962769
+preinject_v2,SimpleRNN,VeryDeep_Small,2911919938_6bb6587a36.jpg,a man in a red shirt is running on a grassy area,0.045293761707938834,0.30303030303030304
+preinject_v2,SimpleRNN,VeryDeep_Small,3621717946_d96f8a6012.jpg,a man is running on a grassy field,0.03303164318013808,0.125
+preinject_v2,SimpleRNN,VeryDeep_Small,3228069008_edb2961fc4.jpg,a dog is running on a grassy field,0.17286039232097053,0.605
+preinject_v2,SimpleRNN,VeryDeep_Small,3494394662_3edfd4a34c.jpg,a man in a red shirt is running on a grassy area,0.05740144288601847,0.2446705426356589
+preinject_v2,SimpleRNN,VeryDeep_Small,3729405438_6e79077ab2.jpg,a man is standing on a street,0.08307018474412793,0.3234880450070324
+preinject_v2,SimpleRNN,VeryDeep_Small,2868324804_5cc8030484.jpg,a man is standing on a street,0.07730551756939454,0.2373417721518987
+preinject_v2,SimpleRNN,VeryDeep_Small,2448393373_80c011d301.jpg,a man in a red shirt is running on a field,0.023501661818361337,0.21276595744680854
+preinject_v2,SimpleRNN,VeryDeep_Small,3052196390_c59dd24ca8.jpg,a man in a red shirt is running on a grassy area,0.0428361950754725,0.2380952380952381
+preinject_v2,SimpleRNN,VeryDeep_Small,2247192427_5e106f24a9.jpg,a man in a red shirt is running on a field of a red ball,0.030934588294313718,0.21739130434782608
+preinject_v2,SimpleRNN,VeryDeep_Small,2244551043_21b8cca866.jpg,a man in a red shirt is standing on a street,0.04740604259878138,0.10869565217391303
+preinject_v2,SimpleRNN,VeryDeep_Small,3014080715_f4f0dbb56e.jpg,a black dog is running on a grassy field,0.028517539529041507,0.20833333333333331
+preinject_v2,SimpleRNN,VeryDeep_Small,3244734844_c318c29c23.jpg,a man is standing on a street,0.08307018474412793,0.4189435336976321
+preinject_v2,SimpleRNN,VeryDeep_Small,3421928157_69a325366f.jpg,a man in a red shirt is running on a grassy area,0.04740604259878138,0.15151515151515152
+preinject_v2,SimpleRNN,VeryDeep_Small,3572346664_e1e6c77f11.jpg,a man in a red shirt is running on a grassy area,0.0428361950754725,0.19607843137254904
+preinject_v2,SimpleRNN,VeryDeep_Small,3132760860_3e743a935d.jpg,a man in a red shirt is running on a grassy area,0.024088562704853513,0.125
+preinject_v2,SimpleRNN,VeryDeep_Small,2148916767_644ea6a7fa.jpg,a dog is running on a grassy field,0.04153509237206396,0.16129032258064518
+preinject_v2,SimpleRNN,VeryDeep_Small,2998024845_1529c11694.jpg,a man in a red shirt is running on a grassy area,0.119219885465362,0.35532407407407407
+preinject_v2,SimpleRNN,VeryDeep_Small,2613209320_edf6a2b7e9.jpg,a dog is running on a grassy field,0.08307018474412793,0.2607709750566893
+preinject_v2,SimpleRNN,VeryDeep_Small,745966757_6d16dfad8f.jpg,a man in a red shirt is running on a field,0.02950234363196405,0.1785714285714286
+preinject_v2,SimpleRNN,VeryDeep_Small,1998457059_c9ac9a1e1a.jpg,a man in a red shirt is running on a grassy area,0.04167227247694064,0.18382352941176472
+preinject_v2,SimpleRNN,VeryDeep_Small,503090187_8758ab5680.jpg,a man in a red shirt is running on a field,0.05012578715739066,0.21739130434782605
+preinject_v2,SimpleRNN,VeryDeep_Small,3627679667_0e3de9fc90.jpg,a man is standing on a field of a white dog,0.05012578715739066,0.1785714285714286
+preinject_v2,SimpleRNN,VeryDeep_Small,516214924_c2a4364cb3.jpg,a dog is running on a grassy area,0.06985342056580097,0.5090725806451614
+preinject_v2,SimpleRNN,VeryDeep_Small,3119696225_b289efaec8.jpg,a man is standing on a field of a red ball,0.05012578715739066,0.24096385542168677
+preinject_v2,SimpleRNN,VeryDeep_Small,3405113041_4b72c24801.jpg,a man is standing on a field of a red ball,0.022416933501922302,0.13513513513513514
+preinject_v2,SimpleRNN,VeryDeep_Small,3315033940_e91f87b7f2.jpg,a man is running on a grassy area,0.03655552228545124,0.16853932584269662
+preinject_v2,SimpleRNN,VeryDeep_Small,791338571_7f38510bf7.jpg,a dog is running on a grassy field,0.12164634345707652,0.33283582089552244
+preinject_v2,SimpleRNN,VeryDeep_Small,1332208215_fa824f6659.jpg,a man in a red shirt is standing on a street,0.12605968092174913,0.398936170212766
+preinject_v2,SimpleRNN,VeryDeep_Small,3399944164_ec24123945.jpg,a man in a red shirt is running on a grassy area,0.2521193618434983,0.20408163265306123
+preinject_v2,SimpleRNN,VeryDeep_Small,2696394827_7342ced36f.jpg,a dog is running on a grassy field,0.06985342056580097,0.3194444444444444
+preinject_v2,SimpleRNN,VeryDeep_Small,2427558437_3e839056d7.jpg,a dog is running on a grassy field,0.06985342056580097,0.2388369678089304
+preinject_v2,SimpleRNN,VeryDeep_Small,2086678529_b3301c2d71.jpg,a man in a red shirt is running on a field,0.05012578715739066,0.3076923076923077
+preinject_v2,SimpleRNN,VeryDeep_Small,2472574160_8ce233f396.jpg,a man in a red shirt is standing on a street,0.2547696540824902,0.35830999066293184
+preinject_v2,SimpleRNN,VeryDeep_Small,413737417_b0a8b445e9.jpg,a man in a red shirt is running on a grassy area,0.045293761707938834,0.26666666666666666
+preinject_v2,SimpleRNN,VeryDeep_Small,3690425778_3b390b3ea5.jpg,a man in a red shirt is running on a grassy area,0.053863663688318665,0.21471088435374147
+preinject_v2,SimpleRNN,VeryDeep_Small,950273886_88c324e663.jpg,a man in a red shirt is running on a field,0.47987820666906633,0.6289424860853432
+preinject_v2,SimpleRNN,VeryDeep_Small,2886411666_72d8b12ce4.jpg,a dog is running on a grassy field,0.5,0.5438202247191011
+preinject_v2,SimpleRNN,VeryDeep_Small,909808296_23c427022d.jpg,a dog is running on a grassy field,0.05895874810265506,0.3206896551724139
+preinject_v2,SimpleRNN,VeryDeep_Small,2180356743_b3a3c9a7f6.jpg,a man in a red shirt is running on a field,0.06238986072117501,0.24658203125000006
+preinject_v2,SimpleRNN,VeryDeep_Small,3640109324_3ce89e4d1a.jpg,a man in a red shirt is standing on a street,0.026658376817028855,0.16806722689075632
+preinject_v2,SimpleRNN,VeryDeep_Small,481827288_a688be7913.jpg,a dog is running on a grassy field,0.02777619034011792,0.16129032258064518
+preinject_v2,SimpleRNN,VeryDeep_Small,421808539_57abee6d55.jpg,a dog is running on a grassy field,0.05873949094699214,0.16129032258064518
+preinject_v2,SimpleRNN,VeryDeep_Small,3550276904_19de3561c5.jpg,a man in a red shirt is running on a field,0.0381607811464067,0.10273972602739725
+preinject_v2,SimpleRNN,VeryDeep_Small,3686924335_3c51e8834a.jpg,a man in a red shirt is running on a grassy area,0.022416933501922302,0.13333333333333333
+preinject_v2,SimpleRNN,VeryDeep_Small,2843695880_eeea6c67db.jpg,a man is running on a grassy field,0.0,0.0
+preinject_v2,SimpleRNN,VeryDeep_Small,2594459477_8ca0121a9a.jpg,a man in a red shirt is running on a grassy field,0.04361566471268858,0.19999999999999998
+preinject_v2,SimpleRNN,VeryDeep_Small,3257277774_aba333a94c.jpg,a dog is running on a grassy field,0.05873949094699214,0.16129032258064518
+preinject_v2,SimpleRNN,VeryDeep_Small,3613030730_0b28b079ba.jpg,a man in a red shirt is running on a field,0.024808415001701823,0.13636363636363635
+preinject_v2,SimpleRNN,VeryDeep_Small,3164415865_612f9fd8bc.jpg,a man in a red shirt is running on a grassy area,0.020255986027125642,0.06666666666666667
+preinject_v2,SimpleRNN,VeryDeep_Small,1439282131_3814d6ae04.jpg,a dog is running on a grassy area,0.02915032279375143,0.16129032258064518
+preinject_v2,SimpleRNN,VeryDeep_Small,2046222127_a6f300e202.jpg,a man is standing on a field of a red ball,0.052463410228614595,0.3126050420168068
+preinject_v2,SimpleRNN,VeryDeep_Small,3271468462_701eb88d3b.jpg,a dog is running on a grassy field,0.06500593260343691,0.28714107365792757
+preinject_v2,SimpleRNN,VeryDeep_Small,2533076864_d799996433.jpg,a man is standing on a street,0.043472087194499145,0.14150943396226415
+preinject_v2,SimpleRNN,VeryDeep_Small,3499720588_c32590108e.jpg,a man in a red shirt is standing on a street,0.05012578715739066,0.2272727272727273
+preinject_v2,SimpleRNN,VeryDeep_Small,673806038_0a3682a83f.jpg,a man in a red shirt is standing on a street,0.04328649145305472,0.17342032967032966
+preinject_v2,SimpleRNN,VeryDeep_Small,571507143_be346225b7.jpg,a man in a red shirt is standing on a street,0.04411629359322707,0.13513513513513514
+preinject_v2,SimpleRNN,VeryDeep_Small,2924884899_f512c84332.jpg,a man in a red shirt is running on a grassy area,0.23462350320528,0.3757440476190476
+preinject_v2,SimpleRNN,VeryDeep_Small,1130401779_8c30182e3e.jpg,a dog is running on a grassy area,0.03303164318013808,0.16129032258064518
+preinject_v2,SimpleRNN,VeryDeep_Small,3431101934_99a6c55914.jpg,a man is standing on a street,0.05411516285864537,0.17391304347826086
+preinject_v2,SimpleRNN,VeryDeep_Small,226607225_44d696db6b.jpg,a dog is running on a grassy area,0.03303164318013808,0.125
+preinject_v2,SimpleRNN,VeryDeep_Small,3463268965_f22884fc69.jpg,a man in a red shirt is running on a grassy area,0.15234944741424689,0.5
+preinject_v2,SimpleRNN,VeryDeep_Small,3437315443_ba2263f92e.jpg,a man in a red shirt is running on a grassy area,0.27091988546756285,0.3262529501596558
+preinject_v2,SimpleRNN,VeryDeep_Small,3589367895_5d3729e3ea.jpg,a man in a red shirt is standing on a street,0.06238986072117501,0.21618150684931506
+preinject_v2,SimpleRNN,VeryDeep_Small,2372572028_53b76104a9.jpg,a man in a red shirt is running on a grassy area,0.05186805880190237,0.3475303164744159
+preinject_v2,SimpleRNN,VeryDeep_Small,3030962048_f71948226c.jpg,a man in a red shirt is standing on a street,0.026658376817028855,0.16806722689075632
+preinject_v2,SimpleRNN,VeryDeep_Small,3392019836_c7aeebca1c.jpg,a man in a red shirt is standing on a street,0.119219885465362,0.275089605734767
+preinject_v2,SimpleRNN,VeryDeep_Small,2289096282_4ef120f189.jpg,a man in a red shirt is running on a grassy area,0.04926862021119254,0.23023023023023023
+preinject_v2,SimpleRNN,VeryDeep_Small,537359971_6e28f5e66e.jpg,a man in a red shirt is running on a field,0.0204689180374571,0.12048192771084339
+preinject_v2,SimpleRNN,VeryDeep_Small,319870744_0e0138d205.jpg,a man in a red shirt is running on a grassy area,0.049556962927909884,0.2688172043010753
+preinject_v2,SimpleRNN,VeryDeep_Small,535529555_583d89b7f2.jpg,a dog is running on a grassy field,0.03303164318013808,0.22471910112359547
+preinject_v2,SimpleRNN,VeryDeep_Small,3415809168_af9dabdba5.jpg,a dog is running on a grassy field,0.35091197742655805,0.29760000000000003
+preinject_v2,SimpleRNN,VeryDeep_Small,467858872_f3431df682.jpg,a dog is running on a grassy field,0.014867523320266895,0.08
+preinject_v2,SimpleRNN,VeryDeep_Small,1299459550_1fd5594fa2.jpg,a man in a red shirt is running on a grassy area,0.0394112020231606,0.2446705426356589
+preinject_v2,SimpleRNN,VeryDeep_Small,3318995586_c2bc50b92e.jpg,a man in a red shirt is standing on a street,0.06704226838163331,0.27777777777777773
+preinject_v2,SimpleRNN,VeryDeep_Small,3079787482_0757e9d167.jpg,a man in a red shirt is running on a grassy area,0.018636406807066564,0.07751937984496124
+preinject_v2,SimpleRNN,VeryDeep_Small,3037558954_20115165e3.jpg,a man is standing on a field of a red ball,0.11731175160264001,0.4043478260869566
+preinject_v2,SimpleRNN,VeryDeep_Small,2176874361_2b4149010b.jpg,a dog is running on a grassy field,0.17286039232097053,0.41471048513302033
+preinject_v2,SimpleRNN,VeryDeep_Small,2328104318_5a43ca170c.jpg,a man in a red shirt is running on a grassy area,0.2620251007173262,0.47821969696969696
+preinject_v2,SimpleRNN,VeryDeep_Small,3203707977_cc9448fecb.jpg,a man in a red shirt is running on a field,0.04328649145305472,0.21739130434782605
+preinject_v2,SimpleRNN,VeryDeep_Small,3694093650_547259731e.jpg,a man in a red shirt is standing on a street,0.04328649145305472,0.145985401459854
+preinject_v2,SimpleRNN,VeryDeep_Small,241046599_28b0ca7b9f.jpg,a dog is running on a grassy field,0.16348126556655487,0.3599374021909233
+preinject_v2,SimpleRNN,VeryDeep_Small,2257294002_0073263c54.jpg,a man in a red shirt is running on a field,0.05442988140675566,0.24
+preinject_v2,SimpleRNN,VeryDeep_Small,210625425_fb1ef5d23b.jpg,a man is standing on a field of a red ball,0.024808415001701823,0.09900990099009903
+preinject_v2,SimpleRNN,VeryDeep_Small,3612249030_e2829ffa31.jpg,a man in a red shirt is running on a grassy area,0.04740604259878138,0.3872053872053872
+preinject_v2,SimpleRNN,VeryDeep_Small,3271084924_4778d556cc.jpg,a dog is running on a grassy field,0.039281465090051315,0.2112676056338028
+preinject_v2,SimpleRNN,VeryDeep_Small,1248734482_3038218f3b.jpg,a man in a red shirt is running on a grassy area,0.04926862021119254,0.19379844961240314
+preinject_v2,SimpleRNN,VeryDeep_Small,765929807_de381cc764.jpg,a man is standing on a field of a red ball,0.06238986072117501,0.24096385542168677
+preinject_v2,SimpleRNN,VeryDeep_Small,3559781965_d4ec00e506.jpg,a dog is running on a grassy field,0.11677348936749309,0.4406130268199233
+preinject_v2,SimpleRNN,VeryDeep_Small,2525270674_4ab536e7ec.jpg,a dog is running on a grassy field,0.05709324736182451,0.22030651340996166
+preinject_v2,SimpleRNN,VeryDeep_Small,2335619125_2e2034f2c3.jpg,a dog is running on a grassy field,0.1477219991186121,0.46875
+preinject_v2,SimpleRNN,VeryDeep_Small,3195188609_01afbe46e6.jpg,a man is standing on a street,0.07730551756939454,0.2410901467505241
+preinject_v2,SimpleRNN,VeryDeep_Small,1975531316_8b00eeaaf7.jpg,a dog is running on a grassy field,0.17286039232097053,0.5575
+preinject_v2,SimpleRNN,VeryDeep_Small,2302747917_aa0300eb68.jpg,a man in a red shirt is standing on a street,0.052463410228614595,0.13513513513513514
+preinject_v2,SimpleRNN,VeryDeep_Small,3229282764_a4a515f4e2.jpg,a man is standing on a street,0.08307018474412793,0.2272727272727273
+preinject_v2,SimpleRNN,VeryDeep_Small,3565655045_8eb00b7423.jpg,a man is standing on a field of a red ball,0.2790159393585827,0.34843750000000007
+preinject_v2,SimpleRNN,Shallow_Mid,2736508369_fd9ff0b42f.jpg,a football player in a red shirt is running in the snow,0.04740604259878138,0.19999999999999998
+preinject_v2,SimpleRNN,Shallow_Mid,1093737381_b313cd49ff.jpg,a young girl in a red shirt is standing on a bench,0.043120716936694795,0.21505376344086022
+preinject_v2,SimpleRNN,Shallow_Mid,3412249548_00820fc4ca.jpg,a man in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.017313061339977776,0.20161290322580647
+preinject_v2,SimpleRNN,Shallow_Mid,3380072636_4cd59385fd.jpg,a football player in a red shirt is running in the snow,0.053863663688318665,0.32763532763532766
+preinject_v2,SimpleRNN,Shallow_Mid,3501083764_cf592292a6.jpg,a group of people are standing on a bench,0.05706135914957148,0.23662551440329216
+preinject_v2,SimpleRNN,Shallow_Mid,2911919938_6bb6587a36.jpg,a boy in a red shirt is standing on a bench,0.06238986072117501,0.26785714285714285
+preinject_v2,SimpleRNN,Shallow_Mid,3621717946_d96f8a6012.jpg,a dog is running through the grass,0.034052233956373766,0.12658227848101264
+preinject_v2,SimpleRNN,Shallow_Mid,3228069008_edb2961fc4.jpg,a dog is running through the grass,0.15228621982435664,0.3234880450070324
+preinject_v2,SimpleRNN,Shallow_Mid,3494394662_3edfd4a34c.jpg,a man in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.020053583653512706,0.24635761589403976
+preinject_v2,SimpleRNN,Shallow_Mid,3729405438_6e79077ab2.jpg,a man is riding a trick on a skateboard,0.09128709291752769,0.35493827160493824
+preinject_v2,SimpleRNN,Shallow_Mid,2868324804_5cc8030484.jpg,a young boy in a red shirt is running in the snow,0.053863663688318665,0.34074074074074073
+preinject_v2,SimpleRNN,Shallow_Mid,2448393373_80c011d301.jpg,a boy in a red shirt is standing on a bench,0.04374152137028269,0.24658203125000006
+preinject_v2,SimpleRNN,Shallow_Mid,3052196390_c59dd24ca8.jpg,a boy in a red shirt is jumping into the air,0.04411629359322707,0.30789825970548856
+preinject_v2,SimpleRNN,Shallow_Mid,2247192427_5e106f24a9.jpg,a basketball player in a red shirt is running in the snow,0.03986357128268015,0.22727272727272727
+preinject_v2,SimpleRNN,Shallow_Mid,2244551043_21b8cca866.jpg,a man in a red shirt is standing on a bench,0.04740604259878138,0.10869565217391303
+preinject_v2,SimpleRNN,Shallow_Mid,3014080715_f4f0dbb56e.jpg,three dogs are playing in the snow,0.09878765474230743,0.2634593356242841
+preinject_v2,SimpleRNN,Shallow_Mid,3244734844_c318c29c23.jpg,a boy is jumping on a skateboard,0.08783602619713961,0.2463576158940397
+preinject_v2,SimpleRNN,Shallow_Mid,3421928157_69a325366f.jpg,a man in a red shirt is jumping over a snowy hill,0.04740604259878138,0.18115942028985507
+preinject_v2,SimpleRNN,Shallow_Mid,3572346664_e1e6c77f11.jpg,a woman in a red shirt is standing on a bench,0.05012578715739066,0.19801980198019806
+preinject_v2,SimpleRNN,Shallow_Mid,3132760860_3e743a935d.jpg,a boy is jumping on a snowy hill,0.07330918073382302,0.2720905172413793
+preinject_v2,SimpleRNN,Shallow_Mid,2148916767_644ea6a7fa.jpg,a dog is running in the snow,0.1944130841813964,0.7934426229508196
+preinject_v2,SimpleRNN,Shallow_Mid,2998024845_1529c11694.jpg,a man is riding a trick on a skateboard,0.08248720006399611,0.3811965811965813
+preinject_v2,SimpleRNN,Shallow_Mid,2613209320_edf6a2b7e9.jpg,a dog is running through the grass,0.10445522730720382,0.3650793650793651
+preinject_v2,SimpleRNN,Shallow_Mid,745966757_6d16dfad8f.jpg,a young girl in a red shirt is standing on a bench,0.10772732737663729,0.5537280701754386
+preinject_v2,SimpleRNN,Shallow_Mid,1998457059_c9ac9a1e1a.jpg,a man in a red shirt is jumping over a snowy hill,0.0221625475730487,0.11627906976744186
+preinject_v2,SimpleRNN,Shallow_Mid,503090187_8758ab5680.jpg,a man in a red shirt is standing on a bench,0.05012578715739066,0.21739130434782605
+preinject_v2,SimpleRNN,Shallow_Mid,3627679667_0e3de9fc90.jpg,a boy is jumping over a snowy hill,0.03655552228545124,0.16853932584269662
+preinject_v2,SimpleRNN,Shallow_Mid,516214924_c2a4364cb3.jpg,a dog is running through the grass,0.07730551756939454,0.24590163934426232
+preinject_v2,SimpleRNN,Shallow_Mid,3119696225_b289efaec8.jpg,a man is jumping on a snowy hill,0.06985342056580097,0.39453125
+preinject_v2,SimpleRNN,Shallow_Mid,3405113041_4b72c24801.jpg,a white dog is running through the snow,0.039281465090051315,0.16853932584269662
+preinject_v2,SimpleRNN,Shallow_Mid,3315033940_e91f87b7f2.jpg,a man is jumping over a snowy hill,0.03655552228545124,0.28714107365792757
+preinject_v2,SimpleRNN,Shallow_Mid,791338571_7f38510bf7.jpg,a dog is running through the grass,0.028319415510892395,0.08426966292134833
+preinject_v2,SimpleRNN,Shallow_Mid,1332208215_fa824f6659.jpg,a man in a red shirt is standing on a bench,0.12605968092174913,0.398936170212766
+preinject_v2,SimpleRNN,Shallow_Mid,3399944164_ec24123945.jpg,a woman in a red shirt is standing on a bench,0.2547696540824902,0.2920471841704718
+preinject_v2,SimpleRNN,Shallow_Mid,2696394827_7342ced36f.jpg,a dog is running through the grass,0.08307018474412793,0.189873417721519
+preinject_v2,SimpleRNN,Shallow_Mid,2427558437_3e839056d7.jpg,a dog is running through the grass,0.037684991644924185,0.14150943396226415
+preinject_v2,SimpleRNN,Shallow_Mid,2086678529_b3301c2d71.jpg,a young girl in a red shirt is standing on a bench,0.14734754237051595,0.46046046046046046
+preinject_v2,SimpleRNN,Shallow_Mid,2472574160_8ce233f396.jpg,a young girl in a red shirt is standing on a bench,0.04926862021119254,0.20833333333333337
+preinject_v2,SimpleRNN,Shallow_Mid,413737417_b0a8b445e9.jpg,a man is riding a trick on a skateboard,0.028240990488565418,0.1388888888888889
+preinject_v2,SimpleRNN,Shallow_Mid,3690425778_3b390b3ea5.jpg,a man is jumping on a skateboard,0.09054992806599667,0.2977594339622642
+preinject_v2,SimpleRNN,Shallow_Mid,950273886_88c324e663.jpg,a man in a red shirt is riding a trick on a skateboard,0.3955332535877179,0.5111151603498542
+preinject_v2,SimpleRNN,Shallow_Mid,2886411666_72d8b12ce4.jpg,a dog is running through the grass,0.34996355115805833,0.8412698412698414
+preinject_v2,SimpleRNN,Shallow_Mid,909808296_23c427022d.jpg,a dog is running through the grass,0.04836067244628849,0.2545362903225807
+preinject_v2,SimpleRNN,Shallow_Mid,2180356743_b3a3c9a7f6.jpg,a man in a red shirt is standing on a bench,0.07175852914772135,0.290625
+preinject_v2,SimpleRNN,Shallow_Mid,3640109324_3ce89e4d1a.jpg,a man in a red shirt is standing on a bench,0.026658376817028855,0.16806722689075632
+preinject_v2,SimpleRNN,Shallow_Mid,481827288_a688be7913.jpg,a dog is running through the grass,0.039281465090051315,0.24590163934426232
+preinject_v2,SimpleRNN,Shallow_Mid,421808539_57abee6d55.jpg,a dog is running through the grass,0.09878765474230743,0.4189435336976321
+preinject_v2,SimpleRNN,Shallow_Mid,3550276904_19de3561c5.jpg,a woman in a red shirt is standing on a bench,0.03994041449448101,0.136986301369863
+preinject_v2,SimpleRNN,Shallow_Mid,3686924335_3c51e8834a.jpg,a man is jumping on a skateboard,0.046713797772820004,0.14285714285714285
+preinject_v2,SimpleRNN,Shallow_Mid,2843695880_eeea6c67db.jpg,a man is jumping on a snowy hill,0.0,0.0
+preinject_v2,SimpleRNN,Shallow_Mid,2594459477_8ca0121a9a.jpg,a boy is jumping into a field,0.043472087194499145,0.14285714285714285
+preinject_v2,SimpleRNN,Shallow_Mid,3257277774_aba333a94c.jpg,a black dog is running through the grass,0.06985342056580097,0.3546348314606741
+preinject_v2,SimpleRNN,Shallow_Mid,3613030730_0b28b079ba.jpg,a boy in a red shirt is jumping into the air,0.05012578715739066,0.19801980198019806
+preinject_v2,SimpleRNN,Shallow_Mid,3164415865_612f9fd8bc.jpg,a group of people are standing on a snowy hill,0.1242188995129533,0.5136986301369862
+preinject_v2,SimpleRNN,Shallow_Mid,1439282131_3814d6ae04.jpg,a dog is running through the grass,0.039281465090051315,0.17045454545454547
+preinject_v2,SimpleRNN,Shallow_Mid,2046222127_a6f300e202.jpg,a little girl in a red shirt is standing on a bench,0.045293761707938834,0.28434684684684686
+preinject_v2,SimpleRNN,Shallow_Mid,3271468462_701eb88d3b.jpg,a dog is running through the grass,0.08563683466425753,0.2222711267605634
+preinject_v2,SimpleRNN,Shallow_Mid,2533076864_d799996433.jpg,a man is jumping on a snowy hill,0.03655552228545124,0.14018691588785046
+preinject_v2,SimpleRNN,Shallow_Mid,3499720588_c32590108e.jpg,a man is standing on a bench,0.062425357566781164,0.27445652173913043
+preinject_v2,SimpleRNN,Shallow_Mid,673806038_0a3682a83f.jpg,a young boy in a red shirt is jumping into the air,0.09578464408619825,0.27479091995221033
+preinject_v2,SimpleRNN,Shallow_Mid,571507143_be346225b7.jpg,a woman in a red shirt is standing on a bench,0.04411629359322707,0.13513513513513514
+preinject_v2,SimpleRNN,Shallow_Mid,2924884899_f512c84332.jpg,a man in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.07205335066302805,0.30000000000000004
+preinject_v2,SimpleRNN,Shallow_Mid,1130401779_8c30182e3e.jpg,a dog is running through the grass,0.09878765474230743,0.5357142857142857
+preinject_v2,SimpleRNN,Shallow_Mid,3431101934_99a6c55914.jpg,a little boy is jumping on a bench,0.07159692505124966,0.2607709750566893
+preinject_v2,SimpleRNN,Shallow_Mid,226607225_44d696db6b.jpg,a man is jumping on a snowy hill,0.06500593260343691,0.3194444444444444
+preinject_v2,SimpleRNN,Shallow_Mid,3463268965_f22884fc69.jpg,a man in a red shirt is jumping on a snowy hill,0.11530568323789493,0.34074074074074073
+preinject_v2,SimpleRNN,Shallow_Mid,3437315443_ba2263f92e.jpg,a young girl in a red shirt is standing on a bench,0.4933885363281902,0.42942176870748294
+preinject_v2,SimpleRNN,Shallow_Mid,3589367895_5d3729e3ea.jpg,a man in a red shirt is standing on a bench,0.06238986072117501,0.21618150684931506
+preinject_v2,SimpleRNN,Shallow_Mid,2372572028_53b76104a9.jpg,a young boy is jumping on a bench,0.039281465090051315,0.16129032258064518
+preinject_v2,SimpleRNN,Shallow_Mid,3030962048_f71948226c.jpg,a man in a red shirt is standing on a bench,0.026658376817028855,0.16806722689075632
+preinject_v2,SimpleRNN,Shallow_Mid,3392019836_c7aeebca1c.jpg,a man in a red shirt is standing on a bench,0.119219885465362,0.275089605734767
+preinject_v2,SimpleRNN,Shallow_Mid,2289096282_4ef120f189.jpg,a man is riding a trick on a skateboard,0.13977121394614234,0.4505050505050505
+preinject_v2,SimpleRNN,Shallow_Mid,537359971_6e28f5e66e.jpg,a woman in a red shirt is standing on a bench,0.022652581507881558,0.12048192771084339
+preinject_v2,SimpleRNN,Shallow_Mid,319870744_0e0138d205.jpg,a man is riding a trick on a skateboard,0.14923729480049117,0.5679012345679012
+preinject_v2,SimpleRNN,Shallow_Mid,535529555_583d89b7f2.jpg,a dog is running through the grass,0.039281465090051315,0.2272727272727273
+preinject_v2,SimpleRNN,Shallow_Mid,3415809168_af9dabdba5.jpg,a dog is running through the grass,0.32668286409255015,0.2545362903225807
+preinject_v2,SimpleRNN,Shallow_Mid,467858872_f3431df682.jpg,a dog is running through the grass,0.01666998712262484,0.11278195488721805
+preinject_v2,SimpleRNN,Shallow_Mid,1299459550_1fd5594fa2.jpg,a boy in a red shirt is jumping on a snowy hill,0.09752759118141047,0.44834307992202727
+preinject_v2,SimpleRNN,Shallow_Mid,3318995586_c2bc50b92e.jpg,a young girl in a red shirt is standing on a bench,0.04686808185675222,0.33938172043010756
+preinject_v2,SimpleRNN,Shallow_Mid,3079787482_0757e9d167.jpg,a little girl in a red shirt is standing on a bench,0.08334454495388126,0.34074074074074073
+preinject_v2,SimpleRNN,Shallow_Mid,3037558954_20115165e3.jpg,a man is jumping on a snowy hill,0.17286039232097053,0.4213483146067415
+preinject_v2,SimpleRNN,Shallow_Mid,2176874361_2b4149010b.jpg,a dog is running through the grass,0.20556680845025987,0.5357142857142857
+preinject_v2,SimpleRNN,Shallow_Mid,2328104318_5a43ca170c.jpg,a man is standing on a bench,0.488923022434901,0.4891304347826087
+preinject_v2,SimpleRNN,Shallow_Mid,3203707977_cc9448fecb.jpg,a man in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.03566087490853475,0.2608695652173913
+preinject_v2,SimpleRNN,Shallow_Mid,3694093650_547259731e.jpg,a group of people are sitting on a bench,0.3549481056010053,0.5208333333333334
+preinject_v2,SimpleRNN,Shallow_Mid,241046599_28b0ca7b9f.jpg,a dog is running through the grass,0.21515344521672802,0.4508928571428571
+preinject_v2,SimpleRNN,Shallow_Mid,2257294002_0073263c54.jpg,a group of people are playing in the snow,0.03391326091030751,0.2222222222222222
+preinject_v2,SimpleRNN,Shallow_Mid,210625425_fb1ef5d23b.jpg,a man is jumping over a snowy hill,0.03303164318013808,0.10204081632653061
+preinject_v2,SimpleRNN,Shallow_Mid,3612249030_e2829ffa31.jpg,a boy in a red shirt is standing on a bench,0.13193849171325928,0.6861538461538462
+preinject_v2,SimpleRNN,Shallow_Mid,3271084924_4778d556cc.jpg,a dog runs through the grass,0.10266900960803409,0.625
+preinject_v2,SimpleRNN,Shallow_Mid,1248734482_3038218f3b.jpg,a little girl in a red shirt is standing on a bench,0.10772732737663729,0.23255813953488372
+preinject_v2,SimpleRNN,Shallow_Mid,765929807_de381cc764.jpg,a man in a red shirt is standing on a bench,0.06238986072117501,0.38027108433734946
+preinject_v2,SimpleRNN,Shallow_Mid,3559781965_d4ec00e506.jpg,a dog is running through the grass,0.06173866219946367,0.3234782608695652
+preinject_v2,SimpleRNN,Shallow_Mid,2525270674_4ab536e7ec.jpg,a dog is running through the grass,0.09878765474230743,0.27445652173913043
+preinject_v2,SimpleRNN,Shallow_Mid,2335619125_2e2034f2c3.jpg,a black dog is running through the grass,0.8408964152537145,0.8737244897959183
+preinject_v2,SimpleRNN,Shallow_Mid,3195188609_01afbe46e6.jpg,a group of people are playing in the snow,0.1561969968460128,0.5506172839506173
+preinject_v2,SimpleRNN,Shallow_Mid,1975531316_8b00eeaaf7.jpg,a dog is running through the grass,0.1417182961428368,0.3234880450070324
+preinject_v2,SimpleRNN,Shallow_Mid,2302747917_aa0300eb68.jpg,a young boy in a red shirt is standing on a bench,0.05859059370151704,0.14767932489451477
+preinject_v2,SimpleRNN,Shallow_Mid,3229282764_a4a515f4e2.jpg,a young boy in a red shirt is running on a grassy field,0.04131551591106297,0.28615384615384615
+preinject_v2,SimpleRNN,Shallow_Mid,3565655045_8eb00b7423.jpg,a man is riding a trick on a skateboard,0.14113991930789777,0.36443494776828117
+preinject_v2,SimpleRNN,Shallow_Large,2736508369_fd9ff0b42f.jpg,a man in a red shirt is running on a field,0.2596535889340338,0.47920792079207924
+preinject_v2,SimpleRNN,Shallow_Large,1093737381_b313cd49ff.jpg,a boy in a blue shirt is standing on a bench,0.1358812851238165,0.21739130434782605
+preinject_v2,SimpleRNN,Shallow_Large,3412249548_00820fc4ca.jpg,a man in a blue shirt and a hat is standing on a bench,0.047275266063115634,0.2403846153846154
+preinject_v2,SimpleRNN,Shallow_Large,3380072636_4cd59385fd.jpg,a soccer player in a red uniform is running in the air,0.05637560315259291,0.32763532763532766
+preinject_v2,SimpleRNN,Shallow_Large,3501083764_cf592292a6.jpg,a group of people are walking on a beach,0.03034691922392704,0.10101010101010102
+preinject_v2,SimpleRNN,Shallow_Large,2911919938_6bb6587a36.jpg,a young boy in a blue shirt is jumping on a trampoline,0.02547055398169822,0.2631578947368421
+preinject_v2,SimpleRNN,Shallow_Large,3621717946_d96f8a6012.jpg,two dogs play in the water,0.06104735835807843,0.25641025641025644
+preinject_v2,SimpleRNN,Shallow_Large,3228069008_edb2961fc4.jpg,a brown dog is running through a grassy field,0.08392229812593101,0.3896604938271605
+preinject_v2,SimpleRNN,Shallow_Large,3494394662_3edfd4a34c.jpg,a man in a blue shirt and a brown and white dog,0.049556962927909884,0.20833333333333334
+preinject_v2,SimpleRNN,Shallow_Large,3729405438_6e79077ab2.jpg,a skateboarder on a skateboard on a skateboard,0.06985342056580097,0.3194444444444444
+preinject_v2,SimpleRNN,Shallow_Large,2868324804_5cc8030484.jpg,a young boy in a red shirt is running on a field,0.2521193618434983,0.44642857142857145
+preinject_v2,SimpleRNN,Shallow_Large,2448393373_80c011d301.jpg,a boy in a blue shirt is jumping on a swing,0.05406149861913046,0.3112327656123276
+preinject_v2,SimpleRNN,Shallow_Large,3052196390_c59dd24ca8.jpg,a boy in a swimsuit is jumping into the air,0.04939382737115371,0.3116531165311653
+preinject_v2,SimpleRNN,Shallow_Large,2247192427_5e106f24a9.jpg,a basketball player in a red shirt and white shirt is playing,0.0428361950754725,0.22727272727272727
+preinject_v2,SimpleRNN,Shallow_Large,2244551043_21b8cca866.jpg,a man in a red shirt and a woman in a red shirt and a black and white dog,0.028339296176052856,0.11627906976744184
+preinject_v2,SimpleRNN,Shallow_Large,3014080715_f4f0dbb56e.jpg,a group of dogs are running on a grassy hill,0.345720784641941,0.484
+preinject_v2,SimpleRNN,Shallow_Large,3244734844_c318c29c23.jpg,a boy in a blue shirt is jumping on a skateboard,0.13193849171325928,0.453125
+preinject_v2,SimpleRNN,Shallow_Large,3421928157_69a325366f.jpg,a man in a red shirt is surfing on a beach,0.04790437745835816,0.15384615384615385
+preinject_v2,SimpleRNN,Shallow_Large,3572346664_e1e6c77f11.jpg,a woman in a blue shirt and a brown and white dog,0.0428361950754725,0.14705882352941177
+preinject_v2,SimpleRNN,Shallow_Large,3132760860_3e743a935d.jpg,a boy in a blue shirt is jumping on a ramp,0.04576989215762564,0.24658203125000006
+preinject_v2,SimpleRNN,Shallow_Large,2148916767_644ea6a7fa.jpg,a dog is running through the snow,0.45499414040480374,0.5669642857142857
+preinject_v2,SimpleRNN,Shallow_Large,2998024845_1529c11694.jpg,a man in a red shirt and a helmet is riding a bike,0.14004147069285727,0.4730983302411874
+preinject_v2,SimpleRNN,Shallow_Large,2613209320_edf6a2b7e9.jpg,a brown dog is running through the grass,0.38260294162784475,0.45510204081632655
+preinject_v2,SimpleRNN,Shallow_Large,745966757_6d16dfad8f.jpg,a girl in a blue shirt and a blue shirt is playing with a red ball,0.04505546423412899,0.28301886792452824
+preinject_v2,SimpleRNN,Shallow_Large,1998457059_c9ac9a1e1a.jpg,a man in a blue shirt is surfing in the water,0.11530568323789493,0.34534534534534533
+preinject_v2,SimpleRNN,Shallow_Large,503090187_8758ab5680.jpg,a man in a blue shirt is standing on a grassy path,0.045293761707938834,0.21505376344086022
+preinject_v2,SimpleRNN,Shallow_Large,3627679667_0e3de9fc90.jpg,a man in a blue shirt is jumping over a wave,0.06238986072117501,0.3348214285714286
+preinject_v2,SimpleRNN,Shallow_Large,516214924_c2a4364cb3.jpg,a brown dog is running through the grass,0.1477219991186121,0.3680555555555556
+preinject_v2,SimpleRNN,Shallow_Large,3119696225_b289efaec8.jpg,a man and a black dog are playing in the water,0.06238986072117501,0.2652310924369748
+preinject_v2,SimpleRNN,Shallow_Large,3405113041_4b72c24801.jpg,a bird is jumping over a wave,0.08307018474412793,0.4508928571428571
+preinject_v2,SimpleRNN,Shallow_Large,3315033940_e91f87b7f2.jpg,a man is jumping over a wave,0.043472087194499145,0.35866477272727276
+preinject_v2,SimpleRNN,Shallow_Large,791338571_7f38510bf7.jpg,a black and white dog is running through a field,0.06674094719041482,0.2735294117647059
+preinject_v2,SimpleRNN,Shallow_Large,1332208215_fa824f6659.jpg,a man in a black shirt and a woman in a red shirt and a woman in a red shirt,0.06518963777667167,0.2652310924369748
+preinject_v2,SimpleRNN,Shallow_Large,3399944164_ec24123945.jpg,a young girl in a blue shirt is holding a baby,0.06121634328045705,0.2715328467153285
+preinject_v2,SimpleRNN,Shallow_Large,2696394827_7342ced36f.jpg,a dog runs through the water,0.12209471671615688,0.40464743589743596
+preinject_v2,SimpleRNN,Shallow_Large,2427558437_3e839056d7.jpg,a brown dog is running through the grass,0.06985342056580097,0.2949766355140187
+preinject_v2,SimpleRNN,Shallow_Large,2086678529_b3301c2d71.jpg,a girl in a blue shirt and a woman in a blue shirt,0.2044800736021839,0.47108208955223874
+preinject_v2,SimpleRNN,Shallow_Large,2472574160_8ce233f396.jpg,a girl in a blue shirt is holding a small brown and white dog,0.05080057943038196,0.30491803278688523
+preinject_v2,SimpleRNN,Shallow_Large,413737417_b0a8b445e9.jpg,a group of people are walking on a snowy hill,0.42728700639623407,0.5625
+preinject_v2,SimpleRNN,Shallow_Large,3690425778_3b390b3ea5.jpg,a man in a blue shirt is climbing a rock,0.06674094719041482,0.21767241379310345
+preinject_v2,SimpleRNN,Shallow_Large,950273886_88c324e663.jpg,a man in a blue shirt is standing on a rock,0.28997844147152074,0.611317254174397
+preinject_v2,SimpleRNN,Shallow_Large,2886411666_72d8b12ce4.jpg,a dog runs through the grass,0.5985529678206387,0.7014492753623188
+preinject_v2,SimpleRNN,Shallow_Large,909808296_23c427022d.jpg,two dogs are playing with a brown dog,0.05327524291588724,0.18566176470588236
+preinject_v2,SimpleRNN,Shallow_Large,2180356743_b3a3c9a7f6.jpg,a man in a red shirt and a hat is standing on a bench,0.05622008276590379,0.3254877014418999
+preinject_v2,SimpleRNN,Shallow_Large,3640109324_3ce89e4d1a.jpg,a man in a red shirt and a woman in a red shirt and a black and white shirt,0.014400124446705301,0.10989010989010989
+preinject_v2,SimpleRNN,Shallow_Large,481827288_a688be7913.jpg,a brown dog is running through the water,0.08307018474412793,0.5575
+preinject_v2,SimpleRNN,Shallow_Large,421808539_57abee6d55.jpg,a dog is running through the snow,0.20556680845025987,0.6147540983606558
+preinject_v2,SimpleRNN,Shallow_Large,3550276904_19de3561c5.jpg,a man in a black shirt and a woman in a red shirt and a brown and white dog,0.0325961294993638,0.17624521072796936
+preinject_v2,SimpleRNN,Shallow_Large,3686924335_3c51e8834a.jpg,a person is jumping on a trampoline,0.04939382737115371,0.14285714285714285
+preinject_v2,SimpleRNN,Shallow_Large,2843695880_eeea6c67db.jpg,a man is walking on a beach,0.0,0.0
+preinject_v2,SimpleRNN,Shallow_Large,2594459477_8ca0121a9a.jpg,a man in a blue shirt is walking on a beach,0.05406149861913046,0.2599932249322493
+preinject_v2,SimpleRNN,Shallow_Large,3257277774_aba333a94c.jpg,a black and white dog is running through the grass,0.4111336169005197,0.647130647130647
+preinject_v2,SimpleRNN,Shallow_Large,3613030730_0b28b079ba.jpg,a baby in a blue shirt is jumping over a slide,0.05012578715739066,0.15384615384615385
+preinject_v2,SimpleRNN,Shallow_Large,3164415865_612f9fd8bc.jpg,a man in a red shirt and a white hat and a white dog,0.01428363257865929,0.06493506493506494
+preinject_v2,SimpleRNN,Shallow_Large,1439282131_3814d6ae04.jpg,a dog is running through the water,0.07730551756939454,0.35866477272727276
+preinject_v2,SimpleRNN,Shallow_Large,2046222127_a6f300e202.jpg,a little boy is jumping on a trampoline,0.03655552228545124,0.1530612244897959
+preinject_v2,SimpleRNN,Shallow_Large,3271468462_701eb88d3b.jpg,a brown dog is running through a field,0.1477219991186121,0.46875
+preinject_v2,SimpleRNN,Shallow_Large,2533076864_d799996433.jpg,a man is jumping over a hurdle,0.043472087194499145,0.14150943396226415
+preinject_v2,SimpleRNN,Shallow_Large,3499720588_c32590108e.jpg,a man in a red shirt and a hat is standing on a bench,0.03798229226827674,0.17699115044247787
+preinject_v2,SimpleRNN,Shallow_Large,673806038_0a3682a83f.jpg,a group of children are playing soccer,0.40495158902656925,0.5068181818181817
+preinject_v2,SimpleRNN,Shallow_Large,571507143_be346225b7.jpg,a group of children are playing in a park,0.5969491792019646,0.6722222222222223
+preinject_v2,SimpleRNN,Shallow_Large,2924884899_f512c84332.jpg,a man in a blue shirt and a black shirt and a white shirt,0.2014054003993307,0.5504317111459968
+preinject_v2,SimpleRNN,Shallow_Large,1130401779_8c30182e3e.jpg,a brown dog is running through the grass,0.08783602619713961,0.6816901408450705
+preinject_v2,SimpleRNN,Shallow_Large,3431101934_99a6c55914.jpg,a girl in a blue shirt is jumping on a swing,0.07175852914772135,0.36831683168316837
+preinject_v2,SimpleRNN,Shallow_Large,226607225_44d696db6b.jpg,a man is jumping over a hurdle,0.0670144447096575,0.3234880450070324
+preinject_v2,SimpleRNN,Shallow_Large,3463268965_f22884fc69.jpg,a man in a red shirt and a white shirt is jumping,0.1281101041965245,0.30423280423280424
+preinject_v2,SimpleRNN,Shallow_Large,3437315443_ba2263f92e.jpg,a young boy in a blue shirt is holding a baby,0.06704226838163331,0.24096385542168677
+preinject_v2,SimpleRNN,Shallow_Large,3589367895_5d3729e3ea.jpg,a man in a red shirt and a woman in a red shirt and a white hat,0.028927969316143217,0.14018691588785046
+preinject_v2,SimpleRNN,Shallow_Large,2372572028_53b76104a9.jpg,a boy in a blue shirt is climbing a rock,0.3549481056010053,0.551470588235294
+preinject_v2,SimpleRNN,Shallow_Large,3030962048_f71948226c.jpg,a man in a black shirt and a woman in a red shirt and a black shirt,0.036374995670960676,0.2525
+preinject_v2,SimpleRNN,Shallow_Large,3392019836_c7aeebca1c.jpg,a man in a red shirt is standing on a bench,0.119219885465362,0.275089605734767
+preinject_v2,SimpleRNN,Shallow_Large,2289096282_4ef120f189.jpg,a child in a blue shirt is climbing a rock,0.03155984539112946,0.25
+preinject_v2,SimpleRNN,Shallow_Large,537359971_6e28f5e66e.jpg,a woman in a white shirt and a woman in a red shirt and a white shirt and a black and white dog,0.011712916466550741,0.10526315789473684
+preinject_v2,SimpleRNN,Shallow_Large,319870744_0e0138d205.jpg,a man in a red jacket and a black dog with a red ball,0.03342866121562732,0.15789473684210528
+preinject_v2,SimpleRNN,Shallow_Large,535529555_583d89b7f2.jpg,a brown dog is running through a field,0.03303164318013808,0.16853932584269662
+preinject_v2,SimpleRNN,Shallow_Large,3415809168_af9dabdba5.jpg,two dogs are running through the grass,0.32668286409255015,0.3639097744360902
+preinject_v2,SimpleRNN,Shallow_Large,467858872_f3431df682.jpg,a small dog is running through the water,0.01768056451493027,0.11194029850746268
+preinject_v2,SimpleRNN,Shallow_Large,1299459550_1fd5594fa2.jpg,a girl in a blue shirt is jumping into a pool,0.026658376817028855,0.18072289156626503
+preinject_v2,SimpleRNN,Shallow_Large,3318995586_c2bc50b92e.jpg,a young boy in a blue shirt is holding a red shirt,0.04532931884180109,0.19379844961240314
+preinject_v2,SimpleRNN,Shallow_Large,3079787482_0757e9d167.jpg,a baby in a blue shirt is holding a baby,0.02777619034011792,0.07874015748031496
+preinject_v2,SimpleRNN,Shallow_Large,3037558954_20115165e3.jpg,a man in a blue shirt is jumping over a slide,0.05012578715739066,0.24096385542168677
+preinject_v2,SimpleRNN,Shallow_Large,2176874361_2b4149010b.jpg,a black and white dog is running through a field,0.15873761852172436,0.45074722802506817
+preinject_v2,SimpleRNN,Shallow_Large,2328104318_5a43ca170c.jpg,a man in a blue shirt is standing on a bench,0.312027827223739,0.5333561996227062
+preinject_v2,SimpleRNN,Shallow_Large,3203707977_cc9448fecb.jpg,a man in a black shirt and a woman in a red shirt and a black and white dog,0.06632379583706112,0.3
+preinject_v2,SimpleRNN,Shallow_Large,3694093650_547259731e.jpg,a group of children are playing with a picture,0.13485111859503685,0.35493827160493824
+preinject_v2,SimpleRNN,Shallow_Large,241046599_28b0ca7b9f.jpg,a brown dog is running through the grass,0.42728700639623407,0.47024404167261313
+preinject_v2,SimpleRNN,Shallow_Large,2257294002_0073263c54.jpg,a group of children are playing in a field,0.06376715693797415,0.2222222222222222
+preinject_v2,SimpleRNN,Shallow_Large,210625425_fb1ef5d23b.jpg,a group of people are walking on a beach,0.028517539529041507,0.06944444444444445
+preinject_v2,SimpleRNN,Shallow_Large,3612249030_e2829ffa31.jpg,a boy in a blue shirt is standing on a bench,0.13193849171325928,0.6861538461538462
+preinject_v2,SimpleRNN,Shallow_Large,3271084924_4778d556cc.jpg,a white dog is running through the grass,0.07386099955930606,0.5090725806451614
+preinject_v2,SimpleRNN,Shallow_Large,1248734482_3038218f3b.jpg,a baby in a blue shirt is holding a toy,0.05873949094699214,0.15748031496062992
+preinject_v2,SimpleRNN,Shallow_Large,765929807_de381cc764.jpg,a group of people are walking down a beach,0.34329452398451965,0.625
+preinject_v2,SimpleRNN,Shallow_Large,3559781965_d4ec00e506.jpg,a brown dog is running through the grass,0.1388678643995174,0.4406130268199233
+preinject_v2,SimpleRNN,Shallow_Large,2525270674_4ab536e7ec.jpg,a dog is running through the grass,0.09878765474230743,0.27445652173913043
+preinject_v2,SimpleRNN,Shallow_Large,2335619125_2e2034f2c3.jpg,a black dog is running through the grass,0.8408964152537145,0.8737244897959183
+preinject_v2,SimpleRNN,Shallow_Large,3195188609_01afbe46e6.jpg,a group of people are playing soccer,0.18575057999133598,0.39952531645569617
+preinject_v2,SimpleRNN,Shallow_Large,1975531316_8b00eeaaf7.jpg,a black dog is running through a field,0.07386099955930606,0.39453125
+preinject_v2,SimpleRNN,Shallow_Large,2302747917_aa0300eb68.jpg,a girl in a blue shirt and a white shirt and a white shirt,0.09669265690880861,0.12987012987012989
+preinject_v2,SimpleRNN,Shallow_Large,3229282764_a4a515f4e2.jpg,a young girl in a bathing suit is playing with a soccer ball,0.04131551591106297,0.29850746268656714
+preinject_v2,SimpleRNN,Shallow_Large,3565655045_8eb00b7423.jpg,a man is standing on a rock path,0.37707945965932077,0.40888888888888886
+preinject_v2,SimpleRNN,Deep_Large,2736508369_fd9ff0b42f.jpg,a basketball player in a red uniform is playing basketball,0.06104735835807846,0.2054794520547945
+preinject_v2,SimpleRNN,Deep_Large,1093737381_b313cd49ff.jpg,a little boy in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.11002068284361832,0.28956422018348627
+preinject_v2,SimpleRNN,Deep_Large,3412249548_00820fc4ca.jpg,a man in a red shirt and a red shirt is standing in front of a crowd,0.03807134866446317,0.23364485981308414
+preinject_v2,SimpleRNN,Deep_Large,3380072636_4cd59385fd.jpg,a group of boys are playing soccer in a field,0.20556680845025987,0.48701298701298706
+preinject_v2,SimpleRNN,Deep_Large,3501083764_cf592292a6.jpg,a group of people are standing on a bench,0.05706135914957148,0.23662551440329216
+preinject_v2,SimpleRNN,Deep_Large,2911919938_6bb6587a36.jpg,a little boy in a blue shirt is standing on a bench,0.04740604259878138,0.2631578947368421
+preinject_v2,SimpleRNN,Deep_Large,3621717946_d96f8a6012.jpg,a dog is running in the water,0.04049515890265692,0.2531645569620253
+preinject_v2,SimpleRNN,Deep_Large,3228069008_edb2961fc4.jpg,a dog is running through the grass,0.15228621982435664,0.3234880450070324
+preinject_v2,SimpleRNN,Deep_Large,3494394662_3edfd4a34c.jpg,a man in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.020053583653512706,0.24635761589403976
+preinject_v2,SimpleRNN,Deep_Large,3729405438_6e79077ab2.jpg,a skateboarder does a trick on a skateboard,0.08783602619713961,0.3599374021909233
+preinject_v2,SimpleRNN,Deep_Large,2868324804_5cc8030484.jpg,a boy in a red uniform is running in a field of a game,0.09303723531853667,0.4189435336976321
+preinject_v2,SimpleRNN,Deep_Large,2448393373_80c011d301.jpg,a young boy in a red shirt is playing a guitar,0.09939992739933436,0.3191489361702128
+preinject_v2,SimpleRNN,Deep_Large,3052196390_c59dd24ca8.jpg,a young boy in a blue bathing suit is jumping into the water,0.039073802494525016,0.38142620232172475
+preinject_v2,SimpleRNN,Deep_Large,2247192427_5e106f24a9.jpg,a basketball player in a red uniform is playing basketball,0.06038970633304927,0.3993055555555556
+preinject_v2,SimpleRNN,Deep_Large,2244551043_21b8cca866.jpg,a group of people are standing in front of a building,0.06238986072117501,0.19965277777777776
+preinject_v2,SimpleRNN,Deep_Large,3014080715_f4f0dbb56e.jpg,a group of dogs are racing on a dirt track,0.345720784641941,0.484
+preinject_v2,SimpleRNN,Deep_Large,3244734844_c318c29c23.jpg,a boy is jumping over a hurdle,0.08783602619713961,0.2463576158940397
+preinject_v2,SimpleRNN,Deep_Large,3421928157_69a325366f.jpg,a man in a red kayak is surfing in the water,0.04790437745835816,0.16806722689075632
+preinject_v2,SimpleRNN,Deep_Large,3572346664_e1e6c77f11.jpg,a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.013768570909032773,0.2060931899641577
+preinject_v2,SimpleRNN,Deep_Large,3132760860_3e743a935d.jpg,a man in a red shirt is riding a trick on a dirt ramp,0.03798229226827674,0.12295081967213116
+preinject_v2,SimpleRNN,Deep_Large,2148916767_644ea6a7fa.jpg,a dog is running in the snow,0.1944130841813964,0.7934426229508196
+preinject_v2,SimpleRNN,Deep_Large,2998024845_1529c11694.jpg,a man in a red shirt is riding a trick on a dirt road,0.11064054220098625,0.3494990892531876
+preinject_v2,SimpleRNN,Deep_Large,2613209320_edf6a2b7e9.jpg,a dog is running through the water,0.12098967350244397,0.5357142857142857
+preinject_v2,SimpleRNN,Deep_Large,745966757_6d16dfad8f.jpg,a girl in a red shirt and a woman in a blue shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.01883240896070105,0.20161290322580647
+preinject_v2,SimpleRNN,Deep_Large,1998457059_c9ac9a1e1a.jpg,a man in a blue kayak is surfing in the water,0.11530568323789493,0.34534534534534533
+preinject_v2,SimpleRNN,Deep_Large,503090187_8758ab5680.jpg,a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.009186672262412125,0.13888888888888892
+preinject_v2,SimpleRNN,Deep_Large,3627679667_0e3de9fc90.jpg,a boy in a blue shirt is jumping into the water,0.05012578715739066,0.18072289156626503
+preinject_v2,SimpleRNN,Deep_Large,516214924_c2a4364cb3.jpg,a dog is running through the grass,0.07730551756939454,0.24590163934426232
+preinject_v2,SimpleRNN,Deep_Large,3119696225_b289efaec8.jpg,a man and a woman in a red shirt is standing on a rock covered,0.038233014078303,0.4275862068965517
+preinject_v2,SimpleRNN,Deep_Large,3405113041_4b72c24801.jpg,a white crane is running through the water,0.07386099955930606,0.3546348314606741
+preinject_v2,SimpleRNN,Deep_Large,3315033940_e91f87b7f2.jpg,a man is riding a wave on a beach,0.03155984539112946,0.16666666666666666
+preinject_v2,SimpleRNN,Deep_Large,791338571_7f38510bf7.jpg,a black and white dog is running through the grass,0.05307712171072445,0.11049723756906076
+preinject_v2,SimpleRNN,Deep_Large,1332208215_fa824f6659.jpg,two men are sitting on a bench,0.12098967350244397,0.4826958105646631
+preinject_v2,SimpleRNN,Deep_Large,3399944164_ec24123945.jpg,a woman in a red shirt is playing with a basketball,0.2737678098181288,0.2920471841704718
+preinject_v2,SimpleRNN,Deep_Large,2696394827_7342ced36f.jpg,a dog is running through the water,0.10445522730720382,0.39952531645569617
+preinject_v2,SimpleRNN,Deep_Large,2427558437_3e839056d7.jpg,two dogs are playing in the snow,0.15228621982435664,0.3537735849056604
+preinject_v2,SimpleRNN,Deep_Large,2086678529_b3301c2d71.jpg,a little boy in a blue shirt is playing with a baby in a red shirt,0.04071220775553065,0.4508928571428572
+preinject_v2,SimpleRNN,Deep_Large,2472574160_8ce233f396.jpg,a woman in a blue shirt is standing in a park,0.05920650116149805,0.4295051353874883
+preinject_v2,SimpleRNN,Deep_Large,413737417_b0a8b445e9.jpg,a man is standing on a rock covered hill,0.028240990488565418,0.15151515151515152
+preinject_v2,SimpleRNN,Deep_Large,3690425778_3b390b3ea5.jpg,a man is standing on a rock covered,0.06985342056580097,0.2388369678089304
+preinject_v2,SimpleRNN,Deep_Large,950273886_88c324e663.jpg,a man is climbing a rock wall,0.10445522730720382,0.5645569620253165
+preinject_v2,SimpleRNN,Deep_Large,2886411666_72d8b12ce4.jpg,a dog is running through the grass,0.34996355115805833,0.8412698412698414
+preinject_v2,SimpleRNN,Deep_Large,909808296_23c427022d.jpg,two dogs are running through the grass,0.021281397709599685,0.20609318996415774
+preinject_v2,SimpleRNN,Deep_Large,2180356743_b3a3c9a7f6.jpg,a man in a red shirt and a black hat is standing in front of a crowd,0.0466276890237623,0.26483781918564525
+preinject_v2,SimpleRNN,Deep_Large,3640109324_3ce89e4d1a.jpg,a man in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.009871721786705418,0.10101010101010101
+preinject_v2,SimpleRNN,Deep_Large,481827288_a688be7913.jpg,a dog is running through the water,0.07730551756939454,0.5174180327868853
+preinject_v2,SimpleRNN,Deep_Large,421808539_57abee6d55.jpg,a dog is running through the snow,0.20556680845025987,0.6147540983606558
+preinject_v2,SimpleRNN,Deep_Large,3550276904_19de3561c5.jpg,a woman and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.022208525930834045,0.19469812278031454
+preinject_v2,SimpleRNN,Deep_Large,3686924335_3c51e8834a.jpg,a man is jumping over a hurdle,0.046713797772820004,0.14285714285714285
+preinject_v2,SimpleRNN,Deep_Large,2843695880_eeea6c67db.jpg,a man in a blue shirt is standing on a rock,0.018850319022747353,0.10638297872340427
+preinject_v2,SimpleRNN,Deep_Large,2594459477_8ca0121a9a.jpg,a woman in a red shirt is standing on a rock wall,0.04361566471268858,0.2380952380952381
+preinject_v2,SimpleRNN,Deep_Large,3257277774_aba333a94c.jpg,a dog is running in the snow,0.20556680845025987,0.7934426229508196
+preinject_v2,SimpleRNN,Deep_Large,3613030730_0b28b079ba.jpg,a little boy is playing in a pool,0.039281465090051315,0.2388369678089304
+preinject_v2,SimpleRNN,Deep_Large,3164415865_612f9fd8bc.jpg,a group of people are riding a jump on a dirt hill,0.02547055398169822,0.19999999999999998
+preinject_v2,SimpleRNN,Deep_Large,1439282131_3814d6ae04.jpg,a dog is running through the water,0.07730551756939454,0.35866477272727276
+preinject_v2,SimpleRNN,Deep_Large,2046222127_a6f300e202.jpg,a little boy is jumping on a trampoline,0.03655552228545124,0.1530612244897959
+preinject_v2,SimpleRNN,Deep_Large,3271468462_701eb88d3b.jpg,a dog is running through the grass,0.08563683466425753,0.2222711267605634
+preinject_v2,SimpleRNN,Deep_Large,2533076864_d799996433.jpg,a man is sitting on a bench in front of a crowd of people,0.021359012567909896,0.17699115044247787
+preinject_v2,SimpleRNN,Deep_Large,3499720588_c32590108e.jpg,a man in a red shirt and a woman in a red shirt and a woman in a red shirt,0.024218026052883736,0.12605042016806722
+preinject_v2,SimpleRNN,Deep_Large,673806038_0a3682a83f.jpg,a group of children are playing in a pool,0.39005788655345264,0.7687074829931974
+preinject_v2,SimpleRNN,Deep_Large,571507143_be346225b7.jpg,a woman and a woman in a red shirt and a woman in a blue shirt and a woman in a red shirt and a woman in a red shirt and a woman in,0.012813098990837714,0.10309278350515465
+preinject_v2,SimpleRNN,Deep_Large,2924884899_f512c84332.jpg,a man in a red shirt and a woman in a red shirt and a woman in a red shirt is holding a baseball,0.11328360454400997,0.2631578947368421
+preinject_v2,SimpleRNN,Deep_Large,1130401779_8c30182e3e.jpg,a dog is running through the water,0.20556680845025987,0.6914285714285714
+preinject_v2,SimpleRNN,Deep_Large,3431101934_99a6c55914.jpg,a little boy is playing in a pool,0.05752300429522425,0.19132653061224492
+preinject_v2,SimpleRNN,Deep_Large,226607225_44d696db6b.jpg,a man in a red shirt is standing on a rock covered,0.020255986027125642,0.11904761904761905
+preinject_v2,SimpleRNN,Deep_Large,3463268965_f22884fc69.jpg,a man in a red shirt is jumping over a red and white dog,0.09997501561329078,0.2971576227390181
+preinject_v2,SimpleRNN,Deep_Large,3437315443_ba2263f92e.jpg,a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.07837655860096929,0.3024193548387097
+preinject_v2,SimpleRNN,Deep_Large,3589367895_5d3729e3ea.jpg,a group of people are standing in a crowd of people in front of a crowd,0.08012120435729668,0.24834437086092717
+preinject_v2,SimpleRNN,Deep_Large,2372572028_53b76104a9.jpg,a little boy in a red shirt is jumping over a yellow slide,0.3438931217657843,0.539568345323741
+preinject_v2,SimpleRNN,Deep_Large,3030962048_f71948226c.jpg,a man in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt is holding a baseball,0.019965747160974663,0.2676258992805755
+preinject_v2,SimpleRNN,Deep_Large,3392019836_c7aeebca1c.jpg,a man is sitting on a bench in front of a crowd of people,0.03581550766007748,0.189873417721519
+preinject_v2,SimpleRNN,Deep_Large,2289096282_4ef120f189.jpg,a man is sitting on a rock bench,0.05440189863686198,0.35046728971962615
+preinject_v2,SimpleRNN,Deep_Large,537359971_6e28f5e66e.jpg,a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.009871721786705418,0.10101010101010101
+preinject_v2,SimpleRNN,Deep_Large,319870744_0e0138d205.jpg,a man is standing on a snowy hill,0.1596628935269467,0.5011235955056179
+preinject_v2,SimpleRNN,Deep_Large,535529555_583d89b7f2.jpg,a dog is running through the grass,0.039281465090051315,0.2272727272727273
+preinject_v2,SimpleRNN,Deep_Large,3415809168_af9dabdba5.jpg,a dog is running through the grass,0.32668286409255015,0.2545362903225807
+preinject_v2,SimpleRNN,Deep_Large,467858872_f3431df682.jpg,a dog is running through the grass,0.01666998712262484,0.11278195488721805
+preinject_v2,SimpleRNN,Deep_Large,1299459550_1fd5594fa2.jpg,a young girl in a blue shirt and a blue shirt is standing on a rock slide,0.03807134866446317,0.2776119402985075
+preinject_v2,SimpleRNN,Deep_Large,3318995586_c2bc50b92e.jpg,a young boy is playing in a park,0.06518210333288976,0.2525
+preinject_v2,SimpleRNN,Deep_Large,3079787482_0757e9d167.jpg,a little boy is playing with a ball,0.06500593260343691,0.14084507042253522
+preinject_v2,SimpleRNN,Deep_Large,3037558954_20115165e3.jpg,a man in a red shirt is jumping off a rock,0.05012578715739066,0.24096385542168677
+preinject_v2,SimpleRNN,Deep_Large,2176874361_2b4149010b.jpg,a dog is running through the grass,0.20556680845025987,0.5357142857142857
+preinject_v2,SimpleRNN,Deep_Large,2328104318_5a43ca170c.jpg,a man in a red shirt and a white shirt is standing on a bench,0.23505204106959587,0.4654056744649079
+preinject_v2,SimpleRNN,Deep_Large,3203707977_cc9448fecb.jpg,a man in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt is holding a baseball,0.039292384191895235,0.26785714285714285
+preinject_v2,SimpleRNN,Deep_Large,3694093650_547259731e.jpg,a group of people are standing in front of a crowd,0.659858515800358,0.6533297287555195
+preinject_v2,SimpleRNN,Deep_Large,241046599_28b0ca7b9f.jpg,a dog runs through the grass,0.09189343000084486,0.26382978723404255
+preinject_v2,SimpleRNN,Deep_Large,2257294002_0073263c54.jpg,a group of boys are playing in a field,0.06030725360407769,0.16666666666666666
+preinject_v2,SimpleRNN,Deep_Large,210625425_fb1ef5d23b.jpg,a man in a red shirt is standing in front of a large crowd,0.020200106912694155,0.13274336283185842
+preinject_v2,SimpleRNN,Deep_Large,3612249030_e2829ffa31.jpg,a young boy in a red shirt and a blue shirt is standing on a bench,0.11330849383575524,0.6371428571428572
+preinject_v2,SimpleRNN,Deep_Large,3271084924_4778d556cc.jpg,three dogs are playing in a field,0.10932651139290935,0.6914285714285714
+preinject_v2,SimpleRNN,Deep_Large,1248734482_3038218f3b.jpg,a little girl in a red shirt and a baby in a blue shirt is holding a baby in a red shirt,0.056586356745712406,0.2158273381294964
+preinject_v2,SimpleRNN,Deep_Large,765929807_de381cc764.jpg,a group of people sit on a rock,0.5,0.66167290886392
+preinject_v2,SimpleRNN,Deep_Large,3559781965_d4ec00e506.jpg,a brown dog is running through the grass,0.1388678643995174,0.4406130268199233
+preinject_v2,SimpleRNN,Deep_Large,2525270674_4ab536e7ec.jpg,a dog is running through the grass,0.09878765474230743,0.27445652173913043
+preinject_v2,SimpleRNN,Deep_Large,2335619125_2e2034f2c3.jpg,a black dog is running through the snow,1.0,0.9990234375
+preinject_v2,SimpleRNN,Deep_Large,3195188609_01afbe46e6.jpg,a group of people are playing in a field,0.20744432576282615,0.854119425547997
+preinject_v2,SimpleRNN,Deep_Large,1975531316_8b00eeaaf7.jpg,a dog is running through the snow,0.1417182961428368,0.3234880450070324
+preinject_v2,SimpleRNN,Deep_Large,2302747917_aa0300eb68.jpg,a woman in a blue shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt and a woman in a red shirt,0.01773054311822993,0.19329896907216496
+preinject_v2,SimpleRNN,Deep_Large,3229282764_a4a515f4e2.jpg,a little boy in a blue shirt and a blue shirt is standing in the water,0.04071220775553065,0.21428571428571427
+preinject_v2,SimpleRNN,Deep_Large,3565655045_8eb00b7423.jpg,a man in a blue shirt is climbing a rock wall,0.2998221389342337,0.40301835019722176
+preinject_v2,LSTM,Shallow_Small,2736508369_fd9ff0b42f.jpg,a man is in a man in a man in a man in a man in a dog,0.1487964117124549,0.3444444444444445
+preinject_v2,LSTM,Shallow_Small,1093737381_b313cd49ff.jpg,a man is in a man in a man in a man in a man in a dog,0.03124577801157052,0.15151515151515152
+preinject_v2,LSTM,Shallow_Small,3412249548_00820fc4ca.jpg,a man is in a man in a man in a man in a man in a dog,0.02872495348091206,0.26976495726495725
+preinject_v2,LSTM,Shallow_Small,3380072636_4cd59385fd.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.02297185935845028,0.13513513513513511
+preinject_v2,LSTM,Shallow_Small,3501083764_cf592292a6.jpg,a man is in a man in a man in a man in a man in a dog,0.14869929081646313,0.3205524634096062
+preinject_v2,LSTM,Shallow_Small,2911919938_6bb6587a36.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.051366639095059535,0.42083333333333334
+preinject_v2,LSTM,Shallow_Small,3621717946_d96f8a6012.jpg,a man is in a dog in a water,0.07583235673413397,0.3155006858710563
+preinject_v2,LSTM,Shallow_Small,3228069008_edb2961fc4.jpg,a dog is running,0.3976353643835253,0.3362573099415205
+preinject_v2,LSTM,Shallow_Small,3494394662_3edfd4a34c.jpg,a man is in a man in a man in a man in a man in a dog,0.0341599190576228,0.23379629629629634
+preinject_v2,LSTM,Shallow_Small,3729405438_6e79077ab2.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.024289783953423513,0.26302083333333337
+preinject_v2,LSTM,Shallow_Small,2868324804_5cc8030484.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.021377723941583868,0.22321428571428567
+preinject_v2,LSTM,Shallow_Small,2448393373_80c011d301.jpg,a man is in a man in a man in a man in a man in a dog,0.015280299364530322,0.1388888888888889
+preinject_v2,LSTM,Shallow_Small,3052196390_c59dd24ca8.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.02297185935845028,0.27479091995221033
+preinject_v2,LSTM,Shallow_Small,2247192427_5e106f24a9.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.010862721615727716,0.08333333333333334
+preinject_v2,LSTM,Shallow_Small,2244551043_21b8cca866.jpg,a man is in a man in a man in a man in a man in a dog,0.027166383723579154,0.18939393939393942
+preinject_v2,LSTM,Shallow_Small,3014080715_f4f0dbb56e.jpg,a man in a man in a man in a man in a dog,0.018798317647335087,0.19480519480519481
+preinject_v2,LSTM,Shallow_Small,3244734844_c318c29c23.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.030232667130855925,0.3407407407407408
+preinject_v2,LSTM,Shallow_Small,3421928157_69a325366f.jpg,a man is in a man in a man in a man in a man in a dog,0.03575297164449809,0.29761904761904767
+preinject_v2,LSTM,Shallow_Small,3572346664_e1e6c77f11.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.02297185935845028,0.28434684684684686
+preinject_v2,LSTM,Shallow_Small,3132760860_3e743a935d.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.01291802583371725,0.11627906976744187
+preinject_v2,LSTM,Shallow_Small,2148916767_644ea6a7fa.jpg,a dog is running,0.0641328089975786,0.17241379310344826
+preinject_v2,LSTM,Shallow_Small,2998024845_1529c11694.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.05949757664833034,0.28837209302325584
+preinject_v2,LSTM,Shallow_Small,2613209320_edf6a2b7e9.jpg,a dog is running,0.10562437222261485,0.2798507462686567
+preinject_v2,LSTM,Shallow_Small,745966757_6d16dfad8f.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.01291802583371725,0.0900900900900901
+preinject_v2,LSTM,Shallow_Small,1998457059_c9ac9a1e1a.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.01291802583371725,0.10869565217391305
+preinject_v2,LSTM,Shallow_Small,503090187_8758ab5680.jpg,a man is in a man in a man in a man in a dog,0.07432998184513635,0.32877604166666663
+preinject_v2,LSTM,Shallow_Small,3627679667_0e3de9fc90.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.02542254141389555,0.19230769230769232
+preinject_v2,LSTM,Shallow_Small,516214924_c2a4364cb3.jpg,a dog is running,0.10305224267080783,0.2586206896551724
+preinject_v2,LSTM,Shallow_Small,3119696225_b289efaec8.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.013659149296955463,0.21505376344086022
+preinject_v2,LSTM,Shallow_Small,3405113041_4b72c24801.jpg,a dog is running,0.045131921809482646,0.14925373134328357
+preinject_v2,LSTM,Shallow_Small,3315033940_e91f87b7f2.jpg,a man is in a man in a man in a man in a dog,0.06541868941754436,0.2662037037037037
+preinject_v2,LSTM,Shallow_Small,791338571_7f38510bf7.jpg,a dog is running,0.021318810323722334,0.07692307692307691
+preinject_v2,LSTM,Shallow_Small,1332208215_fa824f6659.jpg,a man is in a man in a man in a man in a man in a dog,0.06722636787666482,0.2477777777777778
+preinject_v2,LSTM,Shallow_Small,3399944164_ec24123945.jpg,a man is in a man in a man in a man in a man in a dog,0.18710158230410626,0.41258169934640526
+preinject_v2,LSTM,Shallow_Small,2696394827_7342ced36f.jpg,a dog is running,0.11404605374835301,0.13157894736842105
+preinject_v2,LSTM,Shallow_Small,2427558437_3e839056d7.jpg,a dog is running,0.0351487760467425,0.13157894736842105
+preinject_v2,LSTM,Shallow_Small,2086678529_b3301c2d71.jpg,a man is in a man in a man in a man in a man in a dog,0.060745880708766846,0.43836805555555564
+preinject_v2,LSTM,Shallow_Small,2472574160_8ce233f396.jpg,a man is in a man in a man in a man in a man in a dog,0.2749977595322415,0.40564373897707234
+preinject_v2,LSTM,Shallow_Small,413737417_b0a8b445e9.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.021377723941583868,0.30423280423280424
+preinject_v2,LSTM,Shallow_Small,3690425778_3b390b3ea5.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.02297185935845028,0.21296296296296297
+preinject_v2,LSTM,Shallow_Small,950273886_88c324e663.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.12021577610863723,0.31
+preinject_v2,LSTM,Shallow_Small,2886411666_72d8b12ce4.jpg,a dog is running,0.26563123324397914,0.4411764705882353
+preinject_v2,LSTM,Shallow_Small,909808296_23c427022d.jpg,a dog is running,0.030261889307125377,0.21120293847566574
+preinject_v2,LSTM,Shallow_Small,2180356743_b3a3c9a7f6.jpg,a man is in a man in a man in a man in a man in a dog,0.030064545690526145,0.2191840277777778
+preinject_v2,LSTM,Shallow_Small,3640109324_3ce89e4d1a.jpg,a man is in a man in a man in a man in a man in a dog,0.014216645907653848,0.11904761904761905
+preinject_v2,LSTM,Shallow_Small,481827288_a688be7913.jpg,a dog is running,0.04873039689743777,0.17241379310344826
+preinject_v2,LSTM,Shallow_Small,421808539_57abee6d55.jpg,a dog is running,0.10305224267080783,0.32327586206896547
+preinject_v2,LSTM,Shallow_Small,3550276904_19de3561c5.jpg,a man is in a man in a man in a man in a man in a dog,0.030064545690526145,0.17971014492753623
+preinject_v2,LSTM,Shallow_Small,3686924335_3c51e8834a.jpg,a man is in a man in a man in a man in a man in a dog,0.027166383723579154,0.3155006858710563
+preinject_v2,LSTM,Shallow_Small,2843695880_eeea6c67db.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.009134423666564471,0.08771929824561403
+preinject_v2,LSTM,Shallow_Small,2594459477_8ca0121a9a.jpg,a man is in a man in a man in a man in a man in a dog,0.03715770152515524,0.3155006858710563
+preinject_v2,LSTM,Shallow_Small,3257277774_aba333a94c.jpg,a dog is running,0.10305224267080783,0.32327586206896547
+preinject_v2,LSTM,Shallow_Small,3613030730_0b28b079ba.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.01291802583371725,0.13513513513513511
+preinject_v2,LSTM,Shallow_Small,3164415865_612f9fd8bc.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.009134423666564471,0.059523809523809514
+preinject_v2,LSTM,Shallow_Small,1439282131_3814d6ae04.jpg,a dog is running,0.04873039689743777,0.17241379310344826
+preinject_v2,LSTM,Shallow_Small,2046222127_a6f300e202.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.1258220555845937,0.31
+preinject_v2,LSTM,Shallow_Small,3271468462_701eb88d3b.jpg,a dog is running,0.06250434473199146,0.13157894736842105
+preinject_v2,LSTM,Shallow_Small,2533076864_d799996433.jpg,a man is in a man in a dog in a dog,0.026658376817028866,0.18018018018018017
+preinject_v2,LSTM,Shallow_Small,3499720588_c32590108e.jpg,a man is in a man in a man in a man in a man in a dog,0.025281168697394947,0.20282186948853617
+preinject_v2,LSTM,Shallow_Small,673806038_0a3682a83f.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.030232667130855925,0.2505446623093682
+preinject_v2,LSTM,Shallow_Small,571507143_be346225b7.jpg,a man is in a man in a man in a man in a man in a dog,0.025281168697394947,0.23148148148148148
+preinject_v2,LSTM,Shallow_Small,2924884899_f512c84332.jpg,a man is in a man in a man in a man in a man in a dog,0.1527678022374703,0.44097222222222227
+preinject_v2,LSTM,Shallow_Small,1130401779_8c30182e3e.jpg,a dog is running,0.05795053470733952,0.17241379310344826
+preinject_v2,LSTM,Shallow_Small,3431101934_99a6c55914.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.02297185935845028,0.16891891891891894
+preinject_v2,LSTM,Shallow_Small,226607225_44d696db6b.jpg,a man in a dog in a dog,0.02777619034011792,0.0625
+preinject_v2,LSTM,Shallow_Small,3463268965_f22884fc69.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.044437918072453814,0.33938172043010756
+preinject_v2,LSTM,Shallow_Small,3437315443_ba2263f92e.jpg,a man is in a man in a man in a man in a man in a dog,0.030064545690526145,0.2366255144032922
+preinject_v2,LSTM,Shallow_Small,3589367895_5d3729e3ea.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.024289783953423513,0.2302302302302302
+preinject_v2,LSTM,Shallow_Small,2372572028_53b76104a9.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.024289783953423513,0.17006802721088438
+preinject_v2,LSTM,Shallow_Small,3030962048_f71948226c.jpg,a man is in a man in a man in a man in a man in a dog,0.015276780223747026,0.15873015873015875
+preinject_v2,LSTM,Shallow_Small,3392019836_c7aeebca1c.jpg,a man is in a man in a man in a man in a man in a dog,0.06357877332311639,0.27530864197530863
+preinject_v2,LSTM,Shallow_Small,2289096282_4ef120f189.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.013659149296955463,0.1801801801801802
+preinject_v2,LSTM,Shallow_Small,537359971_6e28f5e66e.jpg,a man is in a man in a man in a man in a man in a dog,0.01284618972676772,0.11111111111111112
+preinject_v2,LSTM,Shallow_Small,319870744_0e0138d205.jpg,a man is in a man in a man in a man in a man in a dog,0.05744990696182412,0.3188131313131313
+preinject_v2,LSTM,Shallow_Small,535529555_583d89b7f2.jpg,a dog is running,0.04873039689743777,0.1764705882352941
+preinject_v2,LSTM,Shallow_Small,3415809168_af9dabdba5.jpg,a dog is running,0.2865047968601901,0.26084710743801653
+preinject_v2,LSTM,Shallow_Small,467858872_f3431df682.jpg,a dog is running,0.008468073234773096,0.08264462809917356
+preinject_v2,LSTM,Shallow_Small,1299459550_1fd5594fa2.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.01291802583371725,0.15151515151515152
+preinject_v2,LSTM,Shallow_Small,3318995586_c2bc50b92e.jpg,a man is in a man in a man in a man in a man in a dog,0.03124577801157052,0.2922453703703704
+preinject_v2,LSTM,Shallow_Small,3079787482_0757e9d167.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.010862721615727716,0.07246376811594203
+preinject_v2,LSTM,Shallow_Small,3037558954_20115165e3.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.051366639095059535,0.30943627450980393
+preinject_v2,LSTM,Shallow_Small,2176874361_2b4149010b.jpg,a dog is running,0.22336835181428538,0.439469320066335
+preinject_v2,LSTM,Shallow_Small,2328104318_5a43ca170c.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.15550736854031616,0.3262529501596557
+preinject_v2,LSTM,Shallow_Small,3203707977_cc9448fecb.jpg,a man is in a man in a man in a man in a man in a dog,0.027166383723579154,0.3188131313131313
+preinject_v2,LSTM,Shallow_Small,3694093650_547259731e.jpg,a man is in a man in a man in a man in a man in a dog,0.027166383723579154,0.20282186948853617
+preinject_v2,LSTM,Shallow_Small,241046599_28b0ca7b9f.jpg,a dog is running,0.201836090242417,0.3814262023217247
+preinject_v2,LSTM,Shallow_Small,2257294002_0073263c54.jpg,a man is in a man in a man in a man in a man in a dog,0.03230645681297444,0.1234567901234568
+preinject_v2,LSTM,Shallow_Small,210625425_fb1ef5d23b.jpg,a man in a man in a man in a man in a man in a man in a man in a dog,0.009849349468888718,0.11627906976744184
+preinject_v2,LSTM,Shallow_Small,3612249030_e2829ffa31.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.01291802583371725,0.17857142857142858
+preinject_v2,LSTM,Shallow_Small,3271084924_4778d556cc.jpg,a dog is running,0.0641328089975786,0.19736842105263158
+preinject_v2,LSTM,Shallow_Small,1248734482_3038218f3b.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.02542254141389555,0.14492753623188406
+preinject_v2,LSTM,Shallow_Small,765929807_de381cc764.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.0231130673207432,0.27479091995221033
+preinject_v2,LSTM,Shallow_Small,3559781965_d4ec00e506.jpg,a dog is running,0.03511129470504232,0.2818080357142857
+preinject_v2,LSTM,Shallow_Small,2525270674_4ab536e7ec.jpg,a dog is running,0.223606797749979,0.22817460317460317
+preinject_v2,LSTM,Shallow_Small,2335619125_2e2034f2c3.jpg,a dog is running,0.3327714551776235,0.4934210526315789
+preinject_v2,LSTM,Shallow_Small,3195188609_01afbe46e6.jpg,a man is in a man in a man in a man in a man in a dog,0.025281168697394947,0.2839506172839506
+preinject_v2,LSTM,Shallow_Small,1975531316_8b00eeaaf7.jpg,a man is in a man in a man in a dog,0.04361566471268858,0.2380952380952381
+preinject_v2,LSTM,Shallow_Small,2302747917_aa0300eb68.jpg,a man is in a man in a man in a man in a man in a dog,0.02315392032114765,0.23148148148148148
+preinject_v2,LSTM,Shallow_Small,3229282764_a4a515f4e2.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.027318298593910915,0.14705882352941177
+preinject_v2,LSTM,Shallow_Small,3565655045_8eb00b7423.jpg,a man is in a man in a man in a man in a man in a man in a dog,0.05587443695709437,0.23255813953488375
+preinject_v2,LSTM,Deep_Small,2736508369_fd9ff0b42f.jpg,a a a a a a a a a a a a a a a a a a a a a,0.012021577610863726,0.13513513513513511
+preinject_v2,LSTM,Deep_Small,1093737381_b313cd49ff.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.011833064662823948,0.11261261261261263
+preinject_v2,LSTM,Deep_Small,3412249548_00820fc4ca.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.13157894736842105
+preinject_v2,LSTM,Deep_Small,3380072636_4cd59385fd.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.0900900900900901
+preinject_v2,LSTM,Deep_Small,3501083764_cf592292a6.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.011191021613657745,0.09803921568627452
+preinject_v2,LSTM,Deep_Small,2911919938_6bb6587a36.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.14492753623188406
+preinject_v2,LSTM,Deep_Small,3621717946_d96f8a6012.jpg,a a a a a a a a a a a a a a a a a a a a a,0.012021577610863726,0.10204081632653061
+preinject_v2,LSTM,Deep_Small,3228069008_edb2961fc4.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.10416666666666667
+preinject_v2,LSTM,Deep_Small,3494394662_3edfd4a34c.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.08333333333333334
+preinject_v2,LSTM,Deep_Small,3729405438_6e79077ab2.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.12195121951219512
+preinject_v2,LSTM,Deep_Small,2868324804_5cc8030484.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.07751937984496124
+preinject_v2,LSTM,Deep_Small,2448393373_80c011d301.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.10638297872340427
+preinject_v2,LSTM,Deep_Small,3052196390_c59dd24ca8.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.10752688172043011
+preinject_v2,LSTM,Deep_Small,2247192427_5e106f24a9.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.08333333333333334
+preinject_v2,LSTM,Deep_Small,2244551043_21b8cca866.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.007913247271422612,0.04761904761904762
+preinject_v2,LSTM,Deep_Small,3014080715_f4f0dbb56e.jpg,a a a a a a a a a a a a a a a a a a a a,0.012673718536830811,0.12048192771084336
+preinject_v2,LSTM,Deep_Small,3244734844_c318c29c23.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.12820512820512822
+preinject_v2,LSTM,Deep_Small,3421928157_69a325366f.jpg,a a a a a a a a a a a a a a a a a a a a a,0.012021577610863726,0.10204081632653061
+preinject_v2,LSTM,Deep_Small,3572346664_e1e6c77f11.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.08771929824561403
+preinject_v2,LSTM,Deep_Small,3132760860_3e743a935d.jpg,a a a a a a a a a a a a a a a a a a a a a a a,0.010900096978029118,0.07731958762886597
+preinject_v2,LSTM,Deep_Small,2148916767_644ea6a7fa.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.08333333333333334
+preinject_v2,LSTM,Deep_Small,2998024845_1529c11694.jpg,a a a a a a a a a a a a a a a a a a a a a,0.012021577610863726,0.11627906976744187
+preinject_v2,LSTM,Deep_Small,2613209320_edf6a2b7e9.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.09803921568627451
+preinject_v2,LSTM,Deep_Small,745966757_6d16dfad8f.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.07575757575757576
+preinject_v2,LSTM,Deep_Small,1998457059_c9ac9a1e1a.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.07246376811594203
+preinject_v2,LSTM,Deep_Small,503090187_8758ab5680.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.12820512820512822
+preinject_v2,LSTM,Deep_Small,3627679667_0e3de9fc90.jpg,a a a a a a a a a a a a a a a a a a a a a,0.01291802583371725,0.1282051282051282
+preinject_v2,LSTM,Deep_Small,516214924_c2a4364cb3.jpg,a a a a a a a a a a a a a a a a a a a a a a,0.010331208012220438,0.13157894736842107
+preinject_v2,LSTM,Deep_Small,3119696225_b289efaec8.jpg,a a a a a a a a a a a a a a a a a a a a a a a,0.010900096978029118,0.13274336283185842
+preinject_v2,LSTM,Deep_Small,3405113041_4b72c24801.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.059523809523809514
+preinject_v2,LSTM,Deep_Small,3315033940_e91f87b7f2.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.06666666666666667
+preinject_v2,LSTM,Deep_Small,791338571_7f38510bf7.jpg,a a a a a a a a a a a a a a a a a a a a a,0.012021577610863726,0.125
+preinject_v2,LSTM,Deep_Small,1332208215_fa824f6659.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.08333333333333334
+preinject_v2,LSTM,Deep_Small,3399944164_ec24123945.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.011191021613657745,0.12578616352201255
+preinject_v2,LSTM,Deep_Small,2696394827_7342ced36f.jpg,a a a a a a a a a a a a a a a a a a a a,0.012673718536830811,0.10869565217391304
+preinject_v2,LSTM,Deep_Small,2427558437_3e839056d7.jpg,a a a a a a a a a a a a a a a a a a a a a,0.012021577610863726,0.078125
+preinject_v2,LSTM,Deep_Small,2086678529_b3301c2d71.jpg,a a a a a a a a a a a a a a a a a a a a a a,0.011433361115787456,0.13157894736842107
+preinject_v2,LSTM,Deep_Small,2472574160_8ce233f396.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.11363636363636363
+preinject_v2,LSTM,Deep_Small,413737417_b0a8b445e9.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.11904761904761903
+preinject_v2,LSTM,Deep_Small,3690425778_3b390b3ea5.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.10416666666666667
+preinject_v2,LSTM,Deep_Small,950273886_88c324e663.jpg,a a a a a a a a a a a a a a a a a a a a,0.012673718536830811,0.12605042016806722
+preinject_v2,LSTM,Deep_Small,2886411666_72d8b12ce4.jpg,a a a a a a a a a a a a a a a a a a a a a,0.012021577610863726,0.10752688172043011
+preinject_v2,LSTM,Deep_Small,909808296_23c427022d.jpg,a a a a a a a a a a a a a a a a a a a a a a a,0.010900096978029118,0.08982035928143711
+preinject_v2,LSTM,Deep_Small,2180356743_b3a3c9a7f6.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.10638297872340427
+preinject_v2,LSTM,Deep_Small,3640109324_3ce89e4d1a.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.10416666666666667
+preinject_v2,LSTM,Deep_Small,481827288_a688be7913.jpg,a a a a a a a a a a a a a a a a a a a a a,0.0,0.0
+preinject_v2,LSTM,Deep_Small,421808539_57abee6d55.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.06666666666666667
+preinject_v2,LSTM,Deep_Small,3550276904_19de3561c5.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.07042253521126761
+preinject_v2,LSTM,Deep_Small,3686924335_3c51e8834a.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.11494252873563218
+preinject_v2,LSTM,Deep_Small,2843695880_eeea6c67db.jpg,a a a a a a a a a a a a a a a a a a a a a,0.0,0.0
+preinject_v2,LSTM,Deep_Small,2594459477_8ca0121a9a.jpg,a a a a a a a a a a a a a a a a a a a a,0.012673718536830811,0.12048192771084336
+preinject_v2,LSTM,Deep_Small,3257277774_aba333a94c.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.06666666666666667
+preinject_v2,LSTM,Deep_Small,3613030730_0b28b079ba.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.007913247271422612,0.06410256410256411
+preinject_v2,LSTM,Deep_Small,3164415865_612f9fd8bc.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.059523809523809514
+preinject_v2,LSTM,Deep_Small,1439282131_3814d6ae04.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.06666666666666667
+preinject_v2,LSTM,Deep_Small,2046222127_a6f300e202.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.12195121951219512
+preinject_v2,LSTM,Deep_Small,3271468462_701eb88d3b.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.10752688172043011
+preinject_v2,LSTM,Deep_Small,2533076864_d799996433.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.12195121951219512
+preinject_v2,LSTM,Deep_Small,3499720588_c32590108e.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.0813008130081301
+preinject_v2,LSTM,Deep_Small,673806038_0a3682a83f.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.011191021613657745,0.10256410256410257
+preinject_v2,LSTM,Deep_Small,571507143_be346225b7.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.07092198581560284
+preinject_v2,LSTM,Deep_Small,2924884899_f512c84332.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.10416666666666667
+preinject_v2,LSTM,Deep_Small,1130401779_8c30182e3e.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.036231884057971016
+preinject_v2,LSTM,Deep_Small,3431101934_99a6c55914.jpg,a a a a a a a a a a a a a a a a a a a a a a,0.010331208012220438,0.07692307692307693
+preinject_v2,LSTM,Deep_Small,226607225_44d696db6b.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.053763440860215055
+preinject_v2,LSTM,Deep_Small,3463268965_f22884fc69.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009989400994949594,0.060240963855421686
+preinject_v2,LSTM,Deep_Small,3437315443_ba2263f92e.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.011191021613657745,0.12578616352201255
+preinject_v2,LSTM,Deep_Small,3589367895_5d3729e3ea.jpg,a a a a a a a a a a a a a a a a a a a a a a a a a,0.009009113474307318,0.08695652173913043
+preinject_v2,LSTM,Deep_Small,2372572028_53b76104a9.jpg,a a a a a a a a a a a a a a a a a a a a a,0.012021577610863726,0.13333333333333333
+preinject_v2,LSTM,Deep_Small,3030962048_f71948226c.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.07575757575757576
+preinject_v2,LSTM,Deep_Small,3392019836_c7aeebca1c.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.12195121951219512
+preinject_v2,LSTM,Deep_Small,2289096282_4ef120f189.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.13157894736842105
+preinject_v2,LSTM,Deep_Small,537359971_6e28f5e66e.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.007913247271422612,0.052083333333333336
+preinject_v2,LSTM,Deep_Small,319870744_0e0138d205.jpg,a a a a a a a a a a a a a a a a a a a a a a a,0.009849349468888718,0.12987012987012986
+preinject_v2,LSTM,Deep_Small,535529555_583d89b7f2.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.06666666666666667
+preinject_v2,LSTM,Deep_Small,3415809168_af9dabdba5.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.07246376811594203
+preinject_v2,LSTM,Deep_Small,467858872_f3431df682.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.036231884057971016
+preinject_v2,LSTM,Deep_Small,1299459550_1fd5594fa2.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.07575757575757576
+preinject_v2,LSTM,Deep_Small,3318995586_c2bc50b92e.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.10638297872340427
+preinject_v2,LSTM,Deep_Small,3079787482_0757e9d167.jpg,a a a a a a a a a a a a a a a a a a a a a a,0.008687475782716616,0.058823529411764705
+preinject_v2,LSTM,Deep_Small,3037558954_20115165e3.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.09803921568627451
+preinject_v2,LSTM,Deep_Small,2176874361_2b4149010b.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.08771929824561403
+preinject_v2,LSTM,Deep_Small,2328104318_5a43ca170c.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.011191021613657745,0.13333333333333333
+preinject_v2,LSTM,Deep_Small,3203707977_cc9448fecb.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.14285714285714288
+preinject_v2,LSTM,Deep_Small,3694093650_547259731e.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.06666666666666667
+preinject_v2,LSTM,Deep_Small,241046599_28b0ca7b9f.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.09803921568627451
+preinject_v2,LSTM,Deep_Small,2257294002_0073263c54.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.0606060606060606
+preinject_v2,LSTM,Deep_Small,210625425_fb1ef5d23b.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.059523809523809514
+preinject_v2,LSTM,Deep_Small,3612249030_e2829ffa31.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.009410489957951634,0.12820512820512822
+preinject_v2,LSTM,Deep_Small,3271084924_4778d556cc.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.053763440860215055
+preinject_v2,LSTM,Deep_Small,1248734482_3038218f3b.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.10638297872340427
+preinject_v2,LSTM,Deep_Small,765929807_de381cc764.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.011191021613657745,0.10416666666666667
+preinject_v2,LSTM,Deep_Small,3559781965_d4ec00e506.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.08333333333333334
+preinject_v2,LSTM,Deep_Small,2525270674_4ab536e7ec.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.08333333333333334
+preinject_v2,LSTM,Deep_Small,2335619125_2e2034f2c3.jpg,a a a a a a a a a a a a a a a a a a a a a,0.009134423666564471,0.053763440860215055
+preinject_v2,LSTM,Deep_Small,3195188609_01afbe46e6.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.10752688172043011
+preinject_v2,LSTM,Deep_Small,1975531316_8b00eeaaf7.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.01041441909198652,0.10638297872340427
+preinject_v2,LSTM,Deep_Small,2302747917_aa0300eb68.jpg,a a a a a a a a a a a a a a a a a a a a a a a a,0.010734309946101004,0.08032128514056225
+preinject_v2,LSTM,Deep_Small,3229282764_a4a515f4e2.jpg,a a a a a a a a a a a a a a a a a a a a a,0.010862721615727716,0.13333333333333333
+preinject_v2,LSTM,Deep_Small,3565655045_8eb00b7423.jpg,a a a a a a a a a a a a a a a a a a a a a,0.01291802583371725,0.15503875968992248
+preinject_v2,LSTM,VeryDeep_Small,2736508369_fd9ff0b42f.jpg,a a a a a a a,0.043472087194499145,0.15463917525773196
+preinject_v2,LSTM,VeryDeep_Small,1093737381_b313cd49ff.jpg,a a a a a a a a,0.0366545903669115,0.12135922330097086
+preinject_v2,LSTM,VeryDeep_Small,3412249548_00820fc4ca.jpg,a a a a a a a a,0.03655552228545124,0.1530612244897959
+preinject_v2,LSTM,VeryDeep_Small,3380072636_4cd59385fd.jpg,a a a a a a a,0.02558948059670209,0.10309278350515463
+preinject_v2,LSTM,VeryDeep_Small,3501083764_cf592292a6.jpg,a a a a a a a,0.046713797772820004,0.10695187165775401
+preinject_v2,LSTM,VeryDeep_Small,2911919938_6bb6587a36.jpg,a a a a a a a a,0.03303164318013808,0.18867924528301888
+preinject_v2,LSTM,VeryDeep_Small,3621717946_d96f8a6012.jpg,a a a a a a a,0.037684991644924185,0.11278195488721805
+preinject_v2,LSTM,VeryDeep_Small,3228069008_edb2961fc4.jpg,a a a a a a a,0.034052233956373766,0.12658227848101264
+preinject_v2,LSTM,VeryDeep_Small,3494394662_3edfd4a34c.jpg,a a a a a a a,0.039281465090051315,0.11627906976744187
+preinject_v2,LSTM,VeryDeep_Small,3729405438_6e79077ab2.jpg,a a a a a a a,0.043472087194499145,0.14285714285714285
+preinject_v2,LSTM,VeryDeep_Small,2868324804_5cc8030484.jpg,a a a a a a a,0.039281465090051315,0.08695652173913043
+preinject_v2,LSTM,VeryDeep_Small,2448393373_80c011d301.jpg,a a a a a a a,0.043472087194499145,0.12096774193548389
+preinject_v2,LSTM,VeryDeep_Small,3052196390_c59dd24ca8.jpg,a a a a a a,0.048549177170732344,0.12820512820512822
+preinject_v2,LSTM,VeryDeep_Small,2247192427_5e106f24a9.jpg,a a a a a a a,0.039281465090051315,0.09433962264150944
+preinject_v2,LSTM,VeryDeep_Small,2244551043_21b8cca866.jpg,a a a a a a a,0.024822529802838878,0.05681818181818182
+preinject_v2,LSTM,VeryDeep_Small,3014080715_f4f0dbb56e.jpg,a a a a a a a,0.043472087194499145,0.14285714285714285
+preinject_v2,LSTM,VeryDeep_Small,3244734844_c318c29c23.jpg,a a a a a a a,0.043472087194499145,0.1639344262295082
+preinject_v2,LSTM,VeryDeep_Small,3421928157_69a325366f.jpg,a a a a a a a,0.043472087194499145,0.11278195488721805
+preinject_v2,LSTM,VeryDeep_Small,3572346664_e1e6c77f11.jpg,a a a a a a a,0.039281465090051315,0.10309278350515463
+preinject_v2,LSTM,VeryDeep_Small,3132760860_3e743a935d.jpg,a a a a a a a,0.043472087194499145,0.08695652173913043
+preinject_v2,LSTM,VeryDeep_Small,2148916767_644ea6a7fa.jpg,a a a a a a a,0.039281465090051315,0.09433962264150944
+preinject_v2,LSTM,VeryDeep_Small,2998024845_1529c11694.jpg,a a a a a a a,0.043472087194499145,0.13043478260869565
+preinject_v2,LSTM,VeryDeep_Small,2613209320_edf6a2b7e9.jpg,a a a a a a a,0.039281465090051315,0.11363636363636365
+preinject_v2,LSTM,VeryDeep_Small,745966757_6d16dfad8f.jpg,a a a a a a a,0.039281465090051315,0.09615384615384616
+preinject_v2,LSTM,VeryDeep_Small,1998457059_c9ac9a1e1a.jpg,a a a a a a a,0.039281465090051315,0.08064516129032259
+preinject_v2,LSTM,VeryDeep_Small,503090187_8758ab5680.jpg,a a a a a a a,0.039281465090051315,0.1639344262295082
+preinject_v2,LSTM,VeryDeep_Small,3627679667_0e3de9fc90.jpg,a a a a a a a,0.046713797772820004,0.14084507042253522
+preinject_v2,LSTM,VeryDeep_Small,516214924_c2a4364cb3.jpg,a a a a a a a a,0.03303164318013808,0.16129032258064518
+preinject_v2,LSTM,VeryDeep_Small,3119696225_b289efaec8.jpg,a a a a a a a,0.037684991644924185,0.15463917525773196
+preinject_v2,LSTM,VeryDeep_Small,3405113041_4b72c24801.jpg,a a a a a a a,0.033031643180138064,0.07142857142857142
+preinject_v2,LSTM,VeryDeep_Small,3315033940_e91f87b7f2.jpg,a a a a a a a,0.033031643180138064,0.0819672131147541
+preinject_v2,LSTM,VeryDeep_Small,791338571_7f38510bf7.jpg,a a a a a a a,0.028319415510892395,0.14150943396226415
+preinject_v2,LSTM,VeryDeep_Small,1332208215_fa824f6659.jpg,a a a a a a a a,0.03303164318013808,0.11363636363636363
+preinject_v2,LSTM,VeryDeep_Small,3399944164_ec24123945.jpg,a a a a a a a a,0.023825412935547602,0.13986013986013984
+preinject_v2,LSTM,VeryDeep_Small,2696394827_7342ced36f.jpg,a a a a a a a a,0.03655552228545124,0.125
+preinject_v2,LSTM,VeryDeep_Small,2427558437_3e839056d7.jpg,a a a a a a a,0.037684991644924185,0.08426966292134833
+preinject_v2,LSTM,VeryDeep_Small,2086678529_b3301c2d71.jpg,a a a a a a a a,0.03655552228545124,0.16129032258064518
+preinject_v2,LSTM,VeryDeep_Small,2472574160_8ce233f396.jpg,a a a a a a a,0.037684991644924185,0.13043478260869565
+preinject_v2,LSTM,VeryDeep_Small,413737417_b0a8b445e9.jpg,a a a a a a,0.041095991233501536,0.14492753623188406
+preinject_v2,LSTM,VeryDeep_Small,3690425778_3b390b3ea5.jpg,a a a a a a a,0.034052233956373766,0.12658227848101264
+preinject_v2,LSTM,VeryDeep_Small,950273886_88c324e663.jpg,a a a a a a a,0.043472087194499145,0.14150943396226415
+preinject_v2,LSTM,VeryDeep_Small,2886411666_72d8b12ce4.jpg,a a a a a a a,0.043472087194499145,0.12658227848101264
+preinject_v2,LSTM,VeryDeep_Small,909808296_23c427022d.jpg,a a a a a a a a,0.022172045047934612,0.09868421052631579
+preinject_v2,LSTM,VeryDeep_Small,2180356743_b3a3c9a7f6.jpg,a a a a a a a,0.028319415510892395,0.12096774193548389
+preinject_v2,LSTM,VeryDeep_Small,3640109324_3ce89e4d1a.jpg,a a a a a a a,0.039281465090051315,0.12658227848101264
+preinject_v2,LSTM,VeryDeep_Small,481827288_a688be7913.jpg,a a a a a a a,0.0,0.0
+preinject_v2,LSTM,VeryDeep_Small,421808539_57abee6d55.jpg,a a a a a a a,0.033031643180138064,0.0819672131147541
+preinject_v2,LSTM,VeryDeep_Small,3550276904_19de3561c5.jpg,a a a a a a a,0.01599248714366856,0.07653061224489796
+preinject_v2,LSTM,VeryDeep_Small,3686924335_3c51e8834a.jpg,a a a a a a a,0.039281465090051315,0.14285714285714285
+preinject_v2,LSTM,VeryDeep_Small,2843695880_eeea6c67db.jpg,a a a a a a,0.0,0.0
+preinject_v2,LSTM,VeryDeep_Small,2594459477_8ca0121a9a.jpg,a a a a a a a,0.043472087194499145,0.14285714285714285
+preinject_v2,LSTM,VeryDeep_Small,3257277774_aba333a94c.jpg,a a a a a a a,0.033031643180138064,0.0819672131147541
+preinject_v2,LSTM,VeryDeep_Small,3613030730_0b28b079ba.jpg,a a a a a a a,0.033031643180138064,0.0819672131147541
+preinject_v2,LSTM,VeryDeep_Small,3164415865_612f9fd8bc.jpg,a a a a a a a,0.033031643180138064,0.07142857142857142
+preinject_v2,LSTM,VeryDeep_Small,1439282131_3814d6ae04.jpg,a a a a a a a,0.033031643180138064,0.0819672131147541
+preinject_v2,LSTM,VeryDeep_Small,2046222127_a6f300e202.jpg,a a a a a a a,0.043472087194499145,0.14150943396226415
+preinject_v2,LSTM,VeryDeep_Small,3271468462_701eb88d3b.jpg,a a a a a a a,0.034052233956373766,0.12658227848101264
+preinject_v2,LSTM,VeryDeep_Small,2533076864_d799996433.jpg,a a a a a a a,0.043472087194499145,0.14150943396226415
+preinject_v2,LSTM,VeryDeep_Small,3499720588_c32590108e.jpg,a a a a a a a,0.029519129053903102,0.09433962264150944
+preinject_v2,LSTM,VeryDeep_Small,673806038_0a3682a83f.jpg,a a a a a a a,0.04049515890265692,0.11363636363636365
+preinject_v2,LSTM,VeryDeep_Small,571507143_be346225b7.jpg,a a a a a a a a,0.03303164318013808,0.08
+preinject_v2,LSTM,VeryDeep_Small,2924884899_f512c84332.jpg,a a a a a a a,0.039281465090051315,0.12658227848101264
+preinject_v2,LSTM,VeryDeep_Small,1130401779_8c30182e3e.jpg,a a a a a a a,0.033031643180138064,0.040322580645161296
+preinject_v2,LSTM,VeryDeep_Small,3431101934_99a6c55914.jpg,a a a a a a a,0.02558948059670209,0.08695652173913043
+preinject_v2,LSTM,VeryDeep_Small,226607225_44d696db6b.jpg,a a a a a a a,0.028634401465295497,0.06329113924050632
+preinject_v2,LSTM,VeryDeep_Small,3463268965_f22884fc69.jpg,a a a a a a a,0.043472087194499145,0.07142857142857142
+preinject_v2,LSTM,VeryDeep_Small,3437315443_ba2263f92e.jpg,a a a a a a a a,0.039281465090051315,0.14018691588785046
+preinject_v2,LSTM,VeryDeep_Small,3589367895_5d3729e3ea.jpg,a a a a a a a,0.039281465090051315,0.10309278350515463
+preinject_v2,LSTM,VeryDeep_Small,2372572028_53b76104a9.jpg,a a a a a a a,0.043472087194499145,0.1639344262295082
+preinject_v2,LSTM,VeryDeep_Small,3030962048_f71948226c.jpg,a a a a a a a,0.039281465090051315,0.08695652173913043
+preinject_v2,LSTM,VeryDeep_Small,3392019836_c7aeebca1c.jpg,a a a a a a a,0.037684991644924185,0.14150943396226415
+preinject_v2,LSTM,VeryDeep_Small,2289096282_4ef120f189.jpg,a a a a a a a,0.028319415510892395,0.15463917525773196
+preinject_v2,LSTM,VeryDeep_Small,537359971_6e28f5e66e.jpg,a a a a a a a a,0.02777619034011792,0.0625
+preinject_v2,LSTM,VeryDeep_Small,319870744_0e0138d205.jpg,a a a a a a a,0.039281465090051315,0.1639344262295082
+preinject_v2,LSTM,VeryDeep_Small,535529555_583d89b7f2.jpg,a a a a a a a a,0.02777619034011792,0.08064516129032259
+preinject_v2,LSTM,VeryDeep_Small,3415809168_af9dabdba5.jpg,a a a a a a a,0.029519129053903102,0.08064516129032259
+preinject_v2,LSTM,VeryDeep_Small,467858872_f3431df682.jpg,a a a a a a a,0.014017732413740807,0.040322580645161296
+preinject_v2,LSTM,VeryDeep_Small,1299459550_1fd5594fa2.jpg,a a a a a a a,0.028634401465295497,0.09615384615384616
+preinject_v2,LSTM,VeryDeep_Small,3318995586_c2bc50b92e.jpg,a a a a a a a,0.03266828640925502,0.12096774193548389
+preinject_v2,LSTM,VeryDeep_Small,3079787482_0757e9d167.jpg,a a a a a a a,0.033031643180138064,0.07142857142857142
+preinject_v2,LSTM,VeryDeep_Small,3037558954_20115165e3.jpg,a a a a a a a,0.039281465090051315,0.11363636363636365
+preinject_v2,LSTM,VeryDeep_Small,2176874361_2b4149010b.jpg,a a a a a a a a,0.03303164318013808,0.10204081632653061
+preinject_v2,LSTM,VeryDeep_Small,2328104318_5a43ca170c.jpg,a a a a a a a,0.046713797772820004,0.15037593984962405
+preinject_v2,LSTM,VeryDeep_Small,3203707977_cc9448fecb.jpg,a a a a a a a a,0.03655552228545124,0.16853932584269662
+preinject_v2,LSTM,VeryDeep_Small,3694093650_547259731e.jpg,a a a a a a a a,0.03303164318013808,0.07462686567164178
+preinject_v2,LSTM,VeryDeep_Small,241046599_28b0ca7b9f.jpg,a a a a a a a,0.039281465090051315,0.11363636363636365
+preinject_v2,LSTM,VeryDeep_Small,2257294002_0073263c54.jpg,a a a a a a a,0.029519129053903102,0.06622516556291391
+preinject_v2,LSTM,VeryDeep_Small,210625425_fb1ef5d23b.jpg,a a a a a a a,0.033031643180138064,0.07142857142857142
+preinject_v2,LSTM,VeryDeep_Small,3612249030_e2829ffa31.jpg,a a a a a a a,0.039281465090051315,0.1639344262295082
+preinject_v2,LSTM,VeryDeep_Small,3271084924_4778d556cc.jpg,a a a a a a a,0.033031643180138064,0.06329113924050632
+preinject_v2,LSTM,VeryDeep_Small,1248734482_3038218f3b.jpg,a a a a a a a,0.028319415510892395,0.12096774193548389
+preinject_v2,LSTM,VeryDeep_Small,765929807_de381cc764.jpg,a a a a a a a,0.046713797772820004,0.12658227848101264
+preinject_v2,LSTM,VeryDeep_Small,3559781965_d4ec00e506.jpg,a a a a a a a,0.022182955195367136,0.09433962264150944
+preinject_v2,LSTM,VeryDeep_Small,2525270674_4ab536e7ec.jpg,a a a a a a a,0.039281465090051315,0.09433962264150944
+preinject_v2,LSTM,VeryDeep_Small,2335619125_2e2034f2c3.jpg,a a a a a a a,0.028634401465295497,0.06329113924050632
+preinject_v2,LSTM,VeryDeep_Small,3195188609_01afbe46e6.jpg,a a a a a a a,0.039281465090051315,0.12658227848101264
+preinject_v2,LSTM,VeryDeep_Small,1975531316_8b00eeaaf7.jpg,a a a a a a a,0.037684991644924185,0.12658227848101264
+preinject_v2,LSTM,VeryDeep_Small,2302747917_aa0300eb68.jpg,a a a a a a a,0.046713797772820004,0.08620689655172414
+preinject_v2,LSTM,VeryDeep_Small,3229282764_a4a515f4e2.jpg,a a a a a a a,0.039281465090051315,0.1639344262295082
+preinject_v2,LSTM,VeryDeep_Small,3565655045_8eb00b7423.jpg,a a a a a a,0.03501806396568503,0.17543859649122806
+preinject_v2,LSTM,Shallow_Mid,2736508369_fd9ff0b42f.jpg,a man in a red shirt is playing in the water,0.269855346668251,0.19801980198019806
+preinject_v2,LSTM,Shallow_Mid,1093737381_b313cd49ff.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.01883240896070105,0.18378831417624522
+preinject_v2,LSTM,Shallow_Mid,3412249548_00820fc4ca.jpg,a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and,0.017313061339977776,0.20161290322580647
+preinject_v2,LSTM,Shallow_Mid,3380072636_4cd59385fd.jpg,a man in a red shirt is playing in the water,0.06904573083274564,0.3297491039426523
+preinject_v2,LSTM,Shallow_Mid,3501083764_cf592292a6.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.09970617113450042,0.3209237661234263
+preinject_v2,LSTM,Shallow_Mid,2911919938_6bb6587a36.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.014558491217854977,0.1704545454545455
+preinject_v2,LSTM,Shallow_Mid,3621717946_d96f8a6012.jpg,a dog is running in the grass,0.037684991644924185,0.189873417721519
+preinject_v2,LSTM,Shallow_Mid,3228069008_edb2961fc4.jpg,a dog is running in the grass,0.16102307266026747,0.3234880450070324
+preinject_v2,LSTM,Shallow_Mid,3494394662_3edfd4a34c.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.020053583653512706,0.16924208977189112
+preinject_v2,LSTM,Shallow_Mid,3729405438_6e79077ab2.jpg,a man in a man in a man in a red shirt is standing on a red,0.039567167294524315,0.2871410736579275
+preinject_v2,LSTM,Shallow_Mid,2868324804_5cc8030484.jpg,a man in a red shirt is playing in the water,0.05147660361947715,0.34534534534534533
+preinject_v2,LSTM,Shallow_Mid,2448393373_80c011d301.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.014558491217854977,0.23250000000000004
+preinject_v2,LSTM,Shallow_Mid,3052196390_c59dd24ca8.jpg,a man in a red shirt is jumping on a red,0.04411629359322707,0.18072289156626503
+preinject_v2,LSTM,Shallow_Mid,2247192427_5e106f24a9.jpg,a man in a red shirt is playing in the water,0.024808415001701823,0.15384615384615385
+preinject_v2,LSTM,Shallow_Mid,2244551043_21b8cca866.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.015237428485138389,0.10695187165775402
+preinject_v2,LSTM,Shallow_Mid,3014080715_f4f0dbb56e.jpg,a man is running on a field,0.039281465090051315,0.14285714285714285
+preinject_v2,LSTM,Shallow_Mid,3244734844_c318c29c23.jpg,a man in a red shirt is jumping on a red,0.06484115071397648,0.3076923076923077
+preinject_v2,LSTM,Shallow_Mid,3421928157_69a325366f.jpg,a man in a red shirt is jumping on a red,0.04790437745835816,0.15384615384615385
+preinject_v2,LSTM,Shallow_Mid,3572346664_e1e6c77f11.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.012813098990837714,0.12096774193548387
+preinject_v2,LSTM,Shallow_Mid,3132760860_3e743a935d.jpg,a man in a red shirt is jumping on a red,0.02434178296655151,0.24658203125000006
+preinject_v2,LSTM,Shallow_Mid,2148916767_644ea6a7fa.jpg,a dog is running in the grass,0.08783602619713961,0.6147540983606558
+preinject_v2,LSTM,Shallow_Mid,2998024845_1529c11694.jpg,a man in a red shirt is jumping on a red,0.13193849171325928,0.3126050420168068
+preinject_v2,LSTM,Shallow_Mid,2613209320_edf6a2b7e9.jpg,a dog is running in the grass,0.09878765474230743,0.3650793650793651
+preinject_v2,LSTM,Shallow_Mid,745966757_6d16dfad8f.jpg,a man in a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red,0.014558491217854977,0.2060931899641577
+preinject_v2,LSTM,Shallow_Mid,1998457059_c9ac9a1e1a.jpg,a man in a red shirt is jumping on a red,0.05012578715739066,0.18564356435643567
+preinject_v2,LSTM,Shallow_Mid,503090187_8758ab5680.jpg,a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and,0.013768570909032773,0.17391304347826086
+preinject_v2,LSTM,Shallow_Mid,3627679667_0e3de9fc90.jpg,a man in a red shirt is jumping on a red,0.06238986072117501,0.3348214285714286
+preinject_v2,LSTM,Shallow_Mid,516214924_c2a4364cb3.jpg,a dog is running in the grass,0.08307018474412793,0.29040404040404044
+preinject_v2,LSTM,Shallow_Mid,3119696225_b289efaec8.jpg,a man in a red shirt is jumping on a red,0.052463410228614595,0.4481927710843373
+preinject_v2,LSTM,Shallow_Mid,3405113041_4b72c24801.jpg,a man in a red and white and white and white dog is running in the grass,0.03058760346458022,0.23554104477611942
+preinject_v2,LSTM,Shallow_Mid,3315033940_e91f87b7f2.jpg,a man in a red shirt is playing in the water,0.11731175160264001,0.40760869565217384
+preinject_v2,LSTM,Shallow_Mid,791338571_7f38510bf7.jpg,a man is running on a field,0.05411516285864537,0.2410901467505241
+preinject_v2,LSTM,Shallow_Mid,1332208215_fa824f6659.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.03566087490853475,0.1530612244897959
+preinject_v2,LSTM,Shallow_Mid,3399944164_ec24123945.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.09970617113450042,0.2958579881656805
+preinject_v2,LSTM,Shallow_Mid,2696394827_7342ced36f.jpg,a dog is running in the grass,0.10445522730720382,0.39952531645569617
+preinject_v2,LSTM,Shallow_Mid,2427558437_3e839056d7.jpg,a dog is running in the grass,0.037684991644924185,0.14150943396226415
+preinject_v2,LSTM,Shallow_Mid,2086678529_b3301c2d71.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.013768570909032773,0.1704545454545455
+preinject_v2,LSTM,Shallow_Mid,2472574160_8ce233f396.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.08968235248346601,0.24647887323943662
+preinject_v2,LSTM,Shallow_Mid,413737417_b0a8b445e9.jpg,a man in a red shirt is jumping on a red,0.04740604259878138,0.2027027027027027
+preinject_v2,LSTM,Shallow_Mid,3690425778_3b390b3ea5.jpg,a man in a red shirt is standing on a red,0.059609942732681,0.21618150684931506
+preinject_v2,LSTM,Shallow_Mid,950273886_88c324e663.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.13937542038981277,0.47721344176768454
+preinject_v2,LSTM,Shallow_Mid,2886411666_72d8b12ce4.jpg,a dog is running in the grass,0.28574404296988,0.6914285714285714
+preinject_v2,LSTM,Shallow_Mid,909808296_23c427022d.jpg,a dog is running in the grass,0.04836067244628849,0.2545362903225807
+preinject_v2,LSTM,Shallow_Mid,2180356743_b3a3c9a7f6.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.015237428485138389,0.13245033112582785
+preinject_v2,LSTM,Shallow_Mid,3640109324_3ce89e4d1a.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.0077426364109627836,0.09433962264150943
+preinject_v2,LSTM,Shallow_Mid,481827288_a688be7913.jpg,a dog is running in the grass,0.07730551756939454,0.6147540983606558
+preinject_v2,LSTM,Shallow_Mid,421808539_57abee6d55.jpg,a dog is running in the grass,0.09878765474230743,0.6147540983606558
+preinject_v2,LSTM,Shallow_Mid,3550276904_19de3561c5.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.01883240896070105,0.11210762331838565
+preinject_v2,LSTM,Shallow_Mid,3686924335_3c51e8834a.jpg,a man is jumping on a beach,0.046713797772820004,0.14285714285714285
+preinject_v2,LSTM,Shallow_Mid,2843695880_eeea6c67db.jpg,a man in a red shirt is jumping on a red,0.018850319022747353,0.10638297872340427
+preinject_v2,LSTM,Shallow_Mid,2594459477_8ca0121a9a.jpg,a man in a red shirt is jumping on a beach,0.04374152137028269,0.2027027027027027
+preinject_v2,LSTM,Shallow_Mid,3257277774_aba333a94c.jpg,a dog is running in the grass,0.09878765474230743,0.6147540983606558
+preinject_v2,LSTM,Shallow_Mid,3613030730_0b28b079ba.jpg,a man in a man in a red shirt is standing on a red,0.020200106912694155,0.14423076923076922
+preinject_v2,LSTM,Shallow_Mid,3164415865_612f9fd8bc.jpg,a man in a red shirt is jumping on a red,0.022416933501922302,0.06756756756756757
+preinject_v2,LSTM,Shallow_Mid,1439282131_3814d6ae04.jpg,a dog is running in the grass,0.07730551756939454,0.35866477272727276
+preinject_v2,LSTM,Shallow_Mid,2046222127_a6f300e202.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.07205335066302805,0.2796992481203008
+preinject_v2,LSTM,Shallow_Mid,3271468462_701eb88d3b.jpg,a dog is running in the grass,0.17820132316770917,0.3140845070422535
+preinject_v2,LSTM,Shallow_Mid,2533076864_d799996433.jpg,a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt,0.0077426364109627836,0.11278195488721804
+preinject_v2,LSTM,Shallow_Mid,3499720588_c32590108e.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.013768570909032773,0.11278195488721804
+preinject_v2,LSTM,Shallow_Mid,673806038_0a3682a83f.jpg,a man in a red shirt is jumping on a red,0.04328649145305472,0.17342032967032966
+preinject_v2,LSTM,Shallow_Mid,571507143_be346225b7.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.012813098990837714,0.10309278350515465
+preinject_v2,LSTM,Shallow_Mid,2924884899_f512c84332.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.07205335066302805,0.30000000000000004
+preinject_v2,LSTM,Shallow_Mid,1130401779_8c30182e3e.jpg,a dog is running in the grass,0.08307018474412793,0.4189435336976321
+preinject_v2,LSTM,Shallow_Mid,3431101934_99a6c55914.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.016373682488441264,0.17996870109546165
+preinject_v2,LSTM,Shallow_Mid,226607225_44d696db6b.jpg,a dog is running in the grass,0.037684991644924185,0.12658227848101264
+preinject_v2,LSTM,Shallow_Mid,3463268965_f22884fc69.jpg,a man in a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red,0.03946524550197028,0.2977594339622641
+preinject_v2,LSTM,Shallow_Mid,3437315443_ba2263f92e.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.07837655860096929,0.28378215191402
+preinject_v2,LSTM,Shallow_Mid,3589367895_5d3729e3ea.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.013768570909032773,0.12096774193548387
+preinject_v2,LSTM,Shallow_Mid,2372572028_53b76104a9.jpg,a man in a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red,0.017313061339977776,0.23250000000000004
+preinject_v2,LSTM,Shallow_Mid,3030962048_f71948226c.jpg,a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and,0.0077426364109627836,0.1056338028169014
+preinject_v2,LSTM,Shallow_Mid,3392019836_c7aeebca1c.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.03348928509624719,0.23954431960049932
+preinject_v2,LSTM,Shallow_Mid,2289096282_4ef120f189.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.008186841244220632,0.12096774193548387
+preinject_v2,LSTM,Shallow_Mid,537359971_6e28f5e66e.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.007205335066302803,0.09433962264150943
+preinject_v2,LSTM,Shallow_Mid,319870744_0e0138d205.jpg,a man in a red shirt is jumping on a beach,0.059609942732681,0.27173913043478265
+preinject_v2,LSTM,Shallow_Mid,535529555_583d89b7f2.jpg,a dog is running in the grass,0.039281465090051315,0.2272727272727273
+preinject_v2,LSTM,Shallow_Mid,3415809168_af9dabdba5.jpg,a dog is running in the grass,0.42993882790909616,0.35866477272727276
+preinject_v2,LSTM,Shallow_Mid,467858872_f3431df682.jpg,a dog is running in the grass,0.03280636247745341,0.20609318996415774
+preinject_v2,LSTM,Shallow_Mid,1299459550_1fd5594fa2.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.007205335066302803,0.12658227848101267
+preinject_v2,LSTM,Shallow_Mid,3318995586_c2bc50b92e.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.01583610518564545,0.13245033112582785
+preinject_v2,LSTM,Shallow_Mid,3079787482_0757e9d167.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.006510755202591488,0.051546391752577324
+preinject_v2,LSTM,Shallow_Mid,3037558954_20115165e3.jpg,a man in a red shirt is jumping on a red,0.06238986072117501,0.4043478260869566
+preinject_v2,LSTM,Shallow_Mid,2176874361_2b4149010b.jpg,a dog is running in the grass,0.21515344521672802,0.5357142857142857
+preinject_v2,LSTM,Shallow_Mid,2328104318_5a43ca170c.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.07837655860096929,0.2664930555555555
+preinject_v2,LSTM,Shallow_Mid,3203707977_cc9448fecb.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.017313061339977776,0.3234782608695652
+preinject_v2,LSTM,Shallow_Mid,3694093650_547259731e.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.014558491217854977,0.14084507042253522
+preinject_v2,LSTM,Shallow_Mid,241046599_28b0ca7b9f.jpg,a dog is running in the grass,0.21515344521672802,0.4508928571428571
+preinject_v2,LSTM,Shallow_Mid,2257294002_0073263c54.jpg,a man in a red shirt is playing in the water,0.05442988140675566,0.16304347826086954
+preinject_v2,LSTM,Shallow_Mid,210625425_fb1ef5d23b.jpg,a man in a red shirt is jumping on a red,0.024808415001701823,0.13636363636363635
+preinject_v2,LSTM,Shallow_Mid,3612249030_e2829ffa31.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.0077426364109627836,0.15463917525773196
+preinject_v2,LSTM,Shallow_Mid,3271084924_4778d556cc.jpg,a dog is running in the grass,0.2558620078690811,0.7934426229508196
+preinject_v2,LSTM,Shallow_Mid,1248734482_3038218f3b.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.01583610518564545,0.16556291390728478
+preinject_v2,LSTM,Shallow_Mid,765929807_de381cc764.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.019471699714049804,0.18867924528301885
+preinject_v2,LSTM,Shallow_Mid,3559781965_d4ec00e506.jpg,a dog is running in the grass,0.13569111493289868,0.45362903225806456
+preinject_v2,LSTM,Shallow_Mid,2525270674_4ab536e7ec.jpg,a dog is running in the grass,0.10445522730720382,0.3234782608695652
+preinject_v2,LSTM,Shallow_Mid,2335619125_2e2034f2c3.jpg,a dog is running in the grass,0.16102307266026747,0.5645569620253165
+preinject_v2,LSTM,Shallow_Mid,3195188609_01afbe46e6.jpg,a man in a red shirt is playing in the water,0.059609942732681,0.38027108433734946
+preinject_v2,LSTM,Shallow_Mid,1975531316_8b00eeaaf7.jpg,a dog is running on a field,0.17820132316770917,0.5645569620253165
+preinject_v2,LSTM,Shallow_Mid,2302747917_aa0300eb68.jpg,a man in a man in a man in a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a red shirt and a,0.016862986607229312,0.15444015444015446
+preinject_v2,LSTM,Shallow_Mid,3229282764_a4a515f4e2.jpg,a man in a red shirt is jumping on a red,0.059609942732681,0.21739130434782605
+preinject_v2,LSTM,Shallow_Mid,3565655045_8eb00b7423.jpg,a man in a red shirt is jumping on a red,0.05452469119630864,0.35830999066293184
+preinject_v2,LSTM,Shallow_Large,2736508369_fd9ff0b42f.jpg,a man in a red ball in the air,0.2824099048856541,0.20202020202020204
+preinject_v2,LSTM,Shallow_Large,1093737381_b313cd49ff.jpg,a man in a red shirt is standing on a sidewalk,0.05637560315259291,0.21739130434782605
+preinject_v2,LSTM,Shallow_Large,3412249548_00820fc4ca.jpg,a man in a red shirt is standing on a street,0.05012578715739066,0.19801980198019806
+preinject_v2,LSTM,Shallow_Large,3380072636_4cd59385fd.jpg,a man in a red ball in the air,0.07102233105535993,0.29150326797385623
+preinject_v2,LSTM,Shallow_Large,3501083764_cf592292a6.jpg,a man in a red shirt and a black and white and white and white and white and white and white and white and white and white and white and white and white and,0.10435598232361094,0.2969626168224299
+preinject_v2,LSTM,Shallow_Large,2911919938_6bb6587a36.jpg,a young boy in a red shirt is jumping on a rock,0.02547055398169822,0.2631578947368421
+preinject_v2,LSTM,Shallow_Large,3621717946_d96f8a6012.jpg,a dog is running through the water,0.037684991644924185,0.19230769230769232
+preinject_v2,LSTM,Shallow_Large,3228069008_edb2961fc4.jpg,a dog is jumping on a grassy field,0.17286039232097053,0.605
+preinject_v2,LSTM,Shallow_Large,3494394662_3edfd4a34c.jpg,a man in a red shirt is standing on a sidewalk,0.07175852914772135,0.24658203125000006
+preinject_v2,LSTM,Shallow_Large,3729405438_6e79077ab2.jpg,a man in a red shirt is jumping on a skateboard,0.06484115071397648,0.30789825970548856
+preinject_v2,LSTM,Shallow_Large,2868324804_5cc8030484.jpg,a man in a red shirt is playing in the air,0.05147660361947715,0.34534534534534533
+preinject_v2,LSTM,Shallow_Large,2448393373_80c011d301.jpg,a young boy is playing in a green wall,0.1623339577375495,0.3333333333333333
+preinject_v2,LSTM,Shallow_Large,3052196390_c59dd24ca8.jpg,a young boy in a red shirt is jumping into the water,0.0428361950754725,0.3872053872053872
+preinject_v2,LSTM,Shallow_Large,2247192427_5e106f24a9.jpg,a man in a red shirt is playing in the air,0.024808415001701823,0.15384615384615385
+preinject_v2,LSTM,Shallow_Large,2244551043_21b8cca866.jpg,a man in a red shirt and a black and white and white and white and white and white and white and white and white and white and white and white and white and,0.014558491217854977,0.08695652173913043
+preinject_v2,LSTM,Shallow_Large,3014080715_f4f0dbb56e.jpg,a black dog is running through the grass,0.06500593260343691,0.32206632653061223
+preinject_v2,LSTM,Shallow_Large,3244734844_c318c29c23.jpg,a man in a red shirt is jumping on a skateboard,0.06484115071397648,0.3076923076923077
+preinject_v2,LSTM,Shallow_Large,3421928157_69a325366f.jpg,a man in a red shirt is jumping on a beach,0.04790437745835816,0.15384615384615385
+preinject_v2,LSTM,Shallow_Large,3572346664_e1e6c77f11.jpg,a man in a red shirt is standing on a sidewalk,0.04740604259878138,0.19801980198019806
+preinject_v2,LSTM,Shallow_Large,3132760860_3e743a935d.jpg,a man in a red shirt is riding a trick on a snowy hill,0.03798229226827674,0.12295081967213116
+preinject_v2,LSTM,Shallow_Large,2148916767_644ea6a7fa.jpg,a black dog is running through the grass,0.1944130841813964,0.41471048513302033
+preinject_v2,LSTM,Shallow_Large,2998024845_1529c11694.jpg,a man in a red shirt is riding a bike on a snowy hill,0.1135935489027116,0.3494990892531876
+preinject_v2,LSTM,Shallow_Large,2613209320_edf6a2b7e9.jpg,a dog is running through the water,0.12098967350244397,0.5357142857142857
+preinject_v2,LSTM,Shallow_Large,745966757_6d16dfad8f.jpg,a young boy is jumping on a rock,0.06518210333288976,0.28301886792452824
+preinject_v2,LSTM,Shallow_Large,1998457059_c9ac9a1e1a.jpg,a man in a red shirt is jumping into the water,0.052463410228614595,0.21319444444444444
+preinject_v2,LSTM,Shallow_Large,503090187_8758ab5680.jpg,a man in a red shirt is standing on a sidewalk,0.05012578715739066,0.21739130434782605
+preinject_v2,LSTM,Shallow_Large,3627679667_0e3de9fc90.jpg,a man in a red shirt is jumping into the beach,0.05012578715739066,0.18072289156626503
+preinject_v2,LSTM,Shallow_Large,516214924_c2a4364cb3.jpg,a dog is running on a field,0.08307018474412793,0.5174180327868853
+preinject_v2,LSTM,Shallow_Large,3119696225_b289efaec8.jpg,a young boy in a red shirt is jumping into a beach,0.026658376817028866,0.2450980392156863
+preinject_v2,LSTM,Shallow_Large,3405113041_4b72c24801.jpg,a black dog is running through the water,0.07386099955930606,0.4179775280898876
+preinject_v2,LSTM,Shallow_Large,3315033940_e91f87b7f2.jpg,a man in a red shirt is jumping on a beach,0.04740604259878138,0.21739130434782605
+preinject_v2,LSTM,Shallow_Large,791338571_7f38510bf7.jpg,a black dog is running on a field,0.06840676598421276,0.2776119402985075
+preinject_v2,LSTM,Shallow_Large,1332208215_fa824f6659.jpg,a man in a red shirt and a black and white and white and white and white and white and white and white and white and white and white and white and white and,0.034071925895061084,0.12755102040816327
+preinject_v2,LSTM,Shallow_Large,3399944164_ec24123945.jpg,a man in a black shirt is standing on a bench,0.2547696540824902,0.2054794520547945
+preinject_v2,LSTM,Shallow_Large,2696394827_7342ced36f.jpg,a dog is running through the water,0.10445522730720382,0.39952531645569617
+preinject_v2,LSTM,Shallow_Large,2427558437_3e839056d7.jpg,a dog is running through the grass,0.037684991644924185,0.14150943396226415
+preinject_v2,LSTM,Shallow_Large,2086678529_b3301c2d71.jpg,a young girl in a red shirt is standing on a sidewalk,0.14734754237051595,0.46046046046046046
+preinject_v2,LSTM,Shallow_Large,2472574160_8ce233f396.jpg,a young girl in a red shirt is standing on a bench,0.04926862021119254,0.20833333333333337
+preinject_v2,LSTM,Shallow_Large,413737417_b0a8b445e9.jpg,a man in a red shirt is riding a bike on a snowy hill,0.03592143420342892,0.19480519480519481
+preinject_v2,LSTM,Shallow_Large,3690425778_3b390b3ea5.jpg,a man in a red shirt is jumping on a rock,0.12278260149096115,0.3054794520547945
+preinject_v2,LSTM,Shallow_Large,950273886_88c324e663.jpg,a man in a red shirt is jumping on a rock,0.5193071778680676,0.7215909090909091
+preinject_v2,LSTM,Shallow_Large,2886411666_72d8b12ce4.jpg,a dog is running through the grass,0.34996355115805833,0.8412698412698414
+preinject_v2,LSTM,Shallow_Large,909808296_23c427022d.jpg,a dog is running through the grass,0.04836067244628849,0.2545362903225807
+preinject_v2,LSTM,Shallow_Large,2180356743_b3a3c9a7f6.jpg,a man in a red shirt is standing on a street,0.07175852914772135,0.290625
+preinject_v2,LSTM,Shallow_Large,3640109324_3ce89e4d1a.jpg,a man in a red shirt and a black and white and white and white and white and white and white and white and white and white and white and white and white and,0.0077426364109627836,0.09433962264150943
+preinject_v2,LSTM,Shallow_Large,481827288_a688be7913.jpg,a dog is running through the water,0.07730551756939454,0.5174180327868853
+preinject_v2,LSTM,Shallow_Large,421808539_57abee6d55.jpg,a dog is running through the snow,0.20556680845025987,0.6147540983606558
+preinject_v2,LSTM,Shallow_Large,3550276904_19de3561c5.jpg,a man in a black shirt is standing on a bench,0.0381607811464067,0.10273972602739725
+preinject_v2,LSTM,Shallow_Large,3686924335_3c51e8834a.jpg,a man is jumping on a skateboard,0.046713797772820004,0.14285714285714285
+preinject_v2,LSTM,Shallow_Large,2843695880_eeea6c67db.jpg,a man in a red shirt is jumping into the water,0.04411629359322707,0.30789825970548856
+preinject_v2,LSTM,Shallow_Large,2594459477_8ca0121a9a.jpg,a young boy in a red shirt is jumping into a beach,0.04167227247694064,0.19999999999999998
+preinject_v2,LSTM,Shallow_Large,3257277774_aba333a94c.jpg,a dog is running through the snow,0.09878765474230743,0.6147540983606558
+preinject_v2,LSTM,Shallow_Large,3613030730_0b28b079ba.jpg,a young boy in a red shirt is jumping into a beach,0.053863663688318665,0.14705882352941177
+preinject_v2,LSTM,Shallow_Large,3164415865_612f9fd8bc.jpg,a man in a red shirt is riding a bike on a snowy hill,0.07596458453655348,0.3823953823953824
+preinject_v2,LSTM,Shallow_Large,1439282131_3814d6ae04.jpg,a dog is running through the water,0.07730551756939454,0.35866477272727276
+preinject_v2,LSTM,Shallow_Large,2046222127_a6f300e202.jpg,a young boy is jumping on a beach,0.03655552228545124,0.1530612244897959
+preinject_v2,LSTM,Shallow_Large,3271468462_701eb88d3b.jpg,a dog is running through the grass,0.08563683466425753,0.2222711267605634
+preinject_v2,LSTM,Shallow_Large,2533076864_d799996433.jpg,a black and white dog is running on a field,0.025132936350227657,0.13761467889908252
+preinject_v2,LSTM,Shallow_Large,3499720588_c32590108e.jpg,a man in a red shirt is standing on a street,0.05012578715739066,0.2272727272727273
+preinject_v2,LSTM,Shallow_Large,673806038_0a3682a83f.jpg,a young boy in a red shirt is jumping into a beach,0.09578464408619825,0.2032786885245902
+preinject_v2,LSTM,Shallow_Large,571507143_be346225b7.jpg,a young girl in a red shirt is standing on a sidewalk,0.03667625610580776,0.13333333333333333
+preinject_v2,LSTM,Shallow_Large,2924884899_f512c84332.jpg,a man in a red shirt is standing on a sidewalk,0.2596535889340338,0.38027108433734946
+preinject_v2,LSTM,Shallow_Large,1130401779_8c30182e3e.jpg,a dog is running through the water,0.20556680845025987,0.6914285714285714
+preinject_v2,LSTM,Shallow_Large,3431101934_99a6c55914.jpg,a young boy is jumping on a rock,0.06840676598421276,0.2607709750566893
+preinject_v2,LSTM,Shallow_Large,226607225_44d696db6b.jpg,a dog is running through the water,0.07201170728284921,0.3234880450070324
+preinject_v2,LSTM,Shallow_Large,3463268965_f22884fc69.jpg,a man in a red shirt is standing on a skateboard,0.12760671487807074,0.34534534534534533
+preinject_v2,LSTM,Shallow_Large,3437315443_ba2263f92e.jpg,a young girl in a red shirt is standing on a sidewalk,0.4933885363281902,0.42942176870748294
+preinject_v2,LSTM,Shallow_Large,3589367895_5d3729e3ea.jpg,a man in a red shirt is standing on a street,0.06238986072117501,0.21618150684931506
+preinject_v2,LSTM,Shallow_Large,2372572028_53b76104a9.jpg,a young girl in a red shirt is standing on a rock,0.05186805880190237,0.3089774557165861
+preinject_v2,LSTM,Shallow_Large,3030962048_f71948226c.jpg,a man in a red shirt is standing on a sidewalk,0.026658376817028855,0.16806722689075632
+preinject_v2,LSTM,Shallow_Large,3392019836_c7aeebca1c.jpg,a man in a red shirt and a black and white and white and white and white and white and white and white and white and white and white and white and white and,0.03348928509624719,0.23954431960049932
+preinject_v2,LSTM,Shallow_Large,2289096282_4ef120f189.jpg,a man in a red shirt is jumping on a rock,0.05452469119630864,0.23232323232323232
+preinject_v2,LSTM,Shallow_Large,537359971_6e28f5e66e.jpg,a man in a black shirt is standing on a sidewalk,0.0204689180374571,0.12048192771084339
+preinject_v2,LSTM,Shallow_Large,319870744_0e0138d205.jpg,a man in a red shirt is riding a trick on a snowy hill,0.047275266063115634,0.4488304093567252
+preinject_v2,LSTM,Shallow_Large,535529555_583d89b7f2.jpg,a dog is running through the grass,0.039281465090051315,0.2272727272727273
+preinject_v2,LSTM,Shallow_Large,3415809168_af9dabdba5.jpg,a black dog is running through the grass,0.14427171049309437,0.2525
+preinject_v2,LSTM,Shallow_Large,467858872_f3431df682.jpg,a dog is running through the snow,0.01666998712262484,0.11278195488721805
+preinject_v2,LSTM,Shallow_Large,1299459550_1fd5594fa2.jpg,a young boy in a red shirt is jumping on a beach,0.10968758973515394,0.44834307992202727
+preinject_v2,LSTM,Shallow_Large,3318995586_c2bc50b92e.jpg,a young girl in a red shirt is standing on a green wall,0.04646684393670022,0.3357712765957447
+preinject_v2,LSTM,Shallow_Large,3079787482_0757e9d167.jpg,a young girl in a red shirt is standing on a green wall,0.039073802494525016,0.38265306122448983
+preinject_v2,LSTM,Shallow_Large,3037558954_20115165e3.jpg,a man in a red shirt is jumping on a beach,0.06484115071397648,0.4043478260869566
+preinject_v2,LSTM,Shallow_Large,2176874361_2b4149010b.jpg,a black dog is running on a field,0.23119742295813953,0.41471048513302033
+preinject_v2,LSTM,Shallow_Large,2328104318_5a43ca170c.jpg,a man in a red shirt is standing on a skateboard,0.2894742149567509,0.5333561996227062
+preinject_v2,LSTM,Shallow_Large,3203707977_cc9448fecb.jpg,a man in a red shirt and a black and white and white and white and white and white and white and white and white and white and white and white and white and,0.017313061339977776,0.21739130434782608
+preinject_v2,LSTM,Shallow_Large,3694093650_547259731e.jpg,a man in a red shirt and a black and white and white and white and white and white and white and white and white and white and white and white and white and,0.017313061339977776,0.2222711267605634
+preinject_v2,LSTM,Shallow_Large,241046599_28b0ca7b9f.jpg,a dog is running through the grass,0.21515344521672802,0.4508928571428571
+preinject_v2,LSTM,Shallow_Large,2257294002_0073263c54.jpg,a young boy in a red shirt is playing in the air,0.045293761707938834,0.16129032258064518
+preinject_v2,LSTM,Shallow_Large,210625425_fb1ef5d23b.jpg,a man is standing on a snowy hill,0.03303164318013808,0.10204081632653061
+preinject_v2,LSTM,Shallow_Large,3612249030_e2829ffa31.jpg,a young boy is playing in a green wall,0.1561969968460128,0.37878787878787884
+preinject_v2,LSTM,Shallow_Large,3271084924_4778d556cc.jpg,a black dog is running through the grass,0.07386099955930606,0.5090725806451614
+preinject_v2,LSTM,Shallow_Large,1248734482_3038218f3b.jpg,a young girl in a red shirt is standing on a green wall,0.1469410625195576,0.36891679748822603
+preinject_v2,LSTM,Shallow_Large,765929807_de381cc764.jpg,a man in a red shirt is standing on a rock,0.12760671487807074,0.3993055555555555
+preinject_v2,LSTM,Shallow_Large,3559781965_d4ec00e506.jpg,a dog is running through the grass,0.06173866219946367,0.3234782608695652
+preinject_v2,LSTM,Shallow_Large,2525270674_4ab536e7ec.jpg,a dog is running through the snow,0.09878765474230743,0.27445652173913043
+preinject_v2,LSTM,Shallow_Large,2335619125_2e2034f2c3.jpg,a dog is running through the snow,0.7289545183625967,0.8757427021441488
+preinject_v2,LSTM,Shallow_Large,3195188609_01afbe46e6.jpg,a man in a red shirt is playing in the air,0.059609942732681,0.38027108433734946
+preinject_v2,LSTM,Shallow_Large,1975531316_8b00eeaaf7.jpg,a dog is running through the grass,0.1417182961428368,0.3234880450070324
+preinject_v2,LSTM,Shallow_Large,2302747917_aa0300eb68.jpg,a young girl in a red shirt is standing on a green wall,0.05525870142124495,0.16806722689075632
+preinject_v2,LSTM,Shallow_Large,3229282764_a4a515f4e2.jpg,a young boy in a red shirt is jumping into the water,0.0394112020231606,0.16129032258064518
+preinject_v2,LSTM,Shallow_Large,3565655045_8eb00b7423.jpg,a man in a red shirt is jumping on a beach,0.06704226838163331,0.4810495626822157
+preinject_v2,LSTM,Deep_Large,2736508369_fd9ff0b42f.jpg,a man in a red uniform is in a red uniform,0.269855346668251,0.42216721672167207
+preinject_v2,LSTM,Deep_Large,1093737381_b313cd49ff.jpg,a man in a shirt is on a a a and and and and and and and and and and and and shirt and a and and and shirt and a shirt and a,0.020053583653512706,0.22932381465517243
+preinject_v2,LSTM,Deep_Large,3412249548_00820fc4ca.jpg,a man in a a shirt and a shirt and a shirt and a shirt and a shirt and a shirt and a shirt and a and a and and and and and and,0.017313061339977776,0.20161290322580647
+preinject_v2,LSTM,Deep_Large,3380072636_4cd59385fd.jpg,a man in a red uniform in a red uniform in a blue ball,0.03798229226827674,0.19230769230769232
+preinject_v2,LSTM,Deep_Large,3501083764_cf592292a6.jpg,a man in a a shirt and a shirt and a shirt and a shirt and a shirt and a shirt and a and and and and and and and and and and and,0.09207598308796072,0.2969626168224299
+preinject_v2,LSTM,Deep_Large,2911919938_6bb6587a36.jpg,a man in a shirt is on a a a a and and and and and and and and and and and and and and and and and and and and and and and,0.015237428485138389,0.22727272727272727
+preinject_v2,LSTM,Deep_Large,3621717946_d96f8a6012.jpg,a dog is in a dog,0.09554427922043669,0.24038461538461542
+preinject_v2,LSTM,Deep_Large,3228069008_edb2961fc4.jpg,a dog is in a dog,0.25406637407730737,0.25641025641025644
+preinject_v2,LSTM,Deep_Large,3494394662_3edfd4a34c.jpg,a man in a woman in a a and a shirt and a and a and and and and and and and and and and and and and and and and and and and,0.017313061339977776,0.14285714285714285
+preinject_v2,LSTM,Deep_Large,3729405438_6e79077ab2.jpg,a man in a a shirt is on a a a blue blue blue blue blue blue blue blue blue blue blue blue blue a blue blue a blue and a blue blue blue,0.018120458368871713,0.1879699248120301
+preinject_v2,LSTM,Deep_Large,2868324804_5cc8030484.jpg,a man in a red uniform in a red uniform in a white ball,0.03342866121562732,0.24350649350649353
+preinject_v2,LSTM,Deep_Large,2448393373_80c011d301.jpg,a man in a shirt is on a a a and and and and and and and and and and and and and and and and and and shirt and a and shirt and,0.015237428485138389,0.15625000000000003
+preinject_v2,LSTM,Deep_Large,3052196390_c59dd24ca8.jpg,a man in a shirt is on a a a a and white and white and white and white and white and white and white and white and white and white and white and,0.012813098990837714,0.14150943396226415
+preinject_v2,LSTM,Deep_Large,2247192427_5e106f24a9.jpg,a man in a red uniform is in a white white ball,0.020255986027125642,0.09009009009009009
+preinject_v2,LSTM,Deep_Large,2244551043_21b8cca866.jpg,a man in a woman in a a and a shirt and a and shirt and a and a and and and and and and and and and and and and and and and,0.015237428485138389,0.10695187165775402
+preinject_v2,LSTM,Deep_Large,3014080715_f4f0dbb56e.jpg,a dog is in a dog,0.041095991233501536,0.21739130434782605
+preinject_v2,LSTM,Deep_Large,3244734844_c318c29c23.jpg,a man in a shirt is on a a a a a blue shirt,0.05437427682227521,0.3034855769230769
+preinject_v2,LSTM,Deep_Large,3421928157_69a325366f.jpg,a man in a a blue shirt is in a a blue blue a a blue and a and blue and blue and blue and blue and blue and and and and and and,0.02084148650121017,0.17605633802816903
+preinject_v2,LSTM,Deep_Large,3572346664_e1e6c77f11.jpg,a man in a a shirt and a shirt and a shirt and a shirt and a shirt and a shirt,0.021377723941583868,0.13513513513513511
+preinject_v2,LSTM,Deep_Large,3132760860_3e743a935d.jpg,a man in a a shirt is on a a a blue blue blue blue blue blue blue a blue blue,0.01291802583371725,0.11627906976744187
+preinject_v2,LSTM,Deep_Large,2148916767_644ea6a7fa.jpg,a dog is in a a dog,0.08783602619713961,0.2358490566037736
+preinject_v2,LSTM,Deep_Large,2998024845_1529c11694.jpg,a man in a a shirt is on a a a a a a a a a blue bike,0.07535838128770536,0.3357392825896763
+preinject_v2,LSTM,Deep_Large,2613209320_edf6a2b7e9.jpg,a dog is in a dog,0.10335094640592336,0.2717391304347826
+preinject_v2,LSTM,Deep_Large,745966757_6d16dfad8f.jpg,a man in a shirt is on a a a shirt,0.02950234363196405,0.1785714285714286
+preinject_v2,LSTM,Deep_Large,1998457059_c9ac9a1e1a.jpg,a man in a a blue shirt is in a a a blue blue a blue and blue and blue and blue and blue and blue and blue and blue and blue and blue,0.0085686357268259,0.10309278350515465
+preinject_v2,LSTM,Deep_Large,503090187_8758ab5680.jpg,a man in a shirt is in a a shirt and a shirt,0.04131551591106297,0.2127659574468085
+preinject_v2,LSTM,Deep_Large,3627679667_0e3de9fc90.jpg,a man in a a blue blue shirt is in a a a blue beach,0.036787632499277766,0.2842592592592593
+preinject_v2,LSTM,Deep_Large,516214924_c2a4364cb3.jpg,a dog is in a dog,0.10266900960803409,0.2937420178799489
+preinject_v2,LSTM,Deep_Large,3119696225_b289efaec8.jpg,a man in a a shirt is on a a a and white and white and white and white and white and white and white and white and white and white and white and,0.03348928509624719,0.3509433962264152
+preinject_v2,LSTM,Deep_Large,3405113041_4b72c24801.jpg,a dog is in a a dog,0.039281465090051315,0.14285714285714285
+preinject_v2,LSTM,Deep_Large,3315033940_e91f87b7f2.jpg,a man in a a blue shirt is in a a a blue and blue and blue and blue and blue and blue and blue and and and and and and and and and,0.02709640533706218,0.2222222222222222
+preinject_v2,LSTM,Deep_Large,791338571_7f38510bf7.jpg,a black dog is in a a dog,0.07159692505124966,0.2949766355140187
+preinject_v2,LSTM,Deep_Large,1332208215_fa824f6659.jpg,a man in a a and a and and and and and and and and and and and and and and and and and and and and and and and and and and and,0.034071925895061084,0.12755102040816327
+preinject_v2,LSTM,Deep_Large,3399944164_ec24123945.jpg,a man in a a shirt and a shirt and a shirt and a shirt and a shirt and a and and and and and and and and and and and and and and,0.08968235248346601,0.2366863905325444
+preinject_v2,LSTM,Deep_Large,2696394827_7342ced36f.jpg,a dog is in a dog,0.12909944487358058,0.32051282051282054
+preinject_v2,LSTM,Deep_Large,2427558437_3e839056d7.jpg,a dog is in a dog,0.04136895450425726,0.15151515151515152
+preinject_v2,LSTM,Deep_Large,2086678529_b3301c2d71.jpg,a man in a a shirt is in a a shirt,0.10600313379512592,0.48557692307692313
+preinject_v2,LSTM,Deep_Large,2472574160_8ce233f396.jpg,a man in a shirt is in a a shirt and a and and and and and shirt and a and and and and shirt and a and and and and and and and,0.1049439266125276,0.3377407300948549
+preinject_v2,LSTM,Deep_Large,413737417_b0a8b445e9.jpg,a man in a a a shirt is on a a a a a a a blue blue a a blue blue a a blue and a blue and a blue and a blue,0.014558491217854977,0.15463917525773196
+preinject_v2,LSTM,Deep_Large,3690425778_3b390b3ea5.jpg,a man in a shirt is on a a a a and white and white and white and white and white and white and white and white and white and white and white and,0.03566087490853475,0.22011834319526627
+preinject_v2,LSTM,Deep_Large,950273886_88c324e663.jpg,a man in a shirt is on a a a a a a and blue and a and and and and and and and and and and and and and and and and and,0.07541356871486662,0.32059314954051793
+preinject_v2,LSTM,Deep_Large,2886411666_72d8b12ce4.jpg,a dog is in a dog,0.21506254256566312,0.3703703703703703
+preinject_v2,LSTM,Deep_Large,909808296_23c427022d.jpg,a dog is in a dog,0.04749303163563625,0.30243902439024395
+preinject_v2,LSTM,Deep_Large,2180356743_b3a3c9a7f6.jpg,a man in a a shirt is in a shirt in a a a shirt,0.036787632499277766,0.14184397163120566
+preinject_v2,LSTM,Deep_Large,3640109324_3ce89e4d1a.jpg,a man in a woman in a a and a shirt and a and and and and and and and and and and and and and and and and and and and and and,0.0077426364109627836,0.09433962264150943
+preinject_v2,LSTM,Deep_Large,481827288_a688be7913.jpg,a dog is in a dog,0.048549177170732344,0.16666666666666666
+preinject_v2,LSTM,Deep_Large,421808539_57abee6d55.jpg,a dog is in a dog,0.09554427922043669,0.42592592592592593
+preinject_v2,LSTM,Deep_Large,3550276904_19de3561c5.jpg,a man in a a shirt and a shirt and a shirt and a shirt and a shirt and a shirt and a and shirt and a and and and and and and and,0.018120458368871713,0.09374999999999999
+preinject_v2,LSTM,Deep_Large,3686924335_3c51e8834a.jpg,a man is a a a white and white and white and white and white and white and white and white and white and white and white and white and white and white and,0.007205335066302803,0.10309278350515465
+preinject_v2,LSTM,Deep_Large,2843695880_eeea6c67db.jpg,a man in a a shirt is in a a a a and white and white and white and white and white and white and white and white and white and white and white,0.005474870710453651,0.07142857142857142
+preinject_v2,LSTM,Deep_Large,2594459477_8ca0121a9a.jpg,a man in a shirt is on a a a and white and white and white and white and white and white and white and white and white and white and white and white,0.015237428485138389,0.15463917525773196
+preinject_v2,LSTM,Deep_Large,3257277774_aba333a94c.jpg,a dog is in a dog,0.09554427922043669,0.42592592592592593
+preinject_v2,LSTM,Deep_Large,3613030730_0b28b079ba.jpg,a man in a shirt is on a a a a and white and white and white and white and white and white and white and and and and and and and and and,0.0077426364109627836,0.11278195488721804
+preinject_v2,LSTM,Deep_Large,3164415865_612f9fd8bc.jpg,a man in a a shirt is on a a a a blue blue a a blue blue a blue blue a blue blue a blue and a blue and a blue blue blue,0.006510755202591488,0.10309278350515465
+preinject_v2,LSTM,Deep_Large,1439282131_3814d6ae04.jpg,a dog is in a a dog,0.039281465090051315,0.17045454545454547
+preinject_v2,LSTM,Deep_Large,2046222127_a6f300e202.jpg,a man in a shirt is on a a a a a and a and and and and and and and and and and and and and and and and and and and and,0.07541356871486662,0.2796992481203008
+preinject_v2,LSTM,Deep_Large,3271468462_701eb88d3b.jpg,a dog is in a dog,0.07356556000975763,0.19230769230769232
+preinject_v2,LSTM,Deep_Large,2533076864_d799996433.jpg,a man in a shirt is a a a shirt and a and and and and and and and and and and and and and and and and and shirt and a and shirt,0.008186841244220632,0.15037593984962405
+preinject_v2,LSTM,Deep_Large,3499720588_c32590108e.jpg,a man in a a shirt is in a a shirt and a shirt and a shirt and a and a and a and a and a and man,0.016275776313613193,0.11718749999999999
+preinject_v2,LSTM,Deep_Large,673806038_0a3682a83f.jpg,a man in a shirt is on a a a and white and white and white and white and white and white and white and white and white and white and white and white,0.015237428485138389,0.14634146341463414
+preinject_v2,LSTM,Deep_Large,571507143_be346225b7.jpg,a man in a a shirt is in a shirt and a shirt,0.036362270465000714,0.13157894736842107
+preinject_v2,LSTM,Deep_Large,2924884899_f512c84332.jpg,a man in a a shirt and a shirt and a shirt and a shirt and a and a and a and a and shirt and a and a and a and and and,0.07205335066302805,0.30000000000000004
+preinject_v2,LSTM,Deep_Large,1130401779_8c30182e3e.jpg,a dog is in a dog,0.08633400213704504,0.20776874435411022
+preinject_v2,LSTM,Deep_Large,3431101934_99a6c55914.jpg,a girl in a shirt is on a a a a a a and a and a and and and and and and and and and and and and and and and and and,0.02084148650121017,0.23731203007518795
+preinject_v2,LSTM,Deep_Large,226607225_44d696db6b.jpg,a dog is in a a dog,0.034052233956373766,0.12658227848101264
+preinject_v2,LSTM,Deep_Large,3463268965_f22884fc69.jpg,a man in a a shirt is on a a a a a a a a a a a a a a a a a a and a and a and a and a,0.042408166168451535,0.26574193240859906
+preinject_v2,LSTM,Deep_Large,3437315443_ba2263f92e.jpg,a man in a shirt is in a a shirt and a and and and girl,0.036787632499277766,0.31761048790377083
+preinject_v2,LSTM,Deep_Large,3589367895_5d3729e3ea.jpg,a man in a a and a and and and and and and and and and and and and and and and and and and and and and and and and and and and,0.013768570909032773,0.12096774193548387
+preinject_v2,LSTM,Deep_Large,2372572028_53b76104a9.jpg,a man in a shirt is on a a a a shirt,0.04167227247694064,0.18115942028985507
+preinject_v2,LSTM,Deep_Large,3030962048_f71948226c.jpg,a man in a a shirt and a shirt and a shirt and a shirt and a shirt and a and and and and and and and and and and and and and and,0.0077426364109627836,0.1056338028169014
+preinject_v2,LSTM,Deep_Large,3392019836_c7aeebca1c.jpg,a man in a a shirt and a shirt and a shirt and a shirt and a and shirt and a and and and and and and and and and and and and and,0.03222323801783205,0.20898876404494382
+preinject_v2,LSTM,Deep_Large,2289096282_4ef120f189.jpg,a man in a shirt is on a a a a a a a a blue shirt,0.03201406061582137,0.23364485981308414
+preinject_v2,LSTM,Deep_Large,537359971_6e28f5e66e.jpg,a man in a woman in a a shirt and a and shirt and a and and and and and and and and and and and and and and and and and and and,0.0077426364109627836,0.09433962264150943
+preinject_v2,LSTM,Deep_Large,319870744_0e0138d205.jpg,a man in a a shirt is on a a a a blue blue blue blue blue blue blue blue blue blue a blue blue blue a blue and a blue and a blue,0.017313061339977776,0.21739130434782608
+preinject_v2,LSTM,Deep_Large,535529555_583d89b7f2.jpg,a dog is in a dog,0.040824829046386304,0.16666666666666666
+preinject_v2,LSTM,Deep_Large,3415809168_af9dabdba5.jpg,a dog is in a dog,0.16128547594605175,0.3626016260162602
+preinject_v2,LSTM,Deep_Large,467858872_f3431df682.jpg,a dog is in a dog,0.015118370289367042,0.12195121951219513
+preinject_v2,LSTM,Deep_Large,1299459550_1fd5594fa2.jpg,a man in a shirt is on a a a a and and and and and and and and and and and and and and and and and and and and and and and,0.013768570909032773,0.13245033112582785
+preinject_v2,LSTM,Deep_Large,3318995586_c2bc50b92e.jpg,a man in a shirt is in a a shirt and a and shirt,0.04131551591106297,0.19230769230769232
+preinject_v2,LSTM,Deep_Large,3079787482_0757e9d167.jpg,a man in a shirt is on a a a and and and and and and and and and and and and and and and and and and and and and and and and,0.007205335066302803,0.06622516556291393
+preinject_v2,LSTM,Deep_Large,3037558954_20115165e3.jpg,a man in a a blue shirt is in a a a blue and blue and blue and blue and blue and blue and blue and blue and and and and and and and,0.014558491217854977,0.18867924528301885
+preinject_v2,LSTM,Deep_Large,2176874361_2b4149010b.jpg,a dog is in a dog,0.10928032077900922,0.16260162601626016
+preinject_v2,LSTM,Deep_Large,2328104318_5a43ca170c.jpg,a man in a shirt is on a a a a a and a and and and and and and and and and and shirt and a and shirt and a shirt,0.09557083774398005,0.30353913717385694
+preinject_v2,LSTM,Deep_Large,3203707977_cc9448fecb.jpg,a man in a woman in a a and a and a and and and and and and and and and and and and and and and and and and and and and and,0.020053583653512706,0.2608695652173913
+preinject_v2,LSTM,Deep_Large,3694093650_547259731e.jpg,a man in a a shirt and a shirt and a shirt and a shirt and a shirt and a shirt and a and shirt and a and and and and and and and,0.013768570909032773,0.1056338028169014
+preinject_v2,LSTM,Deep_Large,241046599_28b0ca7b9f.jpg,a dog is in a dog,0.08690744034581972,0.21739130434782605
+preinject_v2,LSTM,Deep_Large,2257294002_0073263c54.jpg,a man in a shirt is in a blue shirt,0.06311969078225892,0.12987012987012989
+preinject_v2,LSTM,Deep_Large,210625425_fb1ef5d23b.jpg,a man is a a a a blue blue a blue and a and and and and and and white and blue and blue and blue shirt and a and blue shirt,0.016237908184412748,0.09615384615384617
+preinject_v2,LSTM,Deep_Large,3612249030_e2829ffa31.jpg,a man in a shirt is on a a a and and and and and and and and and and and and and and and and and and and and and and and and,0.015237428485138389,0.1704545454545455
+preinject_v2,LSTM,Deep_Large,3271084924_4778d556cc.jpg,a dog is in a dog,0.05372849659117709,0.16666666666666666
+preinject_v2,LSTM,Deep_Large,1248734482_3038218f3b.jpg,a girl in a shirt is on a a a a and a and and and and and and and and and and and and and and and and and and and and and,0.08345883299682069,0.19867549668874174
+preinject_v2,LSTM,Deep_Large,765929807_de381cc764.jpg,a man in a shirt is on a a a a and and and and and and and and and and and and and and and and and and and and and and and,0.020053583653512706,0.23584905660377364
+preinject_v2,LSTM,Deep_Large,3559781965_d4ec00e506.jpg,a dog is in a dog,0.04717966008905694,0.24338624338624337
+preinject_v2,LSTM,Deep_Large,2525270674_4ab536e7ec.jpg,a dog is in a dog,0.12909944487358058,0.1904761904761905
+preinject_v2,LSTM,Deep_Large,2335619125_2e2034f2c3.jpg,a dog is in a a dog,0.0670144447096575,0.189873417721519
+preinject_v2,LSTM,Deep_Large,3195188609_01afbe46e6.jpg,a man in a red uniform is in a white white white ball,0.039073802494525016,0.3006535947712418
+preinject_v2,LSTM,Deep_Large,1975531316_8b00eeaaf7.jpg,a dog is in a dog,0.2295748846661433,0.25641025641025644
+preinject_v2,LSTM,Deep_Large,2302747917_aa0300eb68.jpg,a man in a a shirt and a shirt and a shirt and a shirt and a shirt and a shirt and a and a and a and and and and and and and,0.015237428485138389,0.10309278350515465
+preinject_v2,LSTM,Deep_Large,3229282764_a4a515f4e2.jpg,a man in a a shirt is in a a a blue and a and white and white and white and white and white and white and white and white and white and white,0.017313061339977776,0.1704545454545455
+preinject_v2,LSTM,Deep_Large,3565655045_8eb00b7423.jpg,a man in a shirt is on a a a a and white and white and white and white and white and white and white and and and and and and and and and,0.016862986607229312,0.24647887323943662

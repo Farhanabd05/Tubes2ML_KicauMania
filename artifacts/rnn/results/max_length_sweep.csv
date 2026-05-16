@@ -1,0 +1,4 @@
+architecture,model_type,variation_name,implementation,max_len,bleu_4,meteor,total_time_sec,avg_time_sec,unique_captions,top_caption_frequency
+preinject_v2,SimpleRNN,Shallow_Large,scratch,10,0.13917680433648744,0.3264797347218225,45.854097800009185,0.45854097800009186,77,0.06
+preinject_v2,SimpleRNN,Shallow_Large,scratch,20,0.13255767327719198,0.33053888759248296,56.97539979999419,0.569753997999942,88,0.06
+preinject_v2,SimpleRNN,Shallow_Large,scratch,35,0.13253861447321677,0.33050456264969114,47.207758199976524,0.47207758199976524,88,0.06
