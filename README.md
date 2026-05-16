@@ -14,16 +14,21 @@ RNN_dataset/
 images_feature/
 ```
 
-## Setup
-
+## Cara Menjalankan
+### Cara
+1. Clone repository ini
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/Farhanabd05/Tubes1ML-MobileLegend.git
 ```
+2. pip install -r requirements.txt
+3. Untuk menjalankan CNN, jalankan `cnn_notebook.ipynb` dari root repository dengan extension google Colab atau dengan link colab ini (https://colab.research.google.com/drive/1hI7YSPzZcR1KIbEYTwVGDTNYlPoZnqs5?usp=sharing) dan untuk menjalankan RNN/LSTM, jalankan `src/rnn/rnn_notebook.ipynb` dari folder `src/rnn`.
 
-## Menjalankan Notebook
-
-- CNN: jalankan `cnn_notebook.ipynb` dari root repository.
-- RNN/LSTM: jalankan `src/rnn/rnn_notebook.ipynb` dari folder `src/rnn`.
+## Kelompok 40 - MobileLegend
+|   NIM    |                  Nama                  | Pembagian Tugas                    |
+| :------: | :------------------------------------: | :--------------------------------: |
+| 13523023 |           Muhammad Aufa Farabi         | Implementasi CNN|
+| 13523042 |              Abdullah Farhan           | Implementasi     |
+| 13523051 |      Ferdinand Gabe Tua Sinaga         | Implementasi  |
 
 ## Catatan Artifact
 
