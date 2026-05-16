@@ -2,7 +2,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 
-ARCH_TAG = "context_v2"
+ARCH_TAG = "preinject_v2"
 
 
 @dataclass(frozen=True)
@@ -68,7 +68,7 @@ class RnnPaths:
         prefix = "LSTM" if model_type == "LSTM" else "SimpleRNN"
         layer_tag = {1: "Shallow", 2: "Deep", 3: "VeryDeep"}.get(int(layers), f"L{layers}")
         size_tag = "Small" if int(hidden_state) == 128 else "Mid" if int(hidden_state) == 256 else "Large"
-        return self.weights_dir / f"{prefix}_ContextV2_{layer_tag}_{size_tag}_L{int(layers)}_H{int(hidden_state)}.weights.h5"
+        return self.weights_dir / f"{prefix}_PreInjectV2_{layer_tag}_{size_tag}_L{int(layers)}_H{int(hidden_state)}.weights.h5"
 
 
 def find_repo_root(start=None):

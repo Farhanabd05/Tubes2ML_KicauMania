@@ -260,7 +260,7 @@ def refresh_scratch_caption_artifacts(repo_root=None):
     text_util = load_text_util(paths.root)
     reference_mapping, _ = load_caption_sequences(paths.root, text_util)
     details = pd.read_csv(detail_path)
-    _assert_context_v2(details, detail_path)
+    _assert_current_arch(details, detail_path)
     required_columns = {"architecture", "model_type", "variation_name", "image_name", "generated_caption"}
     missing_columns = required_columns.difference(details.columns)
     if missing_columns:
@@ -290,7 +290,7 @@ def refresh_scratch_caption_artifacts(repo_root=None):
     summary_path = paths.result_file("scratch_variation_eval.csv")
     if summary_path.exists():
         summary = pd.read_csv(summary_path)
-        _assert_context_v2(summary, summary_path)
+        _assert_current_arch(summary, summary_path)
         summary = summary.drop(columns=["scratch_bleu_4", "scratch_meteor", "unique_captions", "top_caption_frequency"], errors="ignore")
         summary = summary.merge(metrics, on=["architecture", "model_type", "variation_name"], how="left")
         ordered_columns = [
@@ -326,7 +326,7 @@ def compare_best_keras_vs_scratch(repo_root=None, split="test", limit=None, max_
     eval_path = paths.result_file("scratch_variation_eval.csv")
     if eval_path.exists():
         variation_eval = pd.read_csv(eval_path)
-        _assert_context_v2(variation_eval, eval_path)
+        _assert_current_arch(variation_eval, eval_path)
     else:
         variation_eval, _ = evaluate_all_variations(paths.root, split=split, limit=limit, max_len=max_len)
 
@@ -434,7 +434,7 @@ def qualitative_samples(repo_root=None, limit=None, n_per_bucket=4):
         _, details = evaluate_all_variations(paths.root, limit=limit)
     else:
         details = pd.read_csv(detail_path)
-        _assert_context_v2(details, detail_path)
+        _assert_current_arch(details, detail_path)
 
     text_util = load_text_util(paths.root)
     reference_mapping, _ = load_caption_sequences(paths.root, text_util)
@@ -476,7 +476,7 @@ def qualitative_samples(repo_root=None, limit=None, n_per_bucket=4):
 def assert_anti_collapse_acceptance(repo_root=None, min_unique=20, max_top_caption_frequency=0.25):
     pd = _pd()
     paths = RnnPaths.from_root(repo_root)
-    results = _read_context_csv_if_exists(paths.result_file("scratch_variation_eval.csv"), pd)
+    results = _read_arch_csv_if_exists(paths.result_file("scratch_variation_eval.csv"), pd)
     if results.empty:
         raise FileNotFoundError("scratch_variation_eval.csv belum ada untuk acceptance check.")
 
@@ -503,7 +503,7 @@ def load_training_history(repo_root=None):
     pd = _pd()
     paths = RnnPaths.from_root(repo_root)
     history = pd.read_csv(paths.training_history_file)
-    _assert_context_v2(history, paths.training_history_file)
+    _assert_current_arch(history, paths.training_history_file)
     for column in ("history_loss", "history_val_loss"):
         history[column] = history[column].apply(ast.literal_eval)
     return history
@@ -515,12 +515,13 @@ def write_analysis_summary(repo_root=None):
     variation_path = paths.result_file("scratch_variation_eval.csv")
     comparison_path = paths.result_file("keras_vs_scratch.csv")
     max_len_path = paths.result_file("max_length_sweep.csv")
-    variation = _read_context_csv_if_exists(variation_path, pd)
-    comparison = _read_context_csv_if_exists(comparison_path, pd)
-    max_len = _read_context_csv_if_exists(max_len_path, pd)
+    variation = _read_arch_csv_if_exists(variation_path, pd)
+    comparison = _read_arch_csv_if_exists(comparison_path, pd)
+    max_len = _read_arch_csv_if_exists(max_len_path, pd)
 
     lines = ["# RNN/LSTM Experiment Summary", ""]
     lines.append(f"- Architecture: `{ARCH_TAG}`.")
+    lines.append("- Model follows the assignment pre-inject design: `Image_Projection` is inserted as timestep `t=-1` before `<start>`, then `Drop_Image_Timestep` aligns recurrent outputs with shifted caption targets.")
     if not variation.empty:
         best = variation.sort_values("scratch_bleu_4", ascending=False).iloc[0]
         lines.append(f"- Best scratch model: {best.model_type} {best.variation_name} with BLEU-4={best.scratch_bleu_4:.4f}.")
@@ -536,7 +537,7 @@ def write_analysis_summary(repo_root=None):
         lines.append(f"- Best max caption length in sweep: {int(best_len.max_len)} with BLEU-4={best_len.bleu_4:.4f}.")
     lines.extend(
         [
-            "- Context-v2 smoke checks cover the 34-step caption input/output shape and sample-weight pad masking.",
+            "- Preinject-v2 smoke checks cover the 34-step caption input/output shape, t=-1 image timestep, and sample-weight pad masking.",
             "- LSTM is expected to handle longer dependencies better than SimpleRNN because gates reduce vanishing-gradient effects.",
             "- Use `qualitative_samples.csv` for the 10-image high/medium/low qualitative comparison in the report.",
         ]
@@ -573,7 +574,7 @@ def _pd():
     return pd
 
 
-def _assert_context_v2(frame, path):
+def _assert_current_arch(frame, path):
     if "architecture" not in frame.columns:
         raise ValueError(f"{path} adalah artifact lama tanpa kolom architecture; regenerate {ARCH_TAG}.")
     invalid = set(frame["architecture"].dropna().astype(str)) - {ARCH_TAG}
@@ -581,11 +582,11 @@ def _assert_context_v2(frame, path):
         raise ValueError(f"{path} bukan artifact {ARCH_TAG}: {sorted(invalid)}")
 
 
-def _read_context_csv_if_exists(path, pd):
+def _read_arch_csv_if_exists(path, pd):
     if not path.exists():
         return pd.DataFrame()
     frame = pd.read_csv(path)
-    _assert_context_v2(frame, path)
+    _assert_current_arch(frame, path)
     return frame
 
 

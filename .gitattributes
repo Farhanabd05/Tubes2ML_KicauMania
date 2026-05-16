@@ -1,1 +1,1 @@
-artifacts/rnn/weights/*ContextV2*.weights.h5 filter=lfs diff=lfs merge=lfs -text
+artifacts/rnn/weights/*PreInjectV2*.weights.h5 filter=lfs diff=lfs merge=lfs -text

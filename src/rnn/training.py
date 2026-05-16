@@ -203,7 +203,7 @@ def _pd():
     return pd
 
 
-def _assert_context_v2(frame, path):
+def _assert_current_arch(frame, path):
     if "architecture" not in frame.columns:
         raise ValueError(f"{path} adalah artifact lama tanpa kolom architecture; regenerate {ARCH_TAG}.")
     invalid = set(frame["architecture"].dropna().astype(str)) - {ARCH_TAG}
@@ -215,7 +215,7 @@ def _load_previous_history(pd, path):
     if not path.exists():
         return pd.DataFrame()
     history = pd.read_csv(path)
-    _assert_context_v2(history, path)
+    _assert_current_arch(history, path)
     return history
 
 

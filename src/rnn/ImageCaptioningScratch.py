@@ -75,9 +75,10 @@ class ImageCaptioningModel:
     def generate_caption(self, image_feature, max_len=35):
         self.reset_states()
         
-        image_context = np.tanh(self.dense_projection.forward(
+        image_context = self.dense_projection.forward(
             image_feature.reshape(1, -1)
-        )[0])
+        )[0]
+        self.forward_step(image_context)
         
         start_token = self._token_id("start")
         end_token = self._token_id("end")
@@ -87,7 +88,6 @@ class ImageCaptioningModel:
         
         for _ in range(min(max_len, self.text_util.sequence_length - 1)):
             x_t = self.embedding.forward(current_token) 
-            x_t = np.concatenate([x_t, image_context])
             
             probs = self.forward_step(x_t)
             
@@ -110,6 +110,8 @@ class ImageCaptioningModel:
         keras_encoder,
         target_size=(299, 299),
         preprocess_fn=None,
+        feature_mean=None,
+        feature_std=None,
         max_len=35,
     ):
         feature = self.extract_feature_from_image(
@@ -118,6 +120,8 @@ class ImageCaptioningModel:
             target_size=target_size,
             preprocess_fn=preprocess_fn,
         )
+        if feature_mean is not None and feature_std is not None:
+            feature = ((feature - feature_mean) / feature_std).astype(np.float32)
         return self.generate_caption(feature, max_len=max_len)
 
     @staticmethod

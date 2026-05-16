@@ -3,8 +3,9 @@ def caption_steps(sequence_length: int) -> int:
 
 
 def build_caption_model(is_lstm: bool, layers: int, hidden_state: int, vocab_size: int, sequence_length: int = 35):
-    from tensorflow.keras.layers import Concatenate, Dense, Embedding, Input, LSTM, RepeatVector, SimpleRNN
+    from tensorflow.keras.layers import Concatenate, Dense, Embedding, Input, Lambda, LSTM, Reshape, SimpleRNN
     from tensorflow.keras.models import Model
+    from tensorflow.keras.optimizers import Adam
 
     steps = caption_steps(sequence_length)
     if steps < 1:
@@ -13,8 +14,8 @@ def build_caption_model(is_lstm: bool, layers: int, hidden_state: int, vocab_siz
     image_input = Input(shape=(2048,), name="Image_Input")
     caption_input = Input(shape=(steps,), name="Caption_Input")
 
-    image_context = Dense(256, activation="tanh", name="Image_Projection")(image_input)
-    image_context = RepeatVector(steps, name="Image_Context_Repeat")(image_context)
+    image_context = Dense(256, name="Image_Projection")(image_input)
+    image_context = Reshape((1, 256), name="Image_Timestep")(image_context)
 
     caption_embedding = Embedding(
         input_dim=vocab_size,
@@ -23,7 +24,7 @@ def build_caption_model(is_lstm: bool, layers: int, hidden_state: int, vocab_siz
         name="Token_Embedding",
     )(caption_input)
 
-    x = Concatenate(axis=-1, name="Context_Concat")([caption_embedding, image_context])
+    x = Concatenate(axis=1, name="PreInject_Concat")([image_context, caption_embedding])
     recurrent_cls = LSTM if is_lstm else SimpleRNN
     prefix = "LSTM" if is_lstm else "RNN"
 
@@ -34,11 +35,12 @@ def build_caption_model(is_lstm: bool, layers: int, hidden_state: int, vocab_siz
             name=f"{prefix}_Layer_{idx + 1}",
         )(x)
 
+    x = Lambda(lambda tensor: tensor[:, 1:, :], name="Drop_Image_Timestep")(x)
     output = Dense(vocab_size, activation="softmax", name="Output_Layer")(x)
 
     model = Model(inputs=[image_input, caption_input], outputs=output)
     model.compile(
-        optimizer="adam",
+        optimizer=Adam(clipnorm=1.0),
         loss="sparse_categorical_crossentropy",
     )
     return model
