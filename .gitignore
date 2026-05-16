@@ -204,10 +204,10 @@ cython_debug/
 tempCodeRunnerFile.py
 
 # ML artifacts generated locally/Kaggle.
-artifacts/rnn/weights/
+# Model weights under artifacts/rnn/weights are tracked with Git LFS.
+artifacts/rnn/weights/*.h5
+!artifacts/rnn/weights/*ContextV2*.weights.h5
 artifacts/rnn/feature_scaler_*.npz
-*.weights.h5
-*.h5
 
 # Ruff stuff:
 .ruff_cache/
