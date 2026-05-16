@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 3. Jalankan notebook.
 
-- CNN: Untuk menjalankan CNN, jalankan `cnn_notebook.ipynb` dari root repository dengan extension google Colab atau dengan link colab ini (https://colab.research.google.com/drive/1hI7YSPzZcR1KIbEYTwVGDTNYlPoZnqs5?usp=sharing)
+- CNN: Untuk menjalankan CNN, jalankan `cnn_notebook.ipynb` dari root repository dengan extension google Colab atau dengan link colab ini (https://colab.research.google.com/drive/1hI7YSPzZcR1KIbEYTwVGDTNYlPoZnqs5?usp=sharing), jalankan dengan memakai runtime type T4 (Python 3) GPU
 - RNN/LSTM lokal: `src/rnn/rnn_notebook.ipynb`
 - RNN/LSTM Kaggle GPU: `src/rnn/rnn_notebook_kaggle_gpu.ipynb`
 
